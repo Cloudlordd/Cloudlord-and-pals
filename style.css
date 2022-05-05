@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Sora', sans-serif;
+    font-size: 22px;
+}
+body{
+    background-color: #FFF6EE;
+}
+
+header{
+    color: #000;
+     padding:2% 12%; 
+     border-bottom:2px solid;
+     position:static;
+     /* top:0;
+     bottom:0;
+     left: 0;
+     right: 0; */
+       
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+   /* margin: 4% 12%; */
+
+}
+nav h5{
+    font-weight: 800;
+}
+.nav-item{
+    display: flex;
+    padding-top: 10px;
+}
+.nav-item li{
+    list-style: none;
+    
+    
+}
+.nav-item li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    padding:5px 20px
+}
+
+.nav-item li a:focus{
+    background-color: #000;
+    color: #fff;
+       
+}
+section{
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+    padding: 0 15%;
+}
+
+.quote{
+    font-size: 15px;
+}
+main{
+    padding:3% 12%;
+  background-color: #000;
+  background-image: radial-gradient(#fff 10%, transparent 11%),
+    radial-gradient(#fff 10%, transparent 11%);
+  background-size: 60px 60px;
+  background-position: 0 0, 30px 30px;
+  /* background-repeat: no-repeat; */
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero > .right_hero,.left_hero{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+.hello{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 8px 10px 0px 4px rgba(255, 255, 255, 0.84);
+   color: rgb(0, 0, 0);
+    /* font-style: italic; */
+    font-size: 30px;
+    word-spacing: 0.2em;
+    text-transform: uppercase;
+
+    
+}
+.auto-input{
+    margin-top: 4em;
+        position: relative;
+        background: #FFF6EE;
+        color: #000000;
+        /* font-family: Arial; */
+        font-size: 22px;
+         line-height: 35px; 
+        box-shadow: 8px 10px 0px 4px rgba(255, 255, 255, 0.84);
+        text-align: center;
+        width: 800px;
+        height: 250px;
+        border-radius: 10px;
+        padding: 30px;
+        transform: rotate(350deg);
+        font-weight: 400;
+        text-transform: capitalize;
+        
+    }
+    .auto-input:after {
+        content: '';
+        position: absolute;
+        display: block;
+        width: 0;
+        z-index: 1;
+        border-style: solid;
+        border-width: 0 0 38px 32px;
+        border-color: transparent transparent  #FFF6EE transparent;
+        top: -38px;
+        left: 31%;
+        margin-left: -16px;
+    }
+    
+    /* color:rgb(158, 91, 158) ; */
+
+
+
+/* auto typing */
+    
+
+.collection{
+    display: flex;
+    background-color: #000;
+    justify-content: center;
+}
+/* .auto-input{
+    padding: 5% 12% ;
+    font-size: 30px;
+    color: #fff;
+    ;
+    font-weight: 600;
+} */
