@@ -1,0 +1,100 @@
+/* GOOGLE FONT CDN */
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+/* CSS VARIABLES FOR CUSTOM STYLING */
+:root {
+    --scroll-behavior: smooth;
+    --white-color:#fff;
+    --black-color:#000;
+    --main-side-padding:0 12%;
+    --nav-font-weight:500;
+    --main-topdown-padding:7% 0;
+ }
+ 
+ html{
+     scroll-behavior: var(--scroll-behavior);
+ }
+ 
+ /* DEFAULT SETTING FOR UNNECCESSARY STYLES */
+ * {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     font-family: 'Sora', sans-serif;
+     font-size: 22px;
+ }
+ 
+ 
+ 
+ body {
+     background-color: var(--white-text-color);
+ }
+ 
+ header {
+     color: var(--black-text-color);
+     padding: 3% 12%;
+     position: static;
+   
+ }
+ 
+ nav {
+     display: flex;
+     justify-content: space-between;
+ 
+ }
+ 
+ nav h5 {
+     font-weight:var(--nav-font-weight);
+ }
+ 
+ .nav-item {
+     display: flex;
+     padding-top: 10px;
+ }
+ 
+ .nav-item li {
+     list-style: none;
+ 
+ }
+ 
+ .nav-item li a {
+     text-decoration: none;
+     color: var(--black-text-color);
+     font-weight: var(--nav-font-weight);
+     padding: 5px 20px
+ }
+ 
+ .nav-item li a:hover {
+     background-color: var(--black-color);
+     color: var(--white-color);
+ 
+ }
+
+
+ /* FOOTER */
+
+ footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+    color: #fff;
+    padding: 1% 12%;
+    
+}
+footer p{
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: capitalize;
+    word-spacing: 5px;
+}
+.social-media{
+    border-top: 2px dotted #fff;
+    display: flex;
+    justify-content: space-between;
+}
+.social-media a{
+    color: #fff;
+    font-size: 25px;
+    margin-right: 2rem;
+}

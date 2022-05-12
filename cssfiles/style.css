@@ -1,66 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap');
-
-html {
-    scroll-behavior: smooth;
-}
-
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: 'Sora', sans-serif;
-    font-size: 22px;
-}
-
-body {
-    background-color: #FFF6EE;
-}
-
-header {
-    color: #000;
-    padding: 2% 12%;
-    border-bottom: 2px solid;
-    position: static;
-    /* top:0;
-     bottom:0;
-     left: 0;
-     right: 0; */
-
-}
-
-nav {
-    display: flex;
-    justify-content: space-between;
-    /* margin: 4% 12%; */
-
-}
-
-nav h5 {
-    font-weight: 800;
-}
-
-.nav-item {
-    display: flex;
-    padding-top: 10px;
-}
-
-.nav-item li {
-    list-style: none;
-
-}
-
-.nav-item li a {
-    text-decoration: none;
-    color: #000;
-    font-weight: 600;
-    padding: 5px 20px
-}
-
-.nav-item li a:focus {
-    background-color: #000;
-    color: #fff;
-
-}
 
 #marquee {
     background-color: #000;
@@ -74,25 +11,25 @@ nav h5 {
 }
 
 main {
-    padding: 6% 12%;
-    background-color: #000;
-    background-image: radial-gradient(#fff 10%, transparent 11%),
-        radial-gradient(#fff 10%, transparent 11%);
-    background-size: 60px 60px;
-    background-position: 0 0, 30px 30px;
-    /* background-repeat: no-repeat; */
+ /* padding: 2% 0;  */
 }
 
+
 .hero {
+    padding: var(--main-side-padding);
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #000;
+    background-image: radial-gradient(#fff 10%, transparent 11%), radial-gradient(#fff 10%, transparent 11%);
+    background-size: 60px 60px;
+    background-position: 0 0, 30px 30px;
 }
 
-.hero>.right_hero, .left_hero {
+.hero_content {
+    padding:var(--main-topdown-padding);
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     justify-content: space-between;
 }
 
@@ -100,20 +37,17 @@ main {
     background-color: rgb(255, 255, 255);
     box-shadow: 8px 10px 0px 4px rgba(255, 255, 255, 0.84);
     color: rgb(0, 0, 0);
-    /* font-style: italic; */
     font-size: 30px;
     word-spacing: 0.2em;
     text-transform: uppercase;
+ }
 
-
-}
-
+ /* AUTO TYPING STYLES */
 .auto-input {
     margin-top: 4em;
     position: relative;
     background: #FFF6EE;
     color: #000000;
-    /* font-family: Arial; */
     font-size: 22px;
     line-height: 35px;
     box-shadow: 8px 10px 0px 4px rgba(255, 255, 255, 0.84);
@@ -141,12 +75,6 @@ main {
     margin-left: -16px;
 }
 
-/* color:rgb(158, 91, 158) ; */
-
-
-
-/* auto typing */
-
 
 .collection {
     display: flex;
@@ -156,10 +84,6 @@ main {
 
 aside, #video {
     padding: 7% 12%;
-    /* display: flex;
-    flex-direction: column; */
-    /* justify-content: center; */
-    /* align-items: center; */
 }
 
 aside h3 {
@@ -195,22 +119,9 @@ footer {
     justify-content: space-between;
     background-color: #000;
     color: #fff;
-    padding: 2% 12%;
+    padding: 1% 12%;
     
 }
-footer p{
-    font-size: 15px;
-    font-weight: 400;
-    text-transform: capitalize;
-    word-spacing: 5px;
-}
-.social-media{
-    border-top: 2px dotted #fff;
-    display: flex;
-    justify-content: space-between;
-}
-.social-media a{
-    color: #fff;
-    font-size: 25px;
-    margin-right: 2rem;
-}
+
+
+/* MOBILE STYLING */
