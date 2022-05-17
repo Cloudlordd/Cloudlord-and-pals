@@ -10,9 +10,6 @@
     font-size: 15px;
 }
 
-main {
- /* padding: 2% 0;  */
-}
 
 
 .hero {
@@ -112,6 +109,12 @@ aside h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+    /* padding: 5% 20%; */
+}
+
+#video video{
+    width: 80em;
+    padding: 0 5em;
 }
 
 footer {
@@ -124,4 +127,94 @@ footer {
 }
 
 
+.auto-input{
+
+}
+
 /* MOBILE STYLING */
+@media(max-width:1000px){
+    #video video{
+        width: 70em;
+        
+    }
+
+}
+
+@media(max-width:900px){
+  
+    .auto-input {
+       
+        font-size: 20px;
+        line-height: 35px;
+        box-shadow: 8px 10px 0px 4px rgba(255, 255, 255, 0.84);
+        text-align: center;
+        width: 500px;
+        height: 400px;
+        border-radius: 10px;
+        padding: 20px;
+        transform: rotate(360deg);
+        font-weight: 400;
+        text-transform: capitalize;
+    }
+    
+
+    #video video{
+         width: 45em; 
+    }
+}
+
+
+
+@media(max-width:700px){
+
+
+.hero{
+    padding: 10% 40%;
+  }
+.auto-input {
+    font-size: 15px;
+    line-height: 23px;
+    box-shadow: 5px 7px 0px 3px rgba(255, 255, 255, 0.84);
+    text-align: center;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    padding: 10px;
+    transform: rotate(360deg);
+    font-weight: 200;
+    text-transform: capitalize;
+     /* margin-top: 10%; */
+}
+}
+
+@media(max-width:650px){
+
+    #video video{
+        width: 35em; 
+   }
+}
+
+
+@media(max-width:550px){
+    
+    #video video{
+        width: 25em; 
+   }
+}
+  
+@media(max-width:390px){
+    
+    #video video{
+        width: 20em;
+        padding: 0; 
+   }
+}
+  
+@media(max-width:350px){
+    
+    #video video{
+        width: 15em;
+        
+   }
+}
+  

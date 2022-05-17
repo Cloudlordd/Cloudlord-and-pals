@@ -26,17 +26,21 @@
   <body>
     <!-- HEADER CONTAINER -->
     <header>
-      <div data-aos="fade-down">
-        <nav>
-          <h5>Cloudlord_ <br />And_Pals👨🏿‍💻/></h5>
-          <ul class="nav-item">
-            <li><a href="#">Home</a></li>
-            <li><a href="./htmlfiles/members.html">Pals</a></li>
-            <li><a href="#">Project</a></li>
-            <li><a href="#">About</a></li>
-          </ul>
-        </nav>
-      </div>
+      <nav>
+        <input id="nav-toggle" type="checkbox">
+        <div class="logo"><strong>Cloudlord_ <br />And_Pals👨🏿‍💻/></strong></div>
+        <ul class="links">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">Pals</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">About</a></li>
+        </ul>
+        <label for="nav-toggle" class="icon-burger">
+          <div class="line"></div>
+          <div class="line"></div>
+          <div class="line"></div>
+        </label>
+      </nav>
     </header>
 
     <!-- HERO SECTION -->
@@ -76,7 +80,7 @@
       </aside>
 
       <section id="video">
-        <video width="900" controls>
+        <video controls>
           <source src="./video/Untitled_ May 12, 2022 11_22 PM.mp4" type="video/mp4" />
           <source src="mov_bbb.ogg" type="video/ogg" />
           Your browser does not support HTML video.
@@ -84,8 +88,8 @@
       </section>
     </main>
 
-    <!-- FOOTER CONTAINER -->
-    <footer>
+    <!-- FOOTER CONTAINER  -->
+     <footer>
       <p>Powered by cloudLord👨🏿‍💻</p>
       <div class="social-media">
         <a href="https://twitter.com/Cloud_Lordd"
