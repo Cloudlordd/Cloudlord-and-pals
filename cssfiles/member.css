@@ -4,7 +4,8 @@ aside{
     background-image: radial-gradient(#fff 10%, transparent 11%), radial-gradient(#fff 10%, transparent 11%);
     background-size: 60px 60px;
     background-position: 0 0, 30px 30px;
-    margin-bottom: 10%;
+    /* margin-bottom: 10%; */
+    margin-top:6em;
 
     
     
@@ -129,4 +130,11 @@ img[src]{
 
 .social-media #media-link{
   color: #000;
+}
+
+@media(max-width:500px){
+  .title{
+    font-size:15px;
+    margin-bottom: 10px;
+}
 }
