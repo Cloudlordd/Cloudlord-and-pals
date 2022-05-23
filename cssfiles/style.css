@@ -1,19 +1,7 @@
 
-#marquee {
-    background-color: #000;
-    text-align: center;
-    color: #fff;
-    padding: 0 15%;
-}
-
-.quote {
-    font-size: 15px;
-}
-
-
 
 .hero {
-    padding: var(--main-side-padding);
+    padding: var( --main-topdown-padding, --main-side-padding);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -73,15 +61,14 @@
 }
 
 
-.collection {
-    display: flex;
-    background-color: #000;
-    justify-content: center;
-}
+
 
 aside, #video {
+    margin-top: 10em;
     padding: 7% 12%;
 }
+
+
 
 aside h3 {
     background-color: rgb(0, 0, 0);
@@ -96,24 +83,37 @@ aside h3 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* flex-wrap: wrap; */
     margin-top: 7%;
+    
 }
 
 #tracks img {
-    width: 25%;
-    height: 20%;
+    width: 55%;
+    height: 20vh;
     text-align: center;
+    border-radius: 50%;
 }
 
 #video {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    flex-direction: column;
+    
+
     /* padding: 5% 20%; */
 }
 
+#video h3{
+   margin-bottom: 5%;
+   font-size: 3em;
+   font-style: italic;
+   text-transform: capitalize;
+}
+
 #video video{
-    width: 80em;
+    width: 65em;
     padding: 0 5em;
 }
 
@@ -132,9 +132,10 @@ footer {
 }
 
 /* MOBILE STYLING */
+
 @media(max-width:1000px){
     #video video{
-        width: 70em;
+        width: 60em;
         
     }
 
@@ -162,6 +163,9 @@ footer {
          width: 45em; 
     }
 }
+.hero{
+     padding: 10% 0; 
+}
 
 
 
@@ -169,10 +173,15 @@ footer {
 
 
 .hero{
-    padding: 10% 40%;
+    padding: 20% 0;
   }
+
+  .hello {
+    font-size: 25px;
+
+ }
 .auto-input {
-    font-size: 15px;
+    font-size: 19px;
     line-height: 23px;
     box-shadow: 5px 7px 0px 3px rgba(255, 255, 255, 0.84);
     text-align: center;
@@ -181,9 +190,27 @@ footer {
     border-radius: 10px;
     padding: 10px;
     transform: rotate(360deg);
-    font-weight: 200;
+    font-weight: 550;
     text-transform: capitalize;
      /* margin-top: 10%; */
+}
+
+#video h3{
+
+
+
+
+
+}
+ 
+#tracks{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#tracks >div{
+    margin-top: 13%;
 }
 }
 
@@ -200,6 +227,14 @@ footer {
     #video video{
         width: 25em; 
    }
+   .hero{
+    padding: 25% 0;
+}
+
+.hello {
+    font-size: 20px;
+
+ }
 }
   
 @media(max-width:390px){
@@ -208,6 +243,10 @@ footer {
         width: 20em;
         padding: 0; 
    }
+
+   .hero{
+    padding: 30% 0;
+}
 }
   
 @media(max-width:350px){

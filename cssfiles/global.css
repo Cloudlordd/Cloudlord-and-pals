@@ -9,7 +9,7 @@
     --black-color:#000;
     --main-side-padding:0 12%;
     --nav-font-weight:500;
-    --main-topdown-padding:10% 0;
+    --main-topdown-padding:6% 0;
  }
 
 *{
@@ -30,7 +30,7 @@
 	right: 0;
 	top: 0;
 	font-family: 'Montserrat', sans-serif;
-	padding: 5% 12%;
+	padding: 2% 12%;
 	height: 100px;
 background-color: #fff;
 border-bottom: 2px solid #000;
@@ -46,6 +46,7 @@ nav .logo {
 	align-items: center;
 	font-size: 24px;
 	color: #000;
+    
 }
 nav .links {
 	/* float: right; */
@@ -59,17 +60,21 @@ nav .links {
 }
 nav .links li {
 	list-style: none;
+    margin:0 0.5em;
 }
 nav .links a {
-	display: block;
-/*padding: 1em; */
-	font-size: 16px;
+	/* display: block; */
+     padding: 0.5em 1em;
+	font-size: 20px;
 	font-weight: 500;
 	color: #000;
 	text-decoration: none;
 }
 
- 
+nav .links a:hover{
+    background-color: #000;
+    color: #fff;
+}
 
 #nav-toggle {
 	position: absolute;
@@ -92,7 +97,7 @@ nav .icon-burger .line {
 }
 
 /* MOBILE VIEW */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 850px) {
 	nav .logo {
 		/* float: none; */
 		width: auto;
