@@ -148,6 +148,7 @@ nav .icon-burger .line {
     background-color: #000;
     color: #fff;
     padding: 1% 12%;
+	flex-wrap: wrap;
     
 }
 footer p{
@@ -156,13 +157,21 @@ footer p{
     text-transform: capitalize;
     word-spacing: 5px;
 }
-.social-media{
+ footer .social-media{
     border-top: 2px dotted #fff;
     display: flex;
     justify-content: space-between;
 }
-.social-media a{
+footer .social-media a{
     color: #fff;
     font-size: 25px;
     margin-right: 2rem;
+}
+
+@media(max-width:500px){
+	nav .logo {
+	
+		font-size: 15px;
+		
+}
 }
