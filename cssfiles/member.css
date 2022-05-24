@@ -135,6 +135,11 @@ img[src]{
 @media(max-width:500px){
   .title{
     font-size:15px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.profile-card{
+   margin-top: 4em;
+
 }
 }

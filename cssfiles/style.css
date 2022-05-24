@@ -42,7 +42,7 @@
     border-radius: 10px;
     padding: 30px;
     transform: rotate(350deg);
-    font-weight: 400;
+    font-weight: 500;
     text-transform: capitalize;
 }
 
@@ -190,15 +190,13 @@ footer {
     border-radius: 10px;
     padding: 10px;
     transform: rotate(360deg);
-    font-weight: 550;
+    font-weight: 400;
     text-transform: capitalize;
      /* margin-top: 10%; */
 }
 
 #video h3{
-
-
-
+font-size: 20px;
 
 
 }
