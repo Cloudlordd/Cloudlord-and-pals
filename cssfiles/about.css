@@ -14,15 +14,13 @@ section{
 
 article{
    display: flex;
-   /* align-items: flex-start; */
-   
+   flex-wrap: wrap;
+   gap: 30px;
 
-    
+
 }
 
-article .profile{
-    margin-left: 20px;
-}
+
 
 article .profile span{
     font-weight: 700;
@@ -43,7 +41,7 @@ img[src]{
 }
 
 aside{
-    margin-top: 3em;
+    margin-top: 5em;
 }
 
 aside p{
@@ -77,4 +75,51 @@ button:hover{
 
 button a:hover{
     color:#000
+}
+
+@media(max-width:720px){
+    aside p{
+        line-height: 2em;
+        word-spacing: 10px;
+        margin-top: 15px;
+        font-size: 15px;
+        
+    }
+
+    article .profile p{
+        margin-top: 13px;
+    }
+}
+
+@media(max-width:500px){
+
+
+
+    section{
+        margin:5em 2.5em;
+        
+    }
+    article .profile p{
+
+        font-size: 13px;
+    }
+       
+    article .profile span{
+        font-weight: 550;
+        color:rgba(0,0,0,0.8);
+        text-transform: uppercase;
+
+    }
+}
+
+@media(max-width:300px){
+    aside p{
+        line-height: 2em;
+        word-spacing: 10px;
+        margin-top: 15px;
+        font-size: 15px;
+        
+    }
+
+    
 }
