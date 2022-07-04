@@ -1,6 +1,8 @@
+:root{
 
-
-.hero {
+    --image-url : url("../image/overlay.jpg")
+}
+/* .hero {
     padding: var( --main-topdown-padding, --main-side-padding);
     display: flex;
     justify-content: center;
@@ -9,7 +11,7 @@
     background-image: radial-gradient(#fff 10%, transparent 11%), radial-gradient(#fff 10%, transparent 11%);
     background-size: 60px 60px;
     background-position: 0 0, 30px 30px;
-}
+} */
 
 .hero_content {
     padding:var(--main-topdown-padding);
@@ -18,13 +20,28 @@
     justify-content: space-between;
 }
 
+/* overlay */
+
+.image-box {
+    background-image: 
+      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+      var(--image-url);
+  }
+
+  /* end of overlay */
+
 .hello {
-    background-color: rgb(255, 255, 255);
-    box-shadow: 8px 10px 0px 4px rgba(255, 255, 255, 0.84);
-    color: rgb(0, 0, 0);
-    font-size: 30px;
-    word-spacing: 0.2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 4em;
+    /* word-spacing: 0.2em; */
     text-transform: uppercase;
+    text-align: center;
+    padding:0 6em;
+    font-family: "open-sans";
+    font-style: italic;
  }
 
  /* AUTO TYPING STYLES */
@@ -60,14 +77,10 @@
     margin-left: -16px;
 }
 
-
-
-
 aside, #video {
     margin-top: 10em;
     padding: 7% 12%;
 }
-
 
 
 aside h3 {
@@ -79,21 +92,37 @@ aside h3 {
     font-weight: 500;
 }
 
+
+
 #tracks {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    /* flex-wrap: wrap; */
+    gap:30px;
+    flex-wrap: wrap;
     margin-top: 7%;
-    
+
 }
 
-#tracks img {
-    width: 55%;
-    height: 20vh;
-    text-align: center;
-    border-radius: 50%;
+#tracks p{
+    background-color: #000;
+    background-image: radial-gradient(#fff 10%, transparent 11%), radial-gradient(#fff 10%, transparent 11%);
+    background-size: 60px 60px;
+    background-position: 0 0, 30px 30px;
+    width: 20%;
+    height: 35vh;
+    color: #fff;
+    /* text-align: center; */
+    border-radius: 100%;
+     padding:0 1.5em 0 1.5em; 
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
+
+
 
 #video {
     display: flex;
@@ -108,8 +137,9 @@ aside h3 {
 #video h3{
    margin-bottom: 5%;
    font-size: 3em;
-   font-style: italic;
+   /* font-style: italic; */
    text-transform: capitalize;
+   color: rgba(0, 0, 0,0.6);
 }
 
 #video video{
@@ -126,12 +156,6 @@ footer {
     
 }
 
-
-
-
-.auto-input{
-
-}
 
 /* MOBILE STYLING */
 
