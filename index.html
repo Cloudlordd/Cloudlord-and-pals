@@ -13,6 +13,13 @@
     <!-- AOS library -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
 
+    <!-- particle -->
+    <script src="./js/particle.js"></script>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- end -->
+
     <!-- FONTAWESOME CDN -->
     <link
       rel="stylesheet"
@@ -26,57 +33,68 @@
   <body>
     <!-- HEADER CONTAINER -->
     <header>
-      <div data-aos="fade-down">
-        <nav>
-          <h5>Cloudlord_ <br />And_Pals👨🏿‍💻/></h5>
-          <ul class="nav-item">
-            <li><a href="#">Home</a></li>
-            <li><a href="./htmlfiles/members.html">Pals</a></li>
-            <li><a href="#">Project</a></li>
-            <li><a href="#">About</a></li>
-          </ul>
-        </nav>
-      </div>
+      <nav>
+        <input id="nav-toggle" type="checkbox">
+        <div class="logo"><strong>Cloudlord_ <br />And_Pals👨🏿‍💻/></strong></div>
+        <ul class="links">
+          <li><a href="#home">Home</a></li>
+          <li><a href="./htmlfiles/members.html">Student</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="./htmlfiles/about.html">About</a></li>
+        </ul>
+        <label for="nav-toggle" class="icon-burger">
+          <div class="line"></div>
+          <div class="line"></div>
+          <div class="line"></div>
+        </label>
+      </nav>
     </header>
 
     <!-- HERO SECTION -->
     <main>
-      <section id="marquee">
+      <!-- <section id="marquee">
         <marquee class="quote" behavior="scroll" direction="left"
           >The power of Open Source is the power of the people. The people
           rule😎. __Philippe Kahn
         </marquee>
-      </section>
-      <article class="hero">
-        <div class="hero_content" data-aos="fade-up-right">
-          <h2 class="hello">What is OpenSource ?🤝</h2>
-          <h1 class="auto-input">
+      </section>  -->
+
+       <article id="particles">
+        <div id="webcoderskull">
+       
+          <h2 class="hello">AltSchooler Student Profile Dashboard🤝</h2>
+         
         
-          </h1>
         </div>
-      </article>
+      </article> 
+
+      
 
       <aside>
-        <h3>Contributors Tracks</h3>
-        <div id="tracks">
-          <div class="frontend">
-            <img src="./image/newfront.png" alt="front" />
-            <p>FrontEnd Engineering</p>
-          </div>
+        <h3>The Purpose</h3>
+        <div id="purpose">
 
-          <div class="backend">
-            <img src="./image/back.png" alt="" />
-            <p>BackEnd Engineering</p>
-          </div>
-          <div class="cloud">
-            <img src="./image/newcloud.jpg" alt="" />
-            <p>Cloud Engineering</p>
-          </div>
+          <input type="radio" name="position" checked />
+  <input type="radio" name="position" />
+  <input type="radio" name="position" />
+  <input type="radio" name="position" />
+  <input type="radio" name="position" />
+  <div id="carousel">
+    <div class="item">To introduce and promote opensource</div>
+    <div class="item">Small portfolio of Altschool student</div>
+    <div class="item"></div>
+    <div class="item">In future, employers/recruiters should be able to select potential employee from the platform</div>
+    <div class="item"></div>
+        </div>
+          
+            
+            
         </div>
       </aside>
 
       <section id="video">
-        <video width="900" controls>
+        <h3>Get started with this tutorial</h3>
+        <video controls>
           <source src="./video/Untitled_ May 12, 2022 11_22 PM.mp4" type="video/mp4" />
           <source src="mov_bbb.ogg" type="video/ogg" />
           Your browser does not support HTML video.
@@ -84,8 +102,8 @@
       </section>
     </main>
 
-    <!-- FOOTER CONTAINER -->
-    <footer>
+    <!-- FOOTER CONTAINER  -->
+     <footer>
       <p>Powered by cloudLord👨🏿‍💻</p>
       <div class="social-media">
         <a href="https://twitter.com/Cloud_Lordd"
@@ -103,34 +121,6 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <script>
-      let typed = new Typed(".auto-input", {
-        strings: [
-          "cool",
-
-          "The term open source refers to something people can modify and share because its design is publicly accessible. Open source is about collaborating and lifting each others; not competing.🤝",
-
-          "Many people prefer open source software because they have more control over that kind of software. They can examine the code to make sure it's not doing anything they don't want it to do, and they can change parts of it they don't like. Users who aren't programmers also benefit from open source software, because they can use this software for any purpose they wish—not merely the way someone else thinks they should. .",
-
-          "Open source software often inspires a community of users and developers to form around it. That's not unique to open source; many popular applications are the subject of meetups and user groups. But in the case of open source, the community isn't just a fanbase that buys in (emotionally or financially) to an elite user group; it's the people who produce, test, use, promote, and ultimately affect the software they love",
-
-          "Open source isn't about saving money, it's about doing more stuff, and getting incremental innovation",
-
-          "It helps to create diversity within contributors",
-          "It's okay to feel lost sometimes",
-
-          "In open source, we feel strongly that to really do something well, you have to get a lot of people involved.",
-
-          "Free software is a social movement",
-          "I think, fundamentally, open source does tend to be more stable software.",
-
-          "Technology innovation is starting to explode and having open-source material out there really helps this explosion.",
-        ],
-
-        typeSpeed: 50,
-        backSpeed: 0,
-        startDelay: 800,
-        loop: true,
-      });
       // AOS INITIALIZATION
       AOS.init();
     </script>
