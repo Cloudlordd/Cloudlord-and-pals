@@ -38,7 +38,7 @@ align-items: center;
 
 
 .logo img{
-	width: 25%;
+	width: 6em;
 }
 nav .links {
 	
@@ -54,7 +54,7 @@ nav .links a {
 	
      padding: 0.5em 1em;
 	font-size: 20px;
-	font-weight: 500;
+	font-weight: 600;
 	color: var(--black-color);
 	text-decoration: none;
 }
@@ -170,7 +170,7 @@ footer .social-media a{
 
 @media(max-width:500px){
 	.logo img{
-		width: 30%;
+		width:  5em;
 	}
 
 footer .social-media{
