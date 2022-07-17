@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	
+
+	<!-- fontawesome -->
+	<link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1.1/css/all.min.css"
+      integrity="sha512-ioRJH7yXnyX+7fXTQEKPULWkMn3CqMcapK0NNtCN8q//sW7ZeVFcbMJ9RvX99TwDg6P8rAH2IqUSt2TLab4Xmw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+	<!-- My CSS -->
+	<link rel="stylesheet" href="../cssfiles/dashboardhome.css">
+
+	<title>Student Dashboard</title>
+</head>
+<body>
+
+
+	<!-- SIDEBAR -->
+	<section id="sidebar">
+		
+  <div id="student-img"> 
+	
+
+  </div>
+		
+		<ul class="side-menu top">
+			<li class="active">
+				<a href="#" onclick="dashboard()">
+					
+					<i class="fas fa-th-large"></i>
+					<span class="text">Dashboard</span>
+				</a>
+			</li>
+			<li>
+				<a href="#" onclick="projects()">
+					<i class="fas fa-briefcase"></i> 
+					<span class="text">Projects </span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					<i class="fas fa-graduation-cap"></i>
+					<span class="text">Education</span>
+				</a>
+			</li>
+			<li>
+				<a href="#" onclick="about()">
+					<i class="fas fa-address-card"></i>
+					<span class="text">About</span>
+				</a>
+			</li>
+			<li>
+				<a href="#" onclick="storeCircle()">
+					<i class="fas fa-users"></i>
+					<span class="text">Circle</span>
+				</a>
+			</li>
+		</ul>
+		<ul class="side-menu">
+			
+			<li>
+				<a href="#" class="logout" onclick="logout()">
+					<i class="fas fa-arrow-alt-circle-left"></i>
+					<span class="text">Go Back</span>
+				</a>
+			</li>
+		</ul>
+	</section>
+	<!-- SIDEBAR -->
+
+
+
+	<!-- CONTENT -->
+	<section id="content">
+		<!-- NAVBAR -->
+		<nav>
+			<i class="fas fa-bars"></i>
+			
+			<form action="#">
+				<div class="form-input">
+					<input type="search" placeholder="Search...">
+					<button type="submit" class="search-btn"><i class='bx bx-search' ></i></button>
+				</div>
+			</form>
+			
+			
+			<div class="profile">
+				
+			</div>
+		</nav>
+		<!-- NAVBAR -->
+
+		<!-- MAIN -->
+		<main id="container">
+			
+			
+
+			<!-- <div class="table-data">
+				<div class="order">
+					<div class="head">
+						<h3>Recent Orders</h3>
+						<i class='bx bx-search' ></i>
+						<i class='bx bx-filter' ></i>
+					</div>
+					<table>
+						<thead>
+							<tr>
+								<th>User</th>
+								<th>Date Order</th>
+								<th>Status</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									<img src="img/people.png">
+									<p>John Doe</p>
+								</td>
+								<td>01-10-2021</td>
+								<td><span class="status completed">Completed</span></td>
+							</tr>
+							<tr>
+								<td>
+									<img src="img/people.png">
+									<p>John Doe</p>
+								</td>
+								<td>01-10-2021</td>
+								<td><span class="status pending">Pending</span></td>
+							</tr>
+							<tr>
+								<td>
+									<img src="img/people.png">
+									<p>John Doe</p>
+								</td>
+								<td>01-10-2021</td>
+								<td><span class="status process">Process</span></td>
+							</tr>
+							<tr>
+								<td>
+									<img src="img/people.png">
+									<p>John Doe</p>
+								</td>
+								<td>01-10-2021</td>
+								<td><span class="status pending">Pending</span></td>
+							</tr>
+							<tr>
+								<td>
+									<img src="img/people.png">
+									<p>John Doe</p>
+								</td>
+								<td>01-10-2021</td>
+								<td><span class="status completed">Completed</span></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="todo">
+					<div class="head">
+						<h3>Todos</h3>
+						<i class='bx bx-plus' ></i>
+						<i class='bx bx-filter' ></i>
+					</div>
+					<ul class="todo-list">
+						<li class="completed">
+							<p>Todo List</p>
+							<i class='bx bx-dots-vertical-rounded' ></i>
+						</li>
+						<li class="completed">
+							<p>Todo List</p>
+							<i class='bx bx-dots-vertical-rounded' ></i>
+						</li>
+						<li class="not-completed">
+							<p>Todo List</p>
+							<i class='bx bx-dots-vertical-rounded' ></i>
+						</li>
+						<li class="completed">
+							<p>Todo List</p>
+							<i class='bx bx-dots-vertical-rounded' ></i>
+						</li>
+						<li class="not-completed">
+							<p>Todo List</p>
+							<i class='bx bx-dots-vertical-rounded' ></i>
+						</li>
+					</ul>
+				</div>
+			</div> -->
+		</main>
+		<!-- MAIN -->
+	</section>
+	<!-- CONTENT -->
+	
+
+	<script src="../js/dashboard.js"></script>
+</body>
+</html>
