@@ -46,6 +46,45 @@ aside{
 
 
 /*  */
+ form {
+	max-width: 400px;
+	width: 100%;
+	margin-right: auto;
+  margin-top: 3em;
+}
+form .form-input {
+	display: flex;
+	align-items: center;
+	height: 36px;
+  gap: 10px;
+}
+ form .form-input input {
+	flex-grow: 1;
+	padding: 0 16px;
+	height: 100%;
+	border: none;
+	background: var(--white-color);
+	border-radius: 36px 0 0 36px;
+	outline: none;
+	width: 100%;
+	color: var(--black-color);
+}
+form .form-input button {
+	width: 36px;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: var(--white-color);
+	color: var(--black-color);
+	font-size: 18px;
+	border: none;
+	outline: none;
+	border-radius: 0 36px 36px 0;
+	cursor: pointer;
+}
+
+/*  */
 
 
 
@@ -55,6 +94,7 @@ aside{
       justify-content: space-between;
       align-items: center; 
       flex-wrap:wrap;
+      height: 100%;
      
   }
    
@@ -111,7 +151,7 @@ aside{
 
 
 
-img[src]{
+.container img[src]{
     width: 8rem;
     height: 8rem;
     border-radius: 50%;

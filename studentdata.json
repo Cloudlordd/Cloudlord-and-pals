@@ -8,7 +8,7 @@
         
         {
             "id":1,
-            "stuId":"ALT/SOE/022/3374",
+            "stuId":3374,
             "name":"Adeyemi Buhari",
             "track":"Cloud Engineering",
             "circle":145,
@@ -63,10 +63,10 @@
 
         {
             "id":2,
-            "stuId":"ALT/SOE/022/3374",
+            "stuId":3375,
             "name":"Adeyemi Buhari",
             "track":"Cloud Engineering",
-            "circle":145,
+            "circle":14,
             "img":"https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
 
             "description":{
@@ -98,10 +98,10 @@
 
         {
             "id":3,
-            "stuId":"ALT/SOE/022/3374",
+            "stuId":3376,
             "name":"Adeyemi Buhari",
             "track":"Cloud Engineering",
-            "circle":145,
+            "circle":14,
             "img":"https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
 
             "description":{
@@ -132,10 +132,10 @@
 
         {
             "id":4,
-            "stuId":"ALT/SOE/022/3374",
+            "stuId":3374,
             "name":"Adeyemi Buhari",
             "track":"Backend Engineering",
-            "circle":145,
+            "circle":14,
             "img":"https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
 
             "description":{
@@ -157,7 +157,7 @@
 
         {
             "id":4,
-            "stuId":"ALT/SOE/022/3374",
+            "stuId":3374,
             "name":"Adeyemi Buhari",
             "track":"Frontend Engineering",
             "circle":145,

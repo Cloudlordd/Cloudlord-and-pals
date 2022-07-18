@@ -1,9 +1,14 @@
 const studentContainer = document.querySelector('.container')
 
+
+
+
+     
+
 let getAllStudent = async () => {
  let response = await fetch('../studentdata.json') 
  let result = await response.json() 
-     return result
+ return result
 }
 
 
@@ -22,6 +27,103 @@ let getAllStudent = async () => {
 })()
 
 
+
+
+// serch functionalities
+
+
+const search = async()=> {
+ let input = document.querySelector(".input").value
+ let searchContainer = ''
+
+ const res = await getAllStudent()
+ let response = res.data.students
+
+ let searchTrack = response.filter(item => {
+ return input === item.name || parseInt(input) === item.stuId || parseInt(input) === item.circle
+   
+})
+  searchTrack.length > 0?
+
+  searchTrack.forEach((frontendItem, index) => {
+    const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = frontendItem;
+      
+    let newIndex = index+1;
+  
+    searchContainer += `
+               
+    <div class="profile-card">
+    <div class="card-content">
+      <div class="front-card">
+        
+        <div class="image">
+          <img src=${img} alt="" />
+        </div>
+  
+        
+        <div class="profile-info">
+          <p><span> NAME</span>${name}</p>
+          <p><span>TRACK</span> ${track}</p>
+          <p><span>STU-ID</span>ALT/SOE/022/${stuId}</p>
+        </div>
+      </div>
+  
+      <div class="back-card">
+        <div class="introduction">
+          <p class="intro-title">
+            Introduction
+          </p>
+          <p>
+           ${description.intro}
+          </p>
+  
+          <button type="submit" onclick = detailProfile(${newIndex})> Read More..  </button>
+        </div>
+  
+        <!-- SOCIAL-MEDIA -->
+        <div class="social-media">
+  
+  
+  
+        <a
+        id="media-link" target =_blank
+        href= ${linkedin}
+      >
+        <i class="fab fa-linkedin"></i>
+      </a>
+  
+  
+      <a
+      id="media-link" target =_blank
+      href= ${github}
+    >
+      <i class="fab fa-github"></i>
+    </a>
+  
+  
+        <a
+        id="media-link" target =_blank
+        href=${twitter}
+      >
+            <i class="fab fa-twitter"></i>
+         </a> 
+  
+         
+  
+          <a id="media-link" target =_blank href=${portfolio}
+            ><i class="fab fa-portfolio"></i
+          ></a>
+  
+         
+        </div>
+      </div>
+    </div>
+  </div>
+    `
+   }): false
+  
+   studentContainer.innerHTML = searchContainer   
+}
 
 
 // callback function that display all student card
@@ -48,7 +150,7 @@ const displayAllStudent = (allstudent) => {
       <div class="profile-info">
         <p><span> NAME</span>${name}</p>
         <p><span>TRACK</span> ${track}</p>
-        <p><span>STU-ID</span> ${stuId}</p>
+        <p><span>STU-ID</span>ALT/SOE/022/${stuId}</p>
       </div>
     </div>
 
@@ -141,7 +243,7 @@ const allStudent = async ()=>{
       <div class="profile-info">
         <p><span> NAME</span>${name}</p>
         <p><span>TRACK</span> ${track}</p>
-        <p><span>STU-ID</span> ${stuId}</p>
+        <p><span>STU-ID</span>ALT/SOE/022/ ${stuId}</p>
       </div>
     </div>
 
@@ -237,7 +339,7 @@ return item.track === "Frontend Engineering"
       <div class="profile-info">
         <p><span> NAME</span>${name}</p>
         <p><span>TRACK</span> ${track}</p>
-        <p><span>STU-ID</span> ${stuId}</p>
+        <p><span>STU-ID</span>ALT/SOE/022/${stuId}</p>
       </div>
     </div>
 
@@ -332,7 +434,7 @@ console.log(filterTrack)
       <div class="profile-info">
         <p><span> NAME</span>${name}</p>
         <p><span>TRACK</span> ${track}</p>
-        <p><span>STU-ID</span> ${stuId}</p>
+        <p><span>STU-ID</span>ALT/SOE/022/${stuId}</p>
       </div>
     </div>
 
@@ -424,7 +526,7 @@ return item.track === "Cloud Engineering"
       <div class="profile-info">
         <p><span> NAME</span>${name}</p>
         <p><span>TRACK</span> ${track}</p>
-        <p><span>STU-ID</span> ${stuId}</p>
+        <p><span>STU-ID</span>ALT/SOE/022/${stuId}</p>
       </div>
     </div>
 
@@ -511,6 +613,7 @@ const detailProfile = async(index) =>{
  })
 
 }
+
 
 
 

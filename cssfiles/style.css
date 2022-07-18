@@ -76,10 +76,11 @@ body {
     content: '\00bb';
     position: absolute;
     opacity: 0;
-    top: -23px;
-     right: -20px;
+    top: -15px;
+     right: -10px;
     transition: 0.5s;
     font-size: 50px;
+    
     
   }
   
