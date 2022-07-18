@@ -28,50 +28,10 @@ menuBar.addEventListener('click', function () {
 
 
 
-
-
-
-
-const searchButton = document.querySelector('#content nav form .form-input button');
-const searchButtonIcon = document.querySelector('#content nav form .form-input button .bx');
-const searchForm = document.querySelector('#content nav form');
-
-searchButton.addEventListener('click', function (e) {
-	if(window.innerWidth < 576) {
-		e.preventDefault();
-		searchForm.classList.toggle('show');
-		if(searchForm.classList.contains('show')) {
-			searchButtonIcon.classList.replace('bx-search', 'bx-x');
-		} else {
-			searchButtonIcon.classList.replace('bx-x', 'bx-search');
-		}
-	}
-})
-
-
-
-
-
-if(window.innerWidth < 768) {
-	sidebar.classList.add('hide');
-} else if(window.innerWidth > 576) {
-	searchButtonIcon.classList.replace('bx-x', 'bx-search');
-	searchForm.classList.remove('show');
-}
-
-
-window.addEventListener('resize', function () {
-	if(this.innerWidth > 576) {
-		searchButtonIcon.classList.replace('bx-x', 'bx-search');
-		searchForm.classList.remove('show');
-	}
-})
-
-
-
 const getImageContainer = document.getElementById("student-img")
 const profileImg = document.querySelector(".profile")
 const socialBox = document.querySelector(".social-box")
+const studentId = document.querySelector(".stuid")
 
 // get items from local storage
 
@@ -79,14 +39,17 @@ let getData = JSON.parse(localStorage.getItem('data'))
 console.log(getData)
 const getProfile = () =>{
    
-   const {name, track, img } = getData
+   const {name, track, img, stuId } = getData
     getImageContainer.innerHTML += `
 	
 	<img src= ${img} alt="">
+	
 
 	<p class="name">${name}</p>
 	<p class="trac">${track}</p>`
+	
 
+  studentId.innerHTML+=`<p>ID : ${stuId}</p>`
 	profileImg.innerHTML += `
 	<img src= ${img} alt="">
 	`
@@ -103,7 +66,7 @@ const getProfile = () =>{
 	const dashboard = () =>{
  
 
-		const { socialmedia:{linkedin, github, twitter, portfolio} } = getData
+		const { socialmedia:{linkedin, github, twitter, portfolio,slackHandle} } = getData
 
 container.innerHTML = `
 
@@ -114,7 +77,7 @@ container.innerHTML = `
 		<li>
 			<h1><i class="fab fa-slack"></i></h1></li>
 		<li>
-			<h1 href="#">Cloudlord</h1>
+			<h1 href="#">${slackHandle}</h1>
 		</li>
 		
 		

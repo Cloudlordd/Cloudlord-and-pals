@@ -245,12 +245,19 @@ body {
 #content nav .nav-link:hover {
 	color: var(--text-color);
 }
-#content nav form {
+#content nav .stuid {
 	max-width: 400px;
 	width: 100%;
 	margin-right: auto;
+	background-color: #000;
+	border-radius: 20px;
+	
 }
-#content nav form .form-input {
+.stuid p{
+  color: var(--light);
+  text-align: center;
+}
+/* #content nav form .form-input {
 	display: flex;
 	align-items: center;
 	height: 36px;
@@ -279,7 +286,7 @@ body {
 	outline: none;
 	border-radius: 0 36px 36px 0;
 	cursor: pointer;
-}
+} */
 
 #content nav .profile img {
 	width: 36px;
