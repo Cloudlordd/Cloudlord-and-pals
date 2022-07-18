@@ -378,9 +378,7 @@ console.log(filterTrack)
 
        
 
-        <a id="media-link" target =_blank href=${portfolio}
-          ><i class="fab fa-portfolio"></i
-        ></a>
+       
 
        
       </div>
@@ -515,5 +513,4 @@ const detailProfile = async(index) =>{
 }
 
 
-// get profile function
 

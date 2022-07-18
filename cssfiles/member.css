@@ -25,6 +25,8 @@ aside{
 .track-section{
   display: flex;
   justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
 }
 
 .track-section button{
@@ -36,7 +38,17 @@ aside{
   border-radius: 17px;
   cursor: pointer;
   text-transform: uppercase;
+  cursor: pointer;
 }
+
+
+
+
+
+/*  */
+
+
+
 
    .container{
       display: flex;
@@ -97,6 +109,8 @@ aside{
 }
 
 
+
+
 img[src]{
     width: 8rem;
     height: 8rem;
@@ -147,23 +161,36 @@ text-align: center;
 
 }
 
+.back-card button{
+  padding: 5px 7px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
 .social-media{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   background-color: #000;
   border-radius: 5px;
+  gap:15px
   
 }
 .social-media a i{
   color: #fff;
   font-size: 20px;
-  padding: 0 7px;
+  /* padding: 0 7px; */
   
 }
 
 .social-media #media-link{
   color: #000;
 }
+
+/*  */
+
 
 @media(max-width:500px){
   .title{
