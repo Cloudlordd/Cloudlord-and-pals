@@ -45,10 +45,12 @@ const search = async()=> {
 })
   searchTrack.length > 0?
 
-  searchTrack.forEach((frontendItem, index) => {
-    const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = frontendItem;
-      
-    let newIndex = index+1;
+  searchTrack.forEach((searchItem, index) => {
+    const {id,name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = searchItem;
+    
+
+    let newIndex = index+id;
+    
   
     searchContainer += `
                
@@ -134,7 +136,6 @@ const displayAllStudent = (allstudent) => {
  allstudent.forEach((item, index)=> {
   const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = item;
 
-  let newIndex = index+1
 
   container += (`
       
@@ -163,7 +164,7 @@ const displayAllStudent = (allstudent) => {
          ${description.intro}
         </p>
 
-        <button type="submit" onclick = detailProfile(${newIndex})> Read More..  </button>
+        <button type="submit" onclick = detailProfile(${index})> Read More..  </button>
       </div>
 
       <!-- SOCIAL-MEDIA -->
@@ -227,7 +228,6 @@ const allStudent = async ()=>{
  response.forEach((allItem, index) => {
   const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = allItem;
     
-  let newIndex = index+1;
 
   allContainer += `
              
@@ -256,7 +256,7 @@ const allStudent = async ()=>{
          ${description.intro}
         </p>
 
-        <button type="submit" onclick = detailProfile(${newIndex})> Read More..  </button>
+        <button type="submit" onclick = detailProfile(${index})> Read More..  </button>
       </div>
 
       <!-- SOCIAL-MEDIA -->
@@ -321,9 +321,9 @@ return item.track === "Frontend Engineering"
 
 })
  filterTrack.forEach((frontendItem, index) => {
-  const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = frontendItem;
+  const {id,name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = frontendItem;
     
-  let newIndex = index+1;
+  let newIndex = index+id;
 
   frontendContainer += `
              
@@ -416,9 +416,9 @@ return item.track === "Backend Engineering"
 })
 console.log(filterTrack)
  filterTrack.forEach((backendItem, index) => {
-  const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = backendItem;
+  const {id, name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = backendItem;
     
-  let newIndex = index+1;
+  let newIndex = index+id;
 
   backendContainer += `
              
@@ -508,9 +508,9 @@ return item.track === "Cloud Engineering"
 })
 
  cloudTrack.forEach((cloudItem, index) => {
-  const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = cloudItem;
+  const { id,name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = cloudItem;
     
-  let newIndex = index+1;
+  let newIndex = index+id;
 
   cloudContainer += `
              

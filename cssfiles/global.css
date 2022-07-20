@@ -59,7 +59,7 @@ nav .links a {
 	text-decoration: none;
 }
 
-nav .links a:focus{
+nav .links a:focus-within{
     background-color: var(--black-color);
     color: var(--white-color);
 }
