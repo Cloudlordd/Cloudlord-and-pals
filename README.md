@@ -17,19 +17,37 @@ I started working on this project after we finished html class because I wanted 
 
 
 ## Steps On How To Contribute
-- [Headers](#headers)
-- [Quotes](#quotes)
-- [Emphasis](#emphasis)
-- [Horizontal Rule](#horizontal-rule)
-- [Lists](#lists)
-- [Links](#links)
-- [Images](#images)
-- [Code](#code)
-- [Tables](#tables)
-- [Custom HTML](#custom-html)
-- [Custom CSS](#custom-css)
-- [Additional Resources](#additional-resources)
+- Fork the project repository into your github account
 
+- Click the green Clone button and then copy the HTTPS URL
+
+- Using Git on your local machine, clone your fork using the URL you just copied i.e git clone https://github.com/Cloudlordd/Cloudlord-and-pals.git.
+
+-  Navigate to your local repository i.e cd Cloudlord-and-pals
+
+- Add the project repository as the "upstream" remote i.e git remote add upstream https://github.com/Cloudlordd/Cloudlord-and-pals.git.
+
+- Pull the latest changes from upstream into your local repository i.e git pull upstream main
+
+- Create and switch to a new branch with your name ( git checkout -b YOURNAME_NAME )
+
+- Start the working directory with vs code to make changes i.e start code .
+
+- Make changes in your local repository (Add your profile to studentdata.json)
+      
+- Stage your changes i.e git add -A
+
+- Commit your changes i.e git commit -m "Added Adeyemi's profile"
+     
+- Push your changes to your fork i.e git push origin BRANCH_NAME
+
+- Goto github,reload your page to begin pull request. Click on compare and pull button
+
+- Scroll down to click COMPARE AND PULL button to create a pull request
+
+- Check if all the requests pass and wait for us to merge into main
+
+- Thank you for contributing and making this project bigger, You forever in our heart
 ---
 <br>
 <br>
@@ -42,7 +60,7 @@ Below are the listed features implemented
 
     # H1 Header 
 -->
-> **Uploading of profile =>**. Create an H1 
+> **Uploading of profile** 
 
 > **Search functionaly =>**. i.e you can search with one of the followings studentid, name and circle number
 
