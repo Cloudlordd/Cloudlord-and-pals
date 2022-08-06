@@ -172,8 +172,61 @@
                 "slackHandle" : "cloudlord"
                  
            }
-        }
+        },
 
+  
+        {
+            "id":5,
+            "stuId":300,
+            "name":"Adeyemi Abass",
+            "track":"Backend Engineering",
+            "circle":143,
+            "img":"https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
+        
+            "description":{
+                        "intro":"",
+                        "introdetails":""
+                    },
+        
+            "socialmedia":{
+                        "linkedin":"https://www.linkedin.com/in/adeyemi-buhari-opeyemi-3aa4781b5/",
+                        "github":"https://github.com/buhari44",
+                        "twitter":"https://twitter.com/Cloud_Lordd",
+                        "portfolio":"",
+                        "slackHandle":"cloudlord"
+                     },
+        
+            "experience":{
+                        "first":"FrontEnd Engineer Intern @TIIDELAB",
+                        "second":"Program Manager @Novustack",
+                        "third":""
+                     },
+        
+            "project":{
+                        "first":{
+                            "projectname":"FORBES",
+                            "projectdescription":"A platform that was built on forbes api,it display and give extensive informations on current richest folks in the world",
+                            "projectlink":"https://afrikaforbes.netlify.app/"
+                        },
+                        "second":{
+                            "projectname":"Box-Monie",
+                            "projectdescription":"A financial platform that allow users to contibute and take turns by creating cohort that contain certain number of user.Still in progress.",
+                            "projectlink":"http://boxmonie.com/"
+                        },
+        
+                        "third":{
+        
+                            "projectname":"The-Life-Changer",
+                            "projectdescription":"The life changer is a platform where 2021 Jamb Applicants can find Questions and Answers to the Life Changer Novel.",
+                            "projectlink":"https://savethenextjambites.netlify.app/"
+                        }
+                     }
+                }
+        
+        
+        
+        
+        
 
 
 
