@@ -113,7 +113,7 @@ const search = async()=> {
          
   
           <a id="media-link" target =_blank href=${portfolio}
-            ><i class="fab fa-portfolio"></i
+            ><i class="fa fa-briefcase" ></i
           ></a>
   
          
@@ -197,9 +197,9 @@ const displayAllStudent = (allstudent) => {
 
        
 
-        <a id="media-link" target =_blank href=${portfolio}
-          ><i class="fab fa-portfolio"></i
-        ></a>
+       <a id="media-link" target =_blank href=${portfolio}
+       ><i class="fa fa-briefcase" ></i
+     ></a>
 
        
       </div>
@@ -289,9 +289,9 @@ const allStudent = async ()=>{
 
        
 
-        <a id="media-link" target =_blank href=${portfolio}
-          ><i class="fab fa-portfolio"></i
-        ></a>
+       <a id="media-link" target =_blank href=${portfolio}
+       ><i class="fa fa-briefcase" ></i
+     ></a>
 
        
       </div>
@@ -385,9 +385,9 @@ return item.track === "Frontend Engineering"
 
        
 
-        <a id="media-link" target =_blank href=${portfolio}
-          ><i class="fab fa-portfolio"></i
-        ></a>
+       <a id="media-link" target =_blank href=${portfolio}
+       ><i class="fa fa-briefcase" ></i
+     ></a>
 
        
       </div>
@@ -479,6 +479,9 @@ return item.track === "Backend Engineering"
        </a> 
 
        
+       <a id="media-link" target =_blank href=${portfolio}
+       ><i class="fa fa-briefcase" ></i
+     ></a>
 
        
 
@@ -567,14 +570,14 @@ return item.track === "Cloud Engineering"
       id="media-link" target =_blank
       href=${twitter}
     >
-          <i class="fab fa-twitter"></i>
+          <i class="fab fa-t"></i>
        </a> 
 
        
 
-        <a id="media-link" target =_blank href=${portfolio}
-          ><i class="fab fa-portfolio"></i
-        ></a>
+       <a id="media-link" target =_blank href=${portfolio}
+       ><i class="fa fa-briefcase" ></i
+     ></a>
 
        
       </div>

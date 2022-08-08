@@ -1,6 +1,17 @@
 # Student Profile Dashboard
 Open-source stands for being transparent, sharing, and contributing to others’ projects to improve them or to modify them for your own. In any case, the essence of open-source is a large community of contributors.Please help us make this a massive project by contributing. You can also read through this file to learn how to make your contribution count. 
+
+
 GRACIAS
+
+<br>
+<br>
+<br>
+
+
+## NOTE:
+You don’t have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+
 
 
 <br>
@@ -49,7 +60,7 @@ GRACIAS
 
 - Check if all the requests pass and wait for us to merge into main
 
-- Thank you for contributing and making this project bigger, You forever in our heart
+- Thank you for contributing and making this project bigger, You are forever in our heart
 ---
 <br>
 <br>

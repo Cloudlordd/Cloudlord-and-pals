@@ -78,22 +78,7 @@ body {
 
   }
   
-  .getstarted span:after {
-    content: '\00bb';
-    position: absolute;
-    opacity: 0;
-    top: -15px;
-     right: -10px;
-    transition: 0.5s;
-    font-size: 50px;
-    
-    
-  }
-  
-  .getstarted:hover span {
-    padding-right: 25px;
-  }
-  
+  /*  */
   .getstarted:hover span:after {
     opacity: 1;
     right: 0;
@@ -102,9 +87,9 @@ body {
 
 /* end of button */
 
-aside, #video {
-    /* margin-top: 7em; */
-    /* padding: 7% 12%; */
+aside {
+     margin-top: 7em; 
+     padding: 7% 12%; 
 }
 
 

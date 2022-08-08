@@ -212,10 +212,12 @@ text-align: center;
 
 .social-media{
   display: flex;
-  justify-content: center;
+ justify-content:space-between; 
   background-color: #000;
   border-radius: 5px;
-  gap:15px
+  padding: 0 5px;
+  
+  
   
 }
 .social-media a i{
