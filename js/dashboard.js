@@ -18,12 +18,12 @@ allSideMenu.forEach(item=> {
 const menuBar = document.querySelector('#content nav .fa-bars');
 const sidebar = document.getElementById('sidebar');
 const studentImage = document.getElementById("student-img")
-console.log(studentImage)
+
 
 menuBar.addEventListener('click', function () {
 	sidebar.classList.toggle('hide');
 	studentImage.classList.toggle('remove')
-	console.log(sidebar)
+	
 })
 
 
@@ -36,7 +36,7 @@ const studentId = document.querySelector(".stuid")
 // get items from local storage
 
 let getData = JSON.parse(localStorage.getItem('data'))
-console.log(getData)
+
 const getProfile = () =>{
    
    const {name, track, img, stuId } = getData
@@ -227,7 +227,7 @@ const projects = ()=>{
 
 const about =()=>{
    const {intro, introdetails}=getData.description
-   console.log(introdetails)
+  
 	container.innerHTML =`
 	
 	<div class="head-title">
@@ -251,7 +251,7 @@ const about =()=>{
 	`
 	container.classList.remove("container-style")
 
-	console.log(container)
+	
 }
 
 // all JSON
@@ -288,7 +288,6 @@ const storeCircle = async () =>{
 
 	})
 	
-	console.log(newArr)
 	let circleBox = ''
 	newArr.forEach( item =>{
 
@@ -309,7 +308,7 @@ const storeCircle = async () =>{
 
 	container.innerHTML = circleBox
   container.classList.add("container-style")
-	console.log(container)
+	
   
   }
   

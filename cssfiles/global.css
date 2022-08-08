@@ -142,6 +142,7 @@ footer {
     color: var(--white-color);
     padding: 1% 12%;
 	flex-wrap: wrap;
+	align-items:flex-end;
     
 }
 footer p{
@@ -151,9 +152,10 @@ footer p{
     word-spacing: 5px;
 }
  footer .social-media{
-    border-top: 2px dotted var(--white-color);
+  
     display: flex;
     justify-content: space-between;
+	
 }
 footer .social-media a{
     color: var(--white-color);

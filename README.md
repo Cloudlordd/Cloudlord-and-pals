@@ -1,5 +1,7 @@
 # Student Profile Dashboard
-I started working on this project after we finished html class because I wanted to create something unique. I was easily able to start small and later, when my hands was a little stronger, I decided to scale further, which is why we have such a fantastic project. The main goal is to bring my altschool colleagues on board by adding their profiles, as well as to spread the opensource gospel.
+Open-source stands for being transparent, sharing, and contributing to others’ projects to improve them or to modify them for your own. In any case, the essence of open-source is a large community of contributors.Please help us make this a massive project by contributing. You can also read through this file to learn how to make your contribution count. 
+GRACIAS
+
 
 <br>
 <br>

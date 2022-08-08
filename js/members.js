@@ -212,7 +212,7 @@ const displayAllStudent = (allstudent) => {
  });
 
  studentContainer.innerHTML = container
- console.log(studentContainer)
+
  
 }
 
@@ -223,7 +223,7 @@ const allStudent = async ()=>{
 
   const res = await getAllStudent()
  let response = res.data.students
-   console.log(response)
+   
  
  response.forEach((allItem, index) => {
   const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = allItem;
@@ -302,7 +302,7 @@ const allStudent = async ()=>{
  })
 
  studentContainer.innerHTML = allContainer
- console.log(studentContainer)
+
 }
 
 
@@ -414,7 +414,7 @@ const backend = async ()=>{
 return item.track === "Backend Engineering"
 
 })
-console.log(filterTrack)
+
  filterTrack.forEach((backendItem, index) => {
   const {id, name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = backendItem;
     
@@ -601,7 +601,6 @@ const detailProfile = async(index) =>{
  
  })
 
- console.log(filterItems)
  filterItems.forEach(item =>{
 
   

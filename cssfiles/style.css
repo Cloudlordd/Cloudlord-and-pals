@@ -22,8 +22,14 @@ body {
     justify-content: center;
     align-items: center;
     /* padding: 5% 12%; */
-    gap: 2em;
+ row-gap: 2em;
     height: 100vh;
+}
+
+.hero_content p{
+    color: white;
+     font-size:25px;
+      text-align: center
 }
 
 /* overlay */
@@ -49,7 +55,7 @@ body {
     text-align: center;
     word-spacing: 0.1em; 
     text-transform: uppercase;
-    font-family: kalam;
+    font-family:kalam;
  }
 
  /* button */
@@ -97,7 +103,7 @@ body {
 /* end of button */
 
 aside, #video {
-    margin-top: 7em;
+    /* margin-top: 7em; */
     /* padding: 7% 12%; */
 }
 
@@ -117,8 +123,7 @@ aside h3 {
     border-radius: 5px;
     box-shadow: 0px 30px 40px -20px var(--grayishBlue);
     padding: 30px;
-    margin: 20px; 
-    
+    margin: 20px;    
 }
 
 
@@ -136,28 +141,28 @@ aside h3 {
 
 
 
-#video {
+/* #video {
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-      padding: 7% 0; 
+    padding: 7% 0; 
 
-}
+} */
 
-#video h3{
+/* #video h3{
    margin-bottom: 0.5%;
    font-size: 5em;
    font-weight: 700;
    text-transform: capitalize;
    color: rgba(0, 0, 0);
    font-family: kalam;
-}
+} */
 
-#video video{
+/* #video video{
     width: 65em;
     padding: 0 5em;
-}
+} */
 
 footer {
     display: flex;
@@ -172,10 +177,10 @@ footer {
 /* MOBILE STYLING */
 
 @media(max-width:1000px){
-    #video video{
+    /* #video video{
         width: 60em;
         
-    }
+    } */
 
 }
 
@@ -183,9 +188,9 @@ footer {
   
     
 
-    #video video{
+    /* #video video{
          width: 45em; 
-    }
+    } */
     .hero{
         padding: 10% 0; 
    }
@@ -208,12 +213,12 @@ footer {
  
 
 
-#video h3, aside h3{
+/* #video h3, aside h3{
 font-size: 2em;
 
 
 }
- 
+  */
 }
 
 @media(max-width:650px){
