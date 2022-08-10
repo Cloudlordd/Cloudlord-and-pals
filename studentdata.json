@@ -63,25 +63,45 @@
 
         {
             "id":1,
-            "stuId":3375,
-            "name":"Adeyemi Buhari",
-            "track":"Cloud Engineering",
-            "circle":14,
-            "img":"https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
-
+            "stuId":2098,
+            "name":"Ayibakepreye Omusuku",
+            "track":"Frontend Engineering",
+            "circle":106,
+            "img":"https://avatars.githubusercontent.com/u/104953950?s=400&u=6aeabe9e947a409d87969eca26573c4f86a8a910&v=4",
             "description":{
-                "intro":"Problem solving is the most important aspect of my personality. I enjoy thinking outside the box and always listen when others speak",
-                "intro-details":"I've been obsessed with the idea of using software to solve practical problems since I wrote my first program in Qbasic and manipulated it to produce the desired output. I am passionate about solving the never-ending puzzle that is software engineering. I believe in the power of programming to change and improve people's lives all over the world. Adeyemi Buhari Opeyemi is a Junior Web Developer who has worked in the frontend team of some amazing organizations. Design thinking, problem solving, communication, education, and training are all areas in which I excel. If you are a company looking for a web presence or an employer looking to hire, please contact me here. In previous years, I had the opportunity to intern with TIIDELAB, an organization that assists passionate students and graduates in developing their skills in software engineering, as well as providing softskills with full curriculum to assist fellows in building a public profile. Moving forward on my journey, I decided to focus on becoming a world class cloud engineer in the coming years, assisting organizations to scale applications, manage resources, provide server security, and collaborate with in-house software engineering teams to negotiate seamless ways to provide and scale applications. I am currently studying cloud engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering."
+                "intro": "Being creative in terms of problem-solving, effective-communicator and result oriented, i pride myself in delivering the best on each project i am affiliated with",
+            
+               
+                "intro-details": "I'm a Software Engineer based in Lagos Nigeria who is currently enrolled as a Sidehustle intern. I specialize in building exceptional digital experiences with clean designs and thoughtful interactions. My focus is on creating engaging, acessible and performant interfaces for humans as well as contributing in building useful open-source projects. I have a B.Eng in Biomedical Engineering from All Nations University and i am currently enrolled for two diplomas and a certification program in software engineering and REact JS from: AltSchool Africa, ALX Africa and Side Hustle."
             },
 
             "socialmedia":{
-                "linkedin":"https://www.linkedin.com/in/adeyemi-buhari-opeyemi-3aa4781b5/",
-                "github":"https://github.com/buhari44",
-                "twitter":"https://twitter.com/Cloud_Lordd",
+                "linkedin":"https://www.linkedin.com/in/ayibakepreye-omusuku-234554172/",
+                "github":"https://github.com/PreyeO",
+                "twitter":"https://twitter.com/pomusuku",
                 "portfolio":"",
-                "slackHandle":"cloudlord"
+                "slackHandle":"AYIBAKEPREYE OMUSUKU"
                  
-           }
+           },
+
+           "experience":{
+            "first":"FrontEnd Engineer Intern @Sidehustle",
+            "second":"",
+            "third":""
+         },
+
+         "project":{
+            "first":{
+                "projectname":"TO-DO's",
+                "projectdescription":"A platform that was built to help make a daily to do list. The user marks out any goal achieved on the list",
+                "projectlink":"https://preyetodos.netlify.app/"
+            },
+            "second":{
+                "projectname":"Stop-Watch",
+                "projectdescription":"A counter watch use during games to count down time.",
+                "projectlink":"https://preyesproject.netlify.app/"
+            }
+        }
         },
 
 
