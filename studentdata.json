@@ -58,8 +58,7 @@
 
 
 
-
-
+        
 
         {
             "id":1,
@@ -119,12 +118,57 @@
 
 
 
+        {
+            "id":2,
+            "stuId":2098,
+            "name":"Ayibakepreye Omusuku",
+            "track":"Frontend Engineering",
+            "circle":106,
+            "img":"https://avatars.githubusercontent.com/u/104953950?s=400&u=6aeabe9e947a409d87969eca26573c4f86a8a910&v=4",
+            "description":{
+                "intro": "Being creative in terms of problem-solving, effective-communicator and result oriented, i pride myself in delivering the best on each project i am affiliated with",
+            
+               
+                "intro-details": "I'm a Software Engineer based in Lagos Nigeria who is currently enrolled as a Sidehustle intern. I specialize in building exceptional digital experiences with clean designs and thoughtful interactions. My focus is on creating engaging, acessible and performant interfaces for humans as well as contributing in building useful open-source projects. I have a B.Eng in Biomedical Engineering from All Nations University and i am currently enrolled for two diplomas and a certification program in software engineering and REact JS from: AltSchool Africa, ALX Africa and Side Hustle."
+            },
+
+            "socialmedia":{
+                "linkedin":"https://www.linkedin.com/in/ayibakepreye-omusuku-234554172/",
+                "github":"https://github.com/PreyeO",
+                "twitter":"https://twitter.com/pomusuku",
+                "portfolio":"",
+                "slackHandle":"AYIBAKEPREYE OMUSUKU"
+                 
+           },
+
+           "experience":{
+            "first":"FrontEnd Engineer Intern @Sidehustle",
+            "second":"",
+            "third":""
+         },
+
+         "project":{
+            "first":{
+                "projectname":"TO-DO's",
+                "projectdescription":"A platform that was built to help make a daily to do list. The user marks out any goal achieved on the list",
+                "projectlink":"https://preyetodos.netlify.app/"
+            },
+            "second":{
+                "projectname":"Stop-Watch",
+                "projectdescription":"A counter watch use during games to count down time.",
+                "projectlink":"https://preyesproject.netlify.app/"
+            }
+        }
+    },
+
+
+
 
 
 
 
         {
-            "id":2,
+            "id":3,
             "stuId":3376,
             "name":"Adeyemi Buhari",
             "track":"Cloud Engineering",
