@@ -63,25 +63,58 @@
 
         {
             "id":1,
-            "stuId":3375,
-            "name":"Adeyemi Buhari",
+            "stuId":2557,
+            "name":"Funmilayo Fagoyinbo",
             "track":"Cloud Engineering",
-            "circle":14,
-            "img":"https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
+            "circle":361,
+            "img":"https://github.com/Adephumie.png",
 
             "description":{
-                "intro":"Problem solving is the most important aspect of my personality. I enjoy thinking outside the box and always listen when others speak",
-                "intro-details":"I've been obsessed with the idea of using software to solve practical problems since I wrote my first program in Qbasic and manipulated it to produce the desired output. I am passionate about solving the never-ending puzzle that is software engineering. I believe in the power of programming to change and improve people's lives all over the world. Adeyemi Buhari Opeyemi is a Junior Web Developer who has worked in the frontend team of some amazing organizations. Design thinking, problem solving, communication, education, and training are all areas in which I excel. If you are a company looking for a web presence or an employer looking to hire, please contact me here. In previous years, I had the opportunity to intern with TIIDELAB, an organization that assists passionate students and graduates in developing their skills in software engineering, as well as providing softskills with full curriculum to assist fellows in building a public profile. Moving forward on my journey, I decided to focus on becoming a world class cloud engineer in the coming years, assisting organizations to scale applications, manage resources, provide server security, and collaborate with in-house software engineering teams to negotiate seamless ways to provide and scale applications. I am currently studying cloud engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering."
+                "intro":"Problem solving is the most important aspect of my personality. I also enjoy helping people figure things out.",
+                "intro-details":"Having spent some years in the pharmaceutical industry as a Medical Sales Representative, starting a family, and thinking of the way forward, I decided to tap into my love for IT."
             },
 
             "socialmedia":{
-                "linkedin":"https://www.linkedin.com/in/adeyemi-buhari-opeyemi-3aa4781b5/",
-                "github":"https://github.com/buhari44",
-                "twitter":"https://twitter.com/Cloud_Lordd",
-                "portfolio":"",
-                "slackHandle":"cloudlord"
+                "linkedin":"https://www.linkedin.com/in/funmifago/",
+                "github":"https://github.com/Adephumie",
+                "twitter":"https://twitter.com/funmifago",
+                "portfolio":"https://github.com/Adephumie",
+                "slackHandle":"Adefunmilayo"
                  
-           }
+           },
+
+           "project":{
+                "first":{
+                "projectname":"Webpage",
+                "projectdescription":"I did this project to test out my knowledge on flexbox, indexing, and positioning.",
+                "projectlink":"https://adephumie.github.io/webpage/"
+                },
+
+                "second":{
+                "projectname":"Assignment",
+                "projectdescription":"My first AltSchool Assignment. I remember staying awake just to understand CSS and I was eventually able to pull of the website. That encouraged me to work on more projects.",
+                "projectlink":"https://adephumie.github.io/AltSchoolfirstassignment/"
+                },
+
+                "third":{
+                "projectname":"A Landing page",
+                "projectdescription":"I built this to learn how to implement a Hero page on a webiste. I learnt how to implement positioning and Z-index in my codes.",
+                "projectlink":"https://adephumie.github.io/landingpage/"
+                },
+
+                "fourth":{
+                "projectname":"Blog",
+                "projectdescription":"Worked on this project when I hadn't gained in-depth knowledge of CSS.",
+                "projectlink":"https://adephumie.github.io/MyBlog/"
+                }
+            },
+
+            "education":{
+                "first":"AltSchool Africa School of Engineering.",
+                "second":"OSC COllege of Fashion",
+                "third":"Obafemi Awolowo University, Ile-Ife."
+            }
+
         },
 
 
@@ -110,8 +143,7 @@
                 "portfolio":"",
                 "slackHandle":"cloudlord"
                 
-                 
-           }
+            }
         }
 
         
