@@ -97,7 +97,7 @@ Below are the upcoming features
 
 > **Display an error page when a student is not found**.
 
-> **Dispaly a welcome alert box when a user is about to open a dashboard** 
+> **Display a welcome alert box when a user is about to open a dashboard** 
 
 > **And More...**
 ---
