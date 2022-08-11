@@ -472,6 +472,43 @@
             "projectlink": ""
           }
         }
+      },
+      
+      {
+        "id": 11,
+        "stuId": 1699,
+        "name": "Abdulbasit Yusuf",
+        "track": "Frontend Engineering",
+        "circle": 9,
+        "img": "https://avatars.githubusercontent.com/u/53506936?s=400&u=87a35d9d2de9c191a560d23e501acb83b25103b0&v=4",
+        "description": {
+          "intro": "WOrld Class Software Engineer in Training",
+          "introdetails": "Highly motivated software engineer in training with a flair for developing interactive and responsive websites, skilled with basic HTML, CSS and JavaScript"
+        },
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/jideotetic/",
+          "github": "https://github.com/jideotetic",
+          "twitter": "https://twitter.com/habdulbasheet",
+          "portfolio": "https://jideotetic.github.io",
+          "slackHandle": "Yusuf Abdulbasit"
+        },
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+        "project": {
+          "first": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
+        }
       }
     ]
   }
