@@ -39,6 +39,9 @@ align-items: center;
 
 .logo img{
 	width: 6em;
+	filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    filter: brightness(0) invert(1);
 }
 nav .links {
 	
