@@ -211,24 +211,26 @@
 
   
       },
+
       
       {
-        "id": 5,
-        "stuId": 2755,
-        "name": "Sunday JIMOH",
+      "id": 5,
+      "stuId": 2000,
+        "name": "Oloto Samson",
         "track": "Backend Engineering",
-        "circle": 248,
-        "img": "https://avatars.githubusercontent.com/u/31360475?v=4",
+        "circle": 262,
+        "img": "https://avatars.githubusercontent.com/u/40104447?v=4",
         "description": {
-            "intro": "I am the Backend Dude. I am geared towards building high- performing and innovative products following best practices and industry standards.",
-            "introdetails": "Don't stress it. Just encapsulate it. I am proud to be a part of this Software Engineering Program.I am geared towards building high- performing and innovative products following best practices and industry standards. I’m passionate about solving problems, With the right knowledge and skills, everything can be automated, and manual procedures can be eliminated. This is my motivation. In the face of an unpredictably evolving world, I want to create systems (apps, websites) that are efficient, dependable, and safe. I am currently studying backend engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering."
+            "intro": "I am the backend guy",
+            "introdetails": "Don't stress it. Just encapsulate it."
         },
         "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/sunday-jimoh-1195b8173/",
-            "github": "https://github.com/sunday4me",
-            "twitter": "https://twitter.com/sunnet4me",
+            "linkedin": "https://www.linkedin.com/in/oloto-samson/",
+            "github": "https://github.com/oloto",
+            "twitter": "https://twitter.com/olotosamson",
             "portfolio": "",
-            "slackHandle": "Sunday4me"
+            "slackHandle": "Samguine"
+
         },
         "experience": {
             "first": "",
@@ -247,8 +249,216 @@
                 "projectlink": ""
             }
         }
-      }
+
+      },
+
+      
+
+      {
+        "id": 6,
+        "stuId": 4804,
+        "name": "Adeniyi Olanrewaju",
+        "track": "Backend Engineering",
+        "circle": 273,
+        "img": "https://github.com/engrmarkk.png",
+
+        "description": {
+          "intro": "Being creative is an aspect of my personality. I love to brainstorm on special ways to achieve a task.",
+          "intro-details": "I am a tech enthusiast with a high interest in software development, I wish to a great developer in few years time, so i took this chance to learn and work towards in achievung my dream in the tech world!."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/iamengrmark/",
+          "github": "https://github.com/engrmarkk",
+          "twitter": "https://twitter.com/iamengrmark",
+          "portfolio": "",
+          "slackHandle": "Adeniyi Olarewaju"
+        },
+
+        "project": {
+
+          "first": {
+            "projectname": "Assignment",
+            "projectdescription": "My first AltSchool Assignment. The development of a static unresponsive portfolio along with the deisgn of a non-functional calculator.",
+            "projectlink": "https://ALTSCHOOLASSIGNMENT01.engrmark.repl.co"
+          },
+
+          "second": {
+            "projectname": "Webpage",
+            "projectdescription": "I did this project to test out my knowledge on media query.",
+            "projectlink": "https://New-one.engrmark.repl.co"
+          },
+
+
+          "third": {
+            "projectname": "A Quiz platform",
+            "projectdescription": "I designed this implementing my understanding of Javascript. A quiz platform where you get  to answer 10 questions in a minute, you get your result displayed to you if you fail to finish up before 1 min. It was fun to code.",
+            "projectlink": "https://quiz-1.engrmark.repl.co"
+          },
+
+          "fourth": {
+            "projectname": "A Qoute Generator",
+            "projectdescription": "I had to understand how Promise, Async/Await workd before moving to my track, so i was able to design a quote generator with what i learnt from it.",
+            "projectlink": "https://Quote-Gen.engrmark.repl.co"
+          }
+        },
+
+        "education": {
+          "first": "AltSchool Africa School of Engineering.",
+          "second": "Ekiti State University, Ado Ekiti",
+          "third": "United Universal Comprehensive College, Governor's Road, Ikotun, Lagos State."
+        }
+
+      },
+      
+      
+      {
+        "id": 7,
+        "stuId": 3075,
+        "name": "Ojoachele Onuh",
+        "track": "Frontend Engineering",
+        "circle": 139,
+        "img": "https://github.com/Achele.png",
     
+        "description":{
+                    "intro": "I'm a software engineer, fashion designer and an Entrepreneur",
+                    "introdetails": "I enjoy implementing user interface designs using languages like HTML, CSS, JavaScript"
+                },
+    
+        "socialmedia":{
+                    "linkedin": "https://www.linkedin.com/in/achele/",
+                    "github": "https://github.com/Achele",
+                    "twitter": "https://twitter.com/ojoachele",
+                    "portfolio": "https://github.com/Achele",
+                    "slackHandle": "Onuh Ojoachele"
+                 },
+    
+    
+        "project":{
+                    "first":{
+                        "projectname":"Basketball-Scoreboard",
+                        "projectdescription":"This was my first javascript project, built from scracth by me. It shows a score board of both the home and guest team in a basketball game, number of fouls commited by both teams, and a new game button that resets everything back to zero for the commencement of a fresh game. ",
+                        "projectlink":"https://achele.github.io/Basketball-Scoreboard-Project/"
+                    },
+                    "second":{
+                        "projectname":"Metric-Imperial-unit-Converter",
+                        "projectdescription":"This project converts to Metres/Feet, Litres/Gallons and Kilogram/Pounds.",
+                        "projectlink":"https://achele.github.io/Metric-Imperial-Unit-Converter/"
+                    },
+    
+                    "third":{
+    
+                        "projectname":"product-preview-card-component",
+                        "projectdescription":"I built this to learn how to implement a mobile-first workflow. Users should be able to view the optimal layout depending on their device's screen",
+                        "projectlink":"https://savethenextjambites.netlify.app/"
+                    }
+                 }
+        
+
+                },
+      
+         {
+            "id": 8,
+            "stuId": 4858,
+            "name": "Adedolapo Olutuyo",
+            "track": "Cloud Engineering",
+            "circle": 409,
+            "img": "https://avatars.githubusercontent.com/u/85107972?v=4",
+            "description": {
+                "intro": "Passionate about eventually creating video games that tell a story and playing professional football.",
+                "introdetails": ""
+            },
+            "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/adedolapo-o-968841b6/",
+                "github": "https://github.com/tuyojr",
+                "twitter": "https://twitter.com/tuyojjr",
+                "portfolio": "",
+                "slackHandle": "tuyo"
+            },
+            "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+            },
+            "project": {
+                "first": {
+                    "projectname": "",
+                    "projectdescription": "",
+                    "projectlink": ""
+                },
+                "second": {
+                    "projectname": "",
+                    "projectdescription": "",
+                    "projectlink": ""
+                }
+            }
+      },
+      
+      
+       {
+        "id": 9,
+        "stuId": 4003,
+        "name": "Robert Adoga",
+        "track": "Frontend Engineering",
+        "circle": 45,
+        "img": "https://avatars.githubusercontent.com/u/67406036?s=400&u=4957631083a3dbb56376f698fb8c420c3195635f&v=4",
+        "description": {
+          "intro": "I believe in reality, Also, very creative in solving problem",
+
+          "intro-details": "I'm a Software Engineer based in Benin, Edo State Nigeria. I specialize in biulding software to user satisfaction , with clean UI. My focus is on creating engaging, accessible and performant interfaces for humans as well as contributing in building useful open-source projects. I am currenting running a degree in University of Cross River State (UNICROSS) Depertment of computer Science and  currently enrolled for a diploma and a certification program in software engineering and REact JS from: AltSchool Africa."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/robertadoga",
+          "github": "https://github.com/lilbobb",
+          "twitter": "https://twitter.com/BobAdoga",
+          "portfolio": "",
+          "slackHandle": "Robert Adoga U."
+        },
+
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+
+        "project": {
+          "first": { 
+            "projectname": "leadTracker",
+            "projectdescription": "A Chrome Extension that keep track of url and save them for reference",
+            "projectlink": "https://stellular-pie-5c56fb.netlify.app/"
+          },
+          "second": {
+            "projectname": "Metric/Imperical Unit Conversion",
+            "projectdescription": "A Unit converter that converts length, volumn and mass.",
+            "projectlink": "https://lucent-chimera-8fe115.netlify.app/"
+          }
+        }
+      },
+      
+      {
+        "id": 10,
+        "stuId": 2755,
+        "name": "Sunday JIMOH",
+        "track": "Backend Engineering",
+        "circle": 248,
+        "img": "https://avatars.githubusercontent.com/u/31360475?v=4",
+        "description": {
+            "intro": "I am the Backend Dude. I am geared towards building high- performing and innovative products following best practices and industry standards.",
+            "introdetails": "Don't stress it. Just encapsulate it. I am proud to be a part of this Software Engineering Program.I am geared towards building high- performing and innovative products following best practices and industry standards. I’m passionate about solving problems, With the right knowledge and skills, everything can be automated, and manual procedures can be eliminated. This is my motivation. In the face of an unpredictably evolving world, I want to create systems (apps, websites) that are efficient, dependable, and safe. I am currently studying backend engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering."
+        },
+        "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/sunday-jimoh-1195b8173/",
+            "github": "https://github.com/sunday4me",
+            "twitter": "https://twitter.com/sunnet4me",
+            "portfolio": "",
+            "slackHandle": "Sunday4me"
+      
+      }
+      }
+
+
+
     ]
   }
 }
