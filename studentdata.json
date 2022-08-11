@@ -304,7 +304,51 @@
           "second": "Ekiti State University, Ado Ekiti",
           "third": "United Universal Comprehensive College, Governor's Road, Ikotun, Lagos State."
         }
-      }
+
+      },
+      
+      
+      {
+        "id": 7,
+        "stuId": 3075,
+        "name": "Ojoachele Onuh",
+        "track": "Frontend Engineering",
+        "circle": 139,
+        "img": "https://github.com/Achele.png",
+    
+        "description":{
+                    "intro": "I'm a software engineer, fashion designer and an Entrepreneur",
+                    "introdetails": "I enjoy implementing user interface designs using languages like HTML, CSS, JavaScript"
+                },
+    
+        "socialmedia":{
+                    "linkedin": "https://www.linkedin.com/in/achele/",
+                    "github": "https://github.com/Achele",
+                    "twitter": "https://twitter.com/ojoachele",
+                    "portfolio": "https://github.com/Achele",
+                    "slackHandle": "Onuh Ojoachele"
+                 },
+    
+    
+        "project":{
+                    "first":{
+                        "projectname":"Basketball-Scoreboard",
+                        "projectdescription":"This was my first javascript project, built from scracth by me. It shows a score board of both the home and guest team in a basketball game, number of fouls commited by both teams, and a new game button that resets everything back to zero for the commencement of a fresh game. ",
+                        "projectlink":"https://achele.github.io/Basketball-Scoreboard-Project/"
+                    },
+                    "second":{
+                        "projectname":"Metric-Imperial-unit-Converter",
+                        "projectdescription":"This project converts to Metres/Feet, Litres/Gallons and Kilogram/Pounds.",
+                        "projectlink":"https://achele.github.io/Metric-Imperial-Unit-Converter/"
+                    },
+    
+                    "third":{
+    
+                        "projectname":"product-preview-card-component",
+                        "projectdescription":"I built this to learn how to implement a mobile-first workflow. Users should be able to view the optimal layout depending on their device's screen",
+                        "projectlink":"https://savethenextjambites.netlify.app/"
+                    }
+                 }
         
   
 
