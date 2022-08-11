@@ -143,9 +143,6 @@
         }
       },
 
-     
-        
-
       {
         "id": 3,
         "stuId": 5337,
@@ -172,87 +169,80 @@
           "second": "Product Manager @Jenieks Global"
         }
       },
-      
-      {
-            "id": 4,
-            "stuId": 4536,
-            "name": "Awosise Oluwaseun",
-            "track": "Backend Engineering",
-            "circle": 271,
-            "img": "https://avatars.githubusercontent.com/u/66667958?v=4",
-            "description": {
-                "intro": "Passionate about how and why it works that way",
-                "introdetails": "Having taken a little delve into the world of genetics and bioinformatics, I love for software engineering was spawned. From using some of the biological tools to actually wanting to know what goes on behind the scene and her am I wanting to be able to build and design what goes on behind the scene of most of these biological tools."
-            },
-            "socialmedia": {
-                "linkedin": "https://www.linkedin.com/in/oluwaseun-awosise/",
-                "github": "https://github.com/jhhornn",
-                "twitter": "https://twitter.com/jhhornn",
-                "portfolio": "",
-                "slackHandle": "Oluwaseun"
-            },
-            "experience": {
-                "first": "",
-                "second": "",
-                "third": ""
-            },
-            "project": {
-                "first": {
-                    "projectname": "",
-                    "projectdescription": "",
-                    "projectlink": ""
-                },
-                "second": {
-                    "projectname": "",
-                    "projectdescription": "",
-                    "projectlink": ""
-                }
-            }
 
-  
+      {
+        "id": 4,
+        "stuId": 4536,
+        "name": "Awosise Oluwaseun",
+        "track": "Backend Engineering",
+        "circle": 271,
+        "img": "https://avatars.githubusercontent.com/u/66667958?v=4",
+        "description": {
+          "intro": "Passionate about how and why it works that way",
+          "introdetails": "Having taken a little delve into the world of genetics and bioinformatics, I love for software engineering was spawned. From using some of the biological tools to actually wanting to know what goes on behind the scene and her am I wanting to be able to build and design what goes on behind the scene of most of these biological tools."
+        },
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/oluwaseun-awosise/",
+          "github": "https://github.com/jhhornn",
+          "twitter": "https://twitter.com/jhhornn",
+          "portfolio": "",
+          "slackHandle": "Oluwaseun"
+        },
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+        "project": {
+          "first": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
+        }
       },
 
-      
       {
-      "id": 5,
-      "stuId": 2000,
+        "id": 5,
+        "stuId": 2000,
         "name": "Oloto Samson",
         "track": "Backend Engineering",
         "circle": 262,
         "img": "https://avatars.githubusercontent.com/u/40104447?v=4",
         "description": {
-            "intro": "I am the backend guy",
-            "introdetails": "Don't stress it. Just encapsulate it."
+          "intro": "I am the backend guy",
+          "introdetails": "Don't stress it. Just encapsulate it."
         },
         "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/oloto-samson/",
-            "github": "https://github.com/oloto",
-            "twitter": "https://twitter.com/olotosamson",
-            "portfolio": "",
-            "slackHandle": "Samguine"
-
+          "linkedin": "https://www.linkedin.com/in/oloto-samson/",
+          "github": "https://github.com/oloto",
+          "twitter": "https://twitter.com/olotosamson",
+          "portfolio": "",
+          "slackHandle": "Samguine"
         },
         "experience": {
-            "first": "",
-            "second": "",
-            "third": ""
+          "first": "",
+          "second": "",
+          "third": ""
         },
         "project": {
-            "first": {
-                "projectname": "",
-                "projectdescription": "",
-                "projectlink": ""
-            },
-            "second": {
-                "projectname": "",
-                "projectdescription": "",
-                "projectlink": ""
-            }
+          "first": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
         }
-
       },
-
-      
 
       {
         "id": 6,
@@ -276,7 +266,6 @@
         },
 
         "project": {
-
           "first": {
             "projectname": "Assignment",
             "projectdescription": "My first AltSchool Assignment. The development of a static unresponsive portfolio along with the deisgn of a non-functional calculator.",
@@ -288,7 +277,6 @@
             "projectdescription": "I did this project to test out my knowledge on media query.",
             "projectlink": "https://New-one.engrmark.repl.co"
           },
-
 
           "third": {
             "projectname": "A Quiz platform",
@@ -308,10 +296,8 @@
           "second": "Ekiti State University, Ado Ekiti",
           "third": "United Universal Comprehensive College, Governor's Road, Ikotun, Lagos State."
         }
-
       },
-      
-      
+
       {
         "id": 7,
         "stuId": 3075,
@@ -319,83 +305,78 @@
         "track": "Frontend Engineering",
         "circle": 139,
         "img": "https://github.com/Achele.png",
-    
-        "description":{
-                    "intro": "I'm a software engineer, fashion designer and an Entrepreneur",
-                    "introdetails": "I enjoy implementing user interface designs using languages like HTML, CSS, JavaScript"
-                },
-    
-        "socialmedia":{
-                    "linkedin": "https://www.linkedin.com/in/achele/",
-                    "github": "https://github.com/Achele",
-                    "twitter": "https://twitter.com/ojoachele",
-                    "portfolio": "https://github.com/Achele",
-                    "slackHandle": "Onuh Ojoachele"
-                 },
-    
-    
-        "project":{
-                    "first":{
-                        "projectname":"Basketball-Scoreboard",
-                        "projectdescription":"This was my first javascript project, built from scracth by me. It shows a score board of both the home and guest team in a basketball game, number of fouls commited by both teams, and a new game button that resets everything back to zero for the commencement of a fresh game. ",
-                        "projectlink":"https://achele.github.io/Basketball-Scoreboard-Project/"
-                    },
-                    "second":{
-                        "projectname":"Metric-Imperial-unit-Converter",
-                        "projectdescription":"This project converts to Metres/Feet, Litres/Gallons and Kilogram/Pounds.",
-                        "projectlink":"https://achele.github.io/Metric-Imperial-Unit-Converter/"
-                    },
-    
-                    "third":{
-    
-                        "projectname":"product-preview-card-component",
-                        "projectdescription":"I built this to learn how to implement a mobile-first workflow. Users should be able to view the optimal layout depending on their device's screen",
-                        "projectlink":"https://savethenextjambites.netlify.app/"
-                    }
-                 }
-        
 
-                },
-      
-         {
-            "id": 8,
-            "stuId": 4858,
-            "name": "Adedolapo Olutuyo",
-            "track": "Cloud Engineering",
-            "circle": 409,
-            "img": "https://avatars.githubusercontent.com/u/85107972?v=4",
-            "description": {
-                "intro": "Passionate about eventually creating video games that tell a story and playing professional football.",
-                "introdetails": ""
-            },
-            "socialmedia": {
-                "linkedin": "https://www.linkedin.com/in/adedolapo-o-968841b6/",
-                "github": "https://github.com/tuyojr",
-                "twitter": "https://twitter.com/tuyojjr",
-                "portfolio": "",
-                "slackHandle": "tuyo"
-            },
-            "experience": {
-                "first": "",
-                "second": "",
-                "third": ""
-            },
-            "project": {
-                "first": {
-                    "projectname": "",
-                    "projectdescription": "",
-                    "projectlink": ""
-                },
-                "second": {
-                    "projectname": "",
-                    "projectdescription": "",
-                    "projectlink": ""
-                }
-            }
+        "description": {
+          "intro": "I'm a software engineer, fashion designer and an Entrepreneur",
+          "introdetails": "I enjoy implementing user interface designs using languages like HTML, CSS, JavaScript"
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/achele/",
+          "github": "https://github.com/Achele",
+          "twitter": "https://twitter.com/ojoachele",
+          "portfolio": "https://github.com/Achele",
+          "slackHandle": "Onuh Ojoachele"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Basketball-Scoreboard",
+            "projectdescription": "This was my first javascript project, built from scracth by me. It shows a score board of both the home and guest team in a basketball game, number of fouls commited by both teams, and a new game button that resets everything back to zero for the commencement of a fresh game. ",
+            "projectlink": "https://achele.github.io/Basketball-Scoreboard-Project/"
+          },
+          "second": {
+            "projectname": "Metric-Imperial-unit-Converter",
+            "projectdescription": "This project converts to Metres/Feet, Litres/Gallons and Kilogram/Pounds.",
+            "projectlink": "https://achele.github.io/Metric-Imperial-Unit-Converter/"
+          },
+
+          "third": {
+            "projectname": "product-preview-card-component",
+            "projectdescription": "I built this to learn how to implement a mobile-first workflow. Users should be able to view the optimal layout depending on their device's screen",
+            "projectlink": "https://savethenextjambites.netlify.app/"
+          }
+        }
       },
-      
-      
-       {
+
+      {
+        "id": 8,
+        "stuId": 4858,
+        "name": "Adedolapo Olutuyo",
+        "track": "Cloud Engineering",
+        "circle": 409,
+        "img": "https://avatars.githubusercontent.com/u/85107972?v=4",
+        "description": {
+          "intro": "Passionate about eventually creating video games that tell a story and playing professional football.",
+          "introdetails": ""
+        },
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/adedolapo-o-968841b6/",
+          "github": "https://github.com/tuyojr",
+          "twitter": "https://twitter.com/tuyojjr",
+          "portfolio": "",
+          "slackHandle": "tuyo"
+        },
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+        "project": {
+          "first": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
+        }
+      },
+
+      {
         "id": 9,
         "stuId": 4003,
         "name": "Robert Adoga",
@@ -423,7 +404,7 @@
         },
 
         "project": {
-          "first": { 
+          "first": {
             "projectname": "leadTracker",
             "projectdescription": "A Chrome Extension that keep track of url and save them for reference",
             "projectlink": "https://stellular-pie-5c56fb.netlify.app/"
@@ -435,7 +416,7 @@
           }
         }
       },
-      
+
       {
         "id": 10,
         "stuId": 2755,
@@ -444,21 +425,54 @@
         "circle": 248,
         "img": "https://avatars.githubusercontent.com/u/31360475?v=4",
         "description": {
-            "intro": "I am the Backend Dude. I am geared towards building high- performing and innovative products following best practices and industry standards.",
-            "introdetails": "Don't stress it. Just encapsulate it. I am proud to be a part of this Software Engineering Program.I am geared towards building high- performing and innovative products following best practices and industry standards. I’m passionate about solving problems, With the right knowledge and skills, everything can be automated, and manual procedures can be eliminated. This is my motivation. In the face of an unpredictably evolving world, I want to create systems (apps, websites) that are efficient, dependable, and safe. I am currently studying backend engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering."
+          "intro": "I am the Backend Dude. I am geared towards building high- performing and innovative products following best practices and industry standards.",
+          "introdetails": "Don't stress it. Just encapsulate it. I am proud to be a part of this Software Engineering Program.I am geared towards building high- performing and innovative products following best practices and industry standards. I’m passionate about solving problems, With the right knowledge and skills, everything can be automated, and manual procedures can be eliminated. This is my motivation. In the face of an unpredictably evolving world, I want to create systems (apps, websites) that are efficient, dependable, and safe. I am currently studying backend engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering."
         },
         "socialmedia": {
-            "linkedin": "https://www.linkedin.com/in/sunday-jimoh-1195b8173/",
-            "github": "https://github.com/sunday4me",
-            "twitter": "https://twitter.com/sunnet4me",
-            "portfolio": "",
-            "slackHandle": "Sunday4me"
-      
+          "linkedin": "https://www.linkedin.com/in/sunday-jimoh-1195b8173/",
+          "github": "https://github.com/sunday4me",
+          "twitter": "https://twitter.com/sunnet4me",
+          "portfolio": "",
+          "slackHandle": "Sunday4me"
+        }
+      },
+
+      {
+        "id": 11,
+        "stuId": 9890,
+        "name": "Kareem Opeyemi",
+        "track": "Frontend Engineering",
+        "circle": 153,
+        "img": "https://avatars.githubusercontent.com/u/88961549?v=4",
+        "description": {
+          "intro": "Frontend is beautiful",
+          "introdetails": "Technology is fascinating and it has permeated every sector of every economies in the world. The world of frontend appeals to me and I am taking it one console.log(), one display flex and one div tag at a time"
+        },
+        "socialmedia": {
+          "linkedin": "",
+          "github": "https://github.com/talentlessDeveloper",
+          "twitter": "https://twitter.com/talentless_dev",
+          "portfolio": "",
+          "slackHandle": "Ope Kareem"
+        },
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+        "project": {
+          "first": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
+        }
       }
-      }
-
-
-
     ]
   }
 }
