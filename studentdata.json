@@ -472,7 +472,40 @@
             "projectlink": ""
           }
         }
-      }
+      },
+
+      {
+        "id":12,
+        "stuId": 5327,
+        "name":"Titilola Shittu",
+        "track":"Frontend Engineering",
+        "circle":79,
+        "img":"https://avatars.githubusercontent.com/u/81013123?v=4",
+    
+        "description":{
+          "intro":"Biochemist, Content writer, Frontend engineering student",
+          "introdetails":"Tech enthusiast passionate about learning tech stacks to create technology and elevate people. I'm also a freelance writer specialized in the blockchain niche, I write about NFTs, DeFi, Web3. My interest is connecting with more web developers and creating awesome user experiences."
+        },
+    
+        "socialmedia":{
+          "linkedin":"https://www.linkedin.com/in/titilolashittu",
+          "github":"https://github.com/lhorla",
+          "twitter":"https://twitter.com/errbodylovslola",
+          "portfolio":"",
+          "slackHandle":"lhorla"
+        },
+    
+        "experience":{
+          "first":"Social media manager @AdsCentral",
+          "second":"Content writer @Inclide",
+          "third": "Contributing writer @OperaNewsNigeria"
+        },
+
+        "education":{
+          "first": "AltSchool Africa School of Engineering.",
+          "second": "Olabisi Onabanjo University, Ago Iwoye, Ogun State."
+        }
+      }    
     ]
   }
 }
