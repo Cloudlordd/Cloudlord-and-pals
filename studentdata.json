@@ -211,9 +211,47 @@
 
   
       },
+      
+      
+      "id": 5,
+      "stuId": 2000,
+        "name": "Oloto Samson",
+        "track": "Backend Engineering",
+        "circle": 262,
+        "img": "https://avatars.githubusercontent.com/u/40104447?v=4",
+        "description": {
+            "intro": "I am the backend guy",
+            "introdetails": "Don't stress it. Just encapsulate it."
+        },
+        "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/oloto-samson/",
+            "github": "https://github.com/oloto",
+            "twitter": "https://twitter.com/olotosamson",
+            "portfolio": "",
+            "slackHandle": "Samguine"
+        },
+        "experience": {
+            "first": "",
+            "second": "",
+            "third": ""
+        },
+        "project": {
+            "first": {
+                "projectname": "",
+                "projectdescription": "",
+                "projectlink": ""
+            },
+            "second": {
+                "projectname": "",
+                "projectdescription": "",
+                "projectlink": ""
+            }
+        },
+
+
 
       {
-        "id": 5,
+        "id": 6,
         "stuId": 4804,
         "name": "Adeniyi Olanrewaju",
         "track": "Backend Engineering",
@@ -267,6 +305,9 @@
           "third": "United Universal Comprehensive College, Governor's Road, Ikotun, Lagos State."
         }
       }
+        
+  }
+
     ]
   }
 }
