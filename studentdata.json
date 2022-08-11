@@ -210,7 +210,44 @@
             }
 
   
+      },
+      {
+        "id": 6,
+        "stuId": 2755,
+        "name": "Sunday JIMOH",
+        "track": "Backend Engineering",
+        "circle": 248,
+        "img": "https://avatars.githubusercontent.com/u/31360475?v=4",
+        "description": {
+            "intro": "I am the Backend Dude. I am geared towards building high- performing and innovative products following best practices and industry standards.",
+            "introdetails": "Don't stress it. Just encapsulate it. I am proud to be a part of this Software Engineering Program.I am geared towards building high- performing and innovative products following best practices and industry standards. I’m passionate about solving problems, With the right knowledge and skills, everything can be automated, and manual procedures can be eliminated. This is my motivation. In the face of an unpredictably evolving world, I want to create systems (apps, websites) that are efficient, dependable, and safe. I am currently studying backend engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering.""
+        },
+        "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/sunday-jimoh-1195b8173/",
+            "github": "https://github.com/sunday4me",
+            "twitter": "https://twitter.com/sunnet4me",
+            "portfolio": "",
+            "slackHandle": "Sunday4me"
+        },
+        "experience": {
+            "first": "",
+            "second": "",
+            "third": ""
+        },
+        "project": {
+            "first": {
+                "projectname": "",
+                "projectdescription": "",
+                "projectlink": ""
+            },
+            "second": {
+                "projectname": "",
+                "projectdescription": "",
+                "projectlink": ""
+            }
+        }
       }
+    
     ]
   }
 }
