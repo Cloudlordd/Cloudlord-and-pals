@@ -211,6 +211,7 @@
 
   
       },
+
       
       {
       "id": 5,
@@ -351,7 +352,46 @@
                  }
         
 
+                },
+      
+         {
+            "id": 5,
+            "stuId": 4858,
+            "name": "Adedolapo Olutuyo",
+            "track": "Cloud Engineering",
+            "circle": 409,
+            "img": "https://avatars.githubusercontent.com/u/85107972?v=4",
+            "description": {
+                "intro": "Passionate about eventually creating video games that tell a story and playing professional football.",
+                "introdetails": ""
+            },
+            "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/adedolapo-o-968841b6/",
+                "github": "https://github.com/tuyojr",
+                "twitter": "https://twitter.com/tuyojjr",
+                "portfolio": "",
+                "slackHandle": "tuyo"
+            },
+            "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+            },
+            "project": {
+                "first": {
+                    "projectname": "",
+                    "projectdescription": "",
+                    "projectlink": ""
+                },
+                "second": {
+                    "projectname": "",
+                    "projectdescription": "",
+                    "projectlink": ""
                 }
+            }
+      }
+      
+
     ]
   }
 }
