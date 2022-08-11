@@ -248,8 +248,9 @@
                 "projectlink": ""
             }
         }
-
       },
+
+      
 
       {
         "id": 6,
@@ -355,7 +356,7 @@
                 },
       
          {
-            "id": 5,
+            "id": 8,
             "stuId": 4858,
             "name": "Adedolapo Olutuyo",
             "track": "Cloud Engineering",
@@ -389,8 +390,52 @@
                     "projectlink": ""
                 }
             }
+      },
+      
+      
+       {
+        "id": 9,
+        "stuId": 4003,
+        "name": "Robert Adoga",
+        "track": "Frontend Engineering",
+        "circle": 45,
+        "img": "https://avatars.githubusercontent.com/u/67406036?s=400&u=4957631083a3dbb56376f698fb8c420c3195635f&v=4",
+        "description": {
+          "intro": "I believe in reality, Also, very creative in solving problem",
+
+          "intro-details": "I'm a Software Engineer based in Benin, Edo State Nigeria. I specialize in biulding software to user satisfaction , with clean UI. My focus is on creating engaging, accessible and performant interfaces for humans as well as contributing in building useful open-source projects. I am currenting running a degree in University of Cross River State (UNICROSS) Depertment of computer Science and  currently enrolled for a diploma and a certification program in software engineering and REact JS from: AltSchool Africa."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/robertadoga",
+          "github": "https://github.com/lilbobb",
+          "twitter": "https://twitter.com/BobAdoga",
+          "portfolio": "",
+          "slackHandle": "Robert Adoga U."
+        },
+
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+
+        "project": {
+          "first": { 
+            "projectname": "leadTracker",
+            "projectdescription": "A Chrome Extension that keep track of url and save them for reference",
+            "projectlink": "https://stellular-pie-5c56fb.netlify.app/"
+          },
+          "second": {
+            "projectname": "Metric/Imperical Unit Conversion",
+            "projectdescription": "A Unit converter that converts length, volumn and mass.",
+            "projectlink": "https://lucent-chimera-8fe115.netlify.app/"
+          }
+        }
       }
       
+      
+
 
     ]
   }
