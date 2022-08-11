@@ -210,6 +210,62 @@
             }
 
   
+      },
+
+      {
+        "id": 5,
+        "stuId": 4804,
+        "name": "Adeniyi Olanrewaju",
+        "track": "Backend Engineering",
+        "circle": 273,
+        "img": "https://github.com/engrmarkk.png",
+
+        "description": {
+          "intro": "Being creative is an aspect of my personality. I love to brainstorm on special ways to achieve a task.",
+          "intro-details": "I am a tech enthusiast with a high interest in software development, I wish to a great developer in few years time, so i took this chance to learn and work towards in achievung my dream in the tech world!."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/iamengrmark/",
+          "github": "https://github.com/engrmarkk",
+          "twitter": "https://twitter.com/iamengrmark",
+          "portfolio": "",
+          "slackHandle": "Adeniyi Olarewaju"
+        },
+
+        "project": {
+
+          "first": {
+            "projectname": "Assignment",
+            "projectdescription": "My first AltSchool Assignment. The development of a static unresponsive portfolio along with the deisgn of a non-functional calculator.",
+            "projectlink": "https://ALTSCHOOLASSIGNMENT01.engrmark.repl.co"
+          },
+
+          "second": {
+            "projectname": "Webpage",
+            "projectdescription": "I did this project to test out my knowledge on media query.",
+            "projectlink": "https://New-one.engrmark.repl.co"
+          },
+
+
+          "third": {
+            "projectname": "A Quiz platform",
+            "projectdescription": "I designed this implementing my understanding of Javascript. A quiz platform where you get  to answer 10 questions in a minute, you get your result displayed to you if you fail to finish up before 1 min. It was fun to code.",
+            "projectlink": "https://quiz-1.engrmark.repl.co"
+          },
+
+          "fourth": {
+            "projectname": "A Qoute Generator",
+            "projectdescription": "I had to understand how Promise, Async/Await workd before moving to my track, so i was able to design a quote generator with what i learnt from it.",
+            "projectlink": "https://Quote-Gen.engrmark.repl.co"
+          }
+        },
+
+        "education": {
+          "first": "AltSchool Africa School of Engineering.",
+          "second": "Ekiti State University, Ado Ekiti",
+          "third": "United Universal Comprehensive College, Governor's Road, Ikotun, Lagos State."
+        }
       }
     ]
   }
