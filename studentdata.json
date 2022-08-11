@@ -212,7 +212,7 @@
   
       },
       
-      
+      {
       "id": 5,
       "stuId": 2000,
         "name": "Oloto Samson",
@@ -246,9 +246,9 @@
                 "projectdescription": "",
                 "projectlink": ""
             }
-        },
+        }
 
-
+      },
 
       {
         "id": 6,
@@ -306,7 +306,7 @@
         }
       }
         
-  }
+  
 
     ]
   }
