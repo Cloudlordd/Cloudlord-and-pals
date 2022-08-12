@@ -832,6 +832,54 @@
         }
 
     },
+
+    {
+      "id": 0,
+      "stuId": 2678,
+      "name": "Anietie Akpanumoh",
+      "track": "Front-End Engineering",
+      "circle": 123,
+      "img": "https://avatars.githubusercontent.com/u/102967666?v=4",
+
+      "description": {
+        "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction",
+        "introdetails": "I am a solution-oriented Front-End Developer and an adventurer with a professional background in IT Support and Network Security. I worked as an IT Support personnel for three years and developed an interest in Software Engineering. I am motivated by the opportunity that software development provides to positively impact the life of an individual and the community at large."
+      },
+
+      "socialmedia": {
+        "linkedin": "https://www.linkedin.com/in/anietieakpanumoh/",
+        "github": "https://github.com/AnietieAkpanumoh",
+        "twitter": "https://twitter.com/tukooldegreat",
+        "portfolio": "",
+        "slackHandle": "Anietie Akpanumoh"
+      },
+
+      "experience": {
+        "first": "IT Support Engineer @oakpensionsltd",
+        "second": "Network Operations Centre Engineer @Tizeti",
+        "third": ""
+      },
+
+      "project": {
+        "first": {
+          "projectname": "Landing Page",
+          "projectdescription": "I practiced my knowledge of HTML, CSS, and media queries by creating a simple order summary landing page, a challenge on Frontendmentor. I also hosted the result on Netlify",
+          "projectlink": "https://anietie-akpanumoh-order-summary.netlify.app/"
+        },
+        "second": {
+          "projectname": "3-Column preview card component",
+          "projectdescription": "A 3-Column preview card component challenge from Frontendmentor platform",
+          "projectlink": "https://anietieakpanumoh.github.io/Preview-column-component/"
+        },
+
+        "third": {
+          "projectname": "A QR-Code Component",
+          "projectdescription": "The QR-Code component is a challenge I took on frontendmentor platform to practice my knowledge of Html, css and responsiveness",
+          "projectlink": "https://anietieakpanumoh.github.io/QR-CODE-COMPONENT/"
+        }
+      }
+    },
+
     
     {
         "id": 13,
