@@ -509,6 +509,51 @@
             "projectlink": ""
           }
         }
+      },
+
+      {
+        "id": 12,
+        "stuId": 4101,
+        "name": " Ayomide Victor",
+        "track": "Front-End Engineering",
+        "circle": 168,
+        "img": "",
+
+        "description": {
+          "intro": "Problem solving is the most important aspect of my personality. I enjoy thinking outside the box and always listen when others speak",
+          "introdetails": "I'm a Software Engineer and Front-end developer who currently interns as a Software Engineer at ALX AFRICA. I'm passionate about sharing knowledge, documentation, web engineering, implementing and converting attractive designs, prototypes, and wireframes made by the UI/UX team while ensuring responsiveness for mobile, web, and all devices.."
+        },
+
+        "socialmedia": {
+          "linkedin": "HTTPS://WWW.LINKEDIN.COM/IN/AYOMIDE-VICTOR-A7918B1B0/",
+          "github": "https://github.com/midevictor",
+          "twitter": "https://twitter.com/mide_victor",
+          "portfolio": "",
+          "slackHandle": "Ayomide Victor"
+        },
+
+        "experience": {
+         
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Chat_Me App",
+            "projectdescription": "I built a responsive social media clone where I made use of both Facebook and Instagram interfaces. This was a personal project in which I was able to design an excellent user interface, implement the dark and light mode theme, and make it possible for users to search for friend requests sent.",
+            "projectlink": "https://midevictor.github.io/ChatMe/"
+          },
+          "second": {
+            "projectname": "GitHub Finder",
+            "projectdescription": "The logic behind this project was to create an alternative solution to help users around the world search for different GitHub users with their repositories. GitHub Finder provides instant feedback on any keyword entered into the search key by fetching all pieces of information from the Github API and providing instant results.",
+            "projectlink": "https://midevictor.github.io/GitHub-Finder-/"
+          },
+
+          "third": {
+            "projectname": "Pay-Me Admin Dashboard",
+            "projectdescription": "I built a responsive admin dashboard that allows users to manage their company's payroll, manage employees, and manage their company's bank accounts. This was a personal project in which I was able to design an excellent user interface, implement the dark and light mode theme. ",
+            "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
+          }
+        }
       }
     ]
   }
