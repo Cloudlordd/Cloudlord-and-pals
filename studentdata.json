@@ -876,8 +876,56 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
-      }
+      }, 
+      {
+        "id": 14,
+        "stuId": 4930,
+        "name": " Kalejaiye Tolulope",
+        "track": "Front-End Engineering",
+        "circle": 189,
+        "img": "https://avatars.githubusercontent.com/u/91467405?v=4",
 
+        "description": {
+          "intro": "Interested in solving problems and building amazing projects",
+          "introdetails": "Tolulope is a very inquisitive software engineer who is always ready to learn and I also love CSS"
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/kalejaiye-tolulope-0532211b2/",
+          "github": "https://github.com/Tolulopee",
+          "twitter": "https://twitter.com/_Tolulope_k",
+          "portfolio": "",
+          "slackHandle": "Kalejaiye Tolulope"
+        },
+
+        "experience": {
+         
+        },
+
+        "project": {
+          "first": {
+            "projectname": "",
+            "projectdescription": " ",
+            "projectlink": " "
+          },
+          "second": {
+            "projectname": " ",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+
+          "third": {
+            "projectname": "",
+            "projectdescription": " ",
+            "projectlink": " "
+          }
+        },
+        "education":{
+          "first":"AltSchool Africa School of Engineering.",
+          "second":"University Of Lagos,Akoka"
+      }
+      }
+ 
         
 
     ]
