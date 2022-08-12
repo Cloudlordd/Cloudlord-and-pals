@@ -878,6 +878,44 @@
         }
       },
 
+
+      {
+        "id": 14,
+        "stuId": 4754,
+        "name": "Jamilu Jibrilla",
+        "track": "Frontend Engineering",
+        "circle": 188,
+        "img": "https://avatars.githubusercontent.com/u/60932535?v=4",
+        "description": {
+          "intro": "Hello, i am Jamil. A frontend developer",
+          "introdetails": "I am a software engineering student and also a frontend web developer with experience building fast and reliable apps using html, css, javascript, react, react-redux, tailwind, git and github."
+        },
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/mwlite/in/jamilu-jibrilla-575441211",
+          "github": "https://github.com/jamilu-jibrilla",
+          "twitter": "https://twitter.com/Jb_jameel?t=hxPI15fFFDf66MPX20UDiQ&s=09",
+          "portfolio": "https://jamilu-jibrilla.github.io/portfolio/",
+          "slackHandle": "Jamilu JIbrilla"
+        },
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+        "project": {
+          "first": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
+        }
+      },
+
       {
         "id":15,
         "stuId": 5327,
