@@ -876,7 +876,50 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
+      },
+      {
+        "id": 14,
+        "stuId": 3316,
+        "name": "Margret Edeh",
+        "track": "Front-End Engineering",
+        "circle": 35,
+        "img": "https://avatars.githubusercontent.com/u/109107291?s=400&u=62f7e1fe79bf681ec1293dd2b7fc97bdaf29b50a&v=4",
+        "description": {
+          "intro": "i have a very aesthetic imagination and have these yearn for awesomeness and i always wanted to be people's solution, i guess you can call me a problem solver.",
+          "introdetails": "i am currently student of altschool africa. Which was a step to become a world class developer "
+        },
+        "socialmedia": {
+          "linkedin": "",
+          "github": " https://github.com/MargretEdeh",
+          "twitter": "https://twitter.com/EdehMargret",
+          "portfolio": "",
+          "slackHandle": "Margret Edeh"
+        },
+
+        "experience": {
+         
+        },
+
+        "project": {
+          "first": {
+            "projectname": "color flipper",
+            "projectdescription": "just a simple color flipper. ",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": " ",
+            "projectdesc":"",
+            "projectlink": ""
+          },
+
+          "third": {
+            "projectname": " ",
+            "projectdescription":  " ",
+            "projectlink": ""
+          }
+        }
       }
+
 
         
 
