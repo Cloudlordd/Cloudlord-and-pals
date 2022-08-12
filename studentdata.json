@@ -879,6 +879,7 @@
       },
 
 
+
       {
         "id": 14,
         "stuId": 4754,
@@ -946,6 +947,56 @@
         "education":{
           "first": "AltSchool Africa School of Engineering.",
           "second": "Olabisi Onabanjo University, Ago Iwoye, Ogun State."
+        }
+      },
+      
+       {
+        "id": 16,
+        "stuId": 3506,
+        "name": " Adisa Barakat Adekemi",
+        "track": "Backend Engineering",
+        "circle": 260,
+        "img": "https://ca.slack-edge.com/T03898UQN23-U039TQVU9UJ-c649a9a3cccf-512",
+
+        "description": {
+          "intro": "Problem solving is the most important aspect of my personality. I enjoy thinking outside the box and always listen when others speak",
+          "introdetails": "Transitioning into tech is one of my best decisions I've taken. I fell in love with tech in my last year in school. Coming from a non tech background and now catching up real quick is captivating. I am a software engineer, I love logical reasoning, solving problemms and making a change. I love to gain knowlege and I challenge myself to be the best version of myself. "
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/adekhemieadisa/",
+          "github": "https://github.com/Adekhemie",
+          "twitter": "https://twitter.com/adisa_adekhemie",
+          "portfolio": "",
+          "slackHandle": "Adekhemie"
+        },
+
+        "experience": {
+          "first": "Data Sccientist Intern @TechBridge Consulting"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Mini-portfolio",
+            "projectdescription": "I built a mini porfolio which comprises of my experience, a brief introduction about myself, education background, hobbies and the likes. It took some days before I could finish this project befoer I was just getting a hang of CSS ",
+            "projectlink": "https://Altschool-project.adisabarakat.repl.co"
+          },
+          "second": {
+            "projectname": "Responsive calculator",
+            "projectdescription": "I had to practice more on my Javascript so I decided to build this responsive calculator and as well fine tune my CSS knowledge",
+            "projectlink": "https://adekemi02.github.io/responsive-calculator/"
+          },
+
+          "third": {
+            "projectname": "Responsive Form Validation",
+            "projectdescription": "I built this responsive form validation to further broaden my knowledge of CSS and JavaScript. The form throws an error message if one field is not inputed or does not follow the proper format of the field.",
+            "projectlink": "https://Responsiveness-and-Media-Queries.adisabarakat.repl.co"
+          }
+        },
+
+        "education":{
+            "first":"AltSchool Africa School of Engineering.",
+            "second":"Yaba College of Technology"
         }
       }
 
