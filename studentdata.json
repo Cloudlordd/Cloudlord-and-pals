@@ -243,286 +243,6 @@
 
       {
         "id": 6,
-        "stuId": 2000,
-        "name": "Oloto Samson",
-        "track": "Backend Engineering",
-        "circle": 262,
-        "img": "https://avatars.githubusercontent.com/u/40104447?v=4",
-        "description": {
-          "intro": "I am the backend guy",
-          "introdetails": "Don't stress it. Just encapsulate it."
-        },
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/oloto-samson/",
-          "github": "https://github.com/oloto",
-          "twitter": "https://twitter.com/olotosamson",
-          "portfolio": "",
-          "slackHandle": "Samguine"
-        },
-        "experience": {
-          "first": "",
-          "second": "",
-          "third": ""
-        },
-        "project": {
-          "first": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          },
-          "second": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          }
-        }
-      },
-
-      {
-        "id": 0,
-        "stuId": 3374,
-        "name": "Adeyemi Buhari",
-        "track": "Cloud Engineering",
-        "circle": 145,
-        "img": "https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
-
-        "description": {
-          "intro": "Problem solving is the most important aspect of my personality. I enjoy thinking outside the box and always listen when others speak",
-          "introdetails": "I've been obsessed with the idea of using software to solve practical problems since I wrote my first program in Qbasic and manipulated it to produce the desired output. I am passionate about solving the never-ending puzzle that is software engineering. I believe in the power of programming to change and improve people's lives all over the world. Adeyemi Buhari Opeyemi is a Junior Web Developer who has worked in the frontend team of some amazing organizations. Design thinking, problem solving, communication, education, and training are all areas in which I excel. If you are a company looking for a web presence or an employer looking to hire, please contact me here. In previous years, I had the opportunity to intern with TIIDELAB, an organization that assists passionate students and graduates in developing their skills in software engineering, as well as providing softskills with full curriculum to assist fellows in building a public profile. Moving forward on my journey, I decided to focus on becoming a world class cloud engineer in the coming years, assisting organizations to scale applications, manage resources, provide server security, and collaborate with in-house software engineering teams to negotiate seamless ways to provide and scale applications. I am currently studying cloud engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering."
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/adeyemi-buhari-opeyemi-3aa4781b5/",
-          "github": "https://github.com/buhari44",
-          "twitter": "https://twitter.com/Cloud_Lordd",
-          "portfolio": "",
-          "slackHandle": "cloudlord"
-        },
-
-        "experience": {
-          "first": "FrontEnd Engineer Intern @TIIDELAB",
-          "second": "Program Manager @Novustack",
-          "third": ""
-        },
-
-        "project": {
-          "first": {
-            "projectname": "FORBES",
-            "projectdescription": "A platform that was built on forbes api,it display and give extensive informations on current richest folks in the world",
-            "projectlink": "https://afrikaforbes.netlify.app/"
-          },
-          "second": {
-            "projectname": "Box-Monie",
-            "projectdescription": "A financial platform that allow users to contibute and take turns by creating cohort that contain certain number of user.Still in progress.",
-            "projectlink": "http://boxmonie.com/"
-          },
-
-          "third": {
-            "projectname": "The-Life-Changer",
-            "projectdescription": "The life changer is a platform where 2021 Jamb Applicants can find Questions and Answers to the Life Changer Novel.",
-            "projectlink": "https://savethenextjambites.netlify.app/"
-          }
-        }
-      },
-
-      {
-        "id": 1,
-        "stuId": 2557,
-        "name": "Funmilayo Fagoyinbo",
-        "track": "Cloud Engineering",
-        "circle": 361,
-        "img": "https://github.com/Adephumie.png",
-
-        "description": {
-          "intro": "Problem solving is the most important aspect of my personality. I also enjoy helping people figure things out.",
-          "intro-details": "Having spent some years in the pharmaceutical industry as a Medical Sales Representative, starting a family, and thinking of the way forward, I decided to tap into my love for IT."
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/funmifago/",
-          "github": "https://github.com/Adephumie",
-          "twitter": "https://twitter.com/funmifago",
-          "portfolio": "https://github.com/Adephumie",
-          "slackHandle": "Adefunmilayo"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "Webpage",
-            "projectdescription": "I did this project to test out my knowledge on flexbox, indexing, and positioning.",
-            "projectlink": "https://adephumie.github.io/webpage/"
-          },
-
-          "second": {
-            "projectname": "Assignment",
-            "projectdescription": "My first AltSchool Assignment. I remember staying awake just to understand CSS and I was eventually able to pull of the website. That encouraged me to work on more projects.",
-            "projectlink": "https://adephumie.github.io/AltSchoolfirstassignment/"
-          },
-
-          "third": {
-            "projectname": "A Landing page",
-            "projectdescription": "I built this to learn how to implement a Hero page on a webiste. I learnt how to implement positioning and Z-index in my codes.",
-            "projectlink": "https://adephumie.github.io/landingpage/"
-          },
-
-          "fourth": {
-            "projectname": "Blog",
-            "projectdescription": "Worked on this project when I hadn't gained in-depth knowledge of CSS.",
-            "projectlink": "https://adephumie.github.io/MyBlog/"
-          }
-        },
-
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "OSC COllege of Fashion",
-          "third": "Obafemi Awolowo University, Ile-Ife."
-        }
-      },
-
-      {
-        "id": 2,
-        "stuId": 2098,
-        "name": "Ayibakepreye Omusuku",
-        "track": "Frontend Engineering",
-        "circle": 106,
-        "img": "https://avatars.githubusercontent.com/u/104953950?s=400&u=6aeabe9e947a409d87969eca26573c4f86a8a910&v=4",
-        "description": {
-          "intro": "Being creative in terms of problem-solving, effective-communicator and result oriented, i pride myself in delivering the best on each project i am affiliated with",
-
-          "intro-details": "I'm a Software Engineer based in Lagos Nigeria who is currently enrolled as a Sidehustle intern. I specialize in building exceptional digital experiences with clean designs and thoughtful interactions. My focus is on creating engaging, acessible and performant interfaces for humans as well as contributing in building useful open-source projects. I have a B.Eng in Biomedical Engineering from All Nations University and i am currently enrolled for two diplomas and a certification program in software engineering and REact JS from: AltSchool Africa, ALX Africa and Side Hustle."
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/ayibakepreye-omusuku-234554172/",
-          "github": "https://github.com/PreyeO",
-          "twitter": "https://twitter.com/pomusuku",
-          "portfolio": "",
-          "slackHandle": "AYIBAKEPREYE OMUSUKU"
-        },
-
-        "experience": {
-          "first": "FrontEnd Engineer Intern @Sidehustle",
-          "second": "",
-          "third": ""
-        },
-
-        "project": {
-          "first": {
-            "projectname": "TO-DO's",
-            "projectdescription": "A platform that was built to help make a daily to do list. The user marks out any goal achieved on the list",
-            "projectlink": "https://preyetodos.netlify.app/"
-          },
-          "second": {
-            "projectname": "Stop-Watch",
-            "projectdescription": "A counter watch use during games to count down time.",
-            "projectlink": "https://preyesproject.netlify.app/"
-          }
-        }
-      },
-
-      {
-        "id": 3,
-        "stuId": 5337,
-        "name": "Edikan Ekanem",
-        "track": "Frontend Engineering",
-        "circle": 80,
-        "img": "https://avatars.githubusercontent.com/u/84722535?v=4",
-
-        "description": {
-          "intro": "I'm a Software Engineer, Animation & Voice Over Artist, and Freelancer.",
-          "introdetails": "From an early age I have always been deeply interested in computing. In my opinion nothing on the planet can measure the exponential growth and excitement in the computing industry, an industry which I am proud to be a part of, particularly Software Engineering. With the right knowledge and skills, everything can be automated, and manual procedures can be eliminated. This is my motivation. In the face of an unpredictably evolving world, I want to create systems (apps, websites) that are efficient, dependable, and safe."
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/edikan-ekanem-343ab41b1/",
-          "github": "https://github.com/EdisCode",
-          "twitter": "https://twitter.com/didi_ekanem",
-          "portfolio": "https://ediscode.github.io/edikanekanem/",
-          "slackHandle": "Edikan Ekanem"
-        },
-
-        "experience": {
-          "first": "FrontEnd Engineer Intern @Greystone Limited",
-          "second": "Product Manager @Jenieks Global"
-        }
-      },
-
-      {
-        "id": 4,
-        "stuId": 4536,
-        "name": "Awosise Oluwaseun",
-        "track": "Backend Engineering",
-        "circle": 271,
-        "img": "https://avatars.githubusercontent.com/u/66667958?v=4",
-        "description": {
-          "intro": "Passionate about how and why it works that way",
-          "introdetails": "Having taken a little delve into the world of genetics and bioinformatics, I love for software engineering was spawned. From using some of the biological tools to actually wanting to know what goes on behind the scene and her am I wanting to be able to build and design what goes on behind the scene of most of these biological tools."
-        },
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/oluwaseun-awosise/",
-          "github": "https://github.com/jhhornn",
-          "twitter": "https://twitter.com/jhhornn",
-          "portfolio": "",
-          "slackHandle": "Oluwaseun"
-        },
-        "experience": {
-          "first": "",
-          "second": "",
-          "third": ""
-        },
-        "project": {
-          "first": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          },
-          "second": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          }
-        }
-      },
-
-      {
-        "id": 5,
-        "stuId": 2000,
-        "name": "Oloto Samson",
-        "track": "Backend Engineering",
-        "circle": 262,
-        "img": "https://avatars.githubusercontent.com/u/40104447?v=4",
-        "description": {
-          "intro": "I am the backend guy",
-          "introdetails": "Don't stress it. Just encapsulate it."
-        },
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/oloto-samson/",
-          "github": "https://github.com/oloto",
-          "twitter": "https://twitter.com/olotosamson",
-          "portfolio": "",
-          "slackHandle": "Samguine"
-        },
-        "experience": {
-          "first": "",
-          "second": "",
-          "third": ""
-        },
-        "project": {
-          "first": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          },
-          "second": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          }
-        }
-      },
-
-      {
-        "id": 6,
         "stuId": 4804,
         "name": "Adeniyi Olanrewaju",
         "track": "Backend Engineering",
@@ -752,7 +472,7 @@
       },
 
       {
-        "id": 11,
+        "id": 12,
         "stuId": 1699,
         "name": "Abdulbasit Yusuf",
         "track": "Frontend Engineering",
@@ -785,40 +505,6 @@
             "projectdescription": "",
             "projectlink": ""
           }
-        }
-      },
-
-      {
-        "id": 12,
-        "stuId": 1844,
-        "name": "Lydia Ojoawo",
-        "track": "Backend Engineering",
-        "circle": 237,
-        "img": "https://github.com/Lydia02.png",
-
-        "description": {
-          "intro": "Problem solving, learning, and documentating my journey."
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/lydia-ojoawo/",
-          "github": "https://github.com/Lydia02",
-          "twitter": "https://twitter.com/shubby_boo",
-          "portfolio": "https://github.com/Lydia02",
-          "slackHandle": "Lydia Ojoawo"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "Portfolio",
-            "projectdescription": "I did this project to test out my knowledge in html, css, and Javascript.",
-            "projectlink": "https://lydiaojoawo.netlify.app/"
-          }
-        },
-
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "Obafemi Awolowo University, Ile-Ife."
         }
       },
 
@@ -867,31 +553,231 @@
 
       {
         "id": 14,
+        "stuId": 4754,
+        "name": "Jamilu Jibrilla",
+        "track": "Frontend Engineering",
+        "circle": 188,
+        "img": "https://avatars.githubusercontent.com/u/60932535?v=4",
+        "description": {
+          "intro": "Hello, i am Jamil. A frontend developer",
+          "introdetails": "I am a software engineering student and also a frontend web developer with experience building fast and reliable apps using html, css, javascript, react, react-redux, tailwind, git and github."
+        },
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/mwlite/in/jamilu-jibrilla-575441211",
+          "github": "https://github.com/jamilu-jibrilla",
+          "twitter": "https://twitter.com/Jb_jameel?t=hxPI15fFFDf66MPX20UDiQ&s=09",
+          "portfolio": "https://jamilu-jibrilla.github.io/portfolio/",
+          "slackHandle": "Jamilu JIbrilla"
+        },
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+        "project": {
+          "first": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
+        }
+      },
+
+      {
+        "id": 15,
+        "stuId": 5327,
+        "name": "Titilola Shittu",
+        "track": "Frontend Engineering",
+        "circle": 79,
+        "img": "https://avatars.githubusercontent.com/u/81013123?v=4",
+
+        "description": {
+          "intro": "Biochemist, Content writer, Frontend engineering student",
+          "introdetails": "Tech enthusiast passionate about learning tech stacks to create technology and elevate people. I'm also a freelance writer specialized in the blockchain niche, I write about NFTs, DeFi, Web3. My interest is connecting with more web developers and creating awesome user experiences."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/titilolashittu",
+          "github": "https://github.com/lhorla",
+          "twitter": "https://twitter.com/errbodylovslola",
+          "portfolio": "",
+          "slackHandle": "lhorla"
+        },
+
+        "experience": {
+          "first": "Social media manager @AdsCentral",
+          "second": "Content writer @Inclide",
+          "third": "Contributing writer @OperaNewsNigeria"
+        },
+
+        "education": {
+          "first": "AltSchool Africa School of Engineering.",
+          "second": "Olabisi Onabanjo University, Ago Iwoye, Ogun State."
+        }
+      },
+
+      {
+        "id": 16,
+        "stuId": 3506,
+        "name": " Adisa Barakat Adekemi",
+        "track": "Backend Engineering",
+        "circle": 260,
+        "img": "https://ca.slack-edge.com/T03898UQN23-U039TQVU9UJ-c649a9a3cccf-512",
+
+        "description": {
+          "intro": "Problem solving is the most important aspect of my personality. I enjoy thinking outside the box and always listen when others speak",
+          "introdetails": "Transitioning into tech is one of my best decisions I've taken. I fell in love with tech in my last year in school. Coming from a non tech background and now catching up real quick is captivating. I am a software engineer, I love logical reasoning, solving problemms and making a change. I love to gain knowlege and I challenge myself to be the best version of myself. "
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/adekhemieadisa/",
+          "github": "https://github.com/Adekhemie",
+          "twitter": "https://twitter.com/adisa_adekhemie",
+          "portfolio": "",
+          "slackHandle": "Adekhemie"
+        },
+
+        "experience": {
+          "first": "Data Sccientist Intern @TechBridge Consulting"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Mini-portfolio",
+            "projectdescription": "I built a mini porfolio which comprises of my experience, a brief introduction about myself, education background, hobbies and the likes. It took some days before I could finish this project befoer I was just getting a hang of CSS ",
+            "projectlink": "https://Altschool-project.adisabarakat.repl.co"
+          },
+          "second": {
+            "projectname": "Responsive calculator",
+            "projectdescription": "I had to practice more on my Javascript so I decided to build this responsive calculator and as well fine tune my CSS knowledge",
+            "projectlink": "https://adekemi02.github.io/responsive-calculator/"
+          },
+
+          "third": {
+            "projectname": "Responsive Form Validation",
+            "projectdescription": "I built this responsive form validation to further broaden my knowledge of CSS and JavaScript. The form throws an error message if one field is not inputed or does not follow the proper format of the field.",
+            "projectlink": "https://Responsiveness-and-Media-Queries.adisabarakat.repl.co"
+          }
+        },
+
+        "education": {
+          "first": "AltSchool Africa School of Engineering.",
+          "second": "Yaba College of Technology"
+        }
+      },
+
+      {
+        "id": 17,
+        "stuId": 4137,
+        "name": "Adeola",
+        "track": "Front-End Engineering",
+        "circle": 171,
+        "img": "https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
+
+        "description": {
+          "intro": "Software Engineer, Content Creator, and Communications Executive",
+          "introdetails": "Smooth, Steady, Secure User Interface"
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/adeolaadetunji",
+          "github": "https://github.com/TheDeola",
+          "twitter": "https://twitter.com/deolacodes",
+          "portfolio": "https://thedeola.netlify.app/",
+          "slackHandle": "TheDeola"
+        },
+
+        "experience": {
+          "first": "Consultant",
+          "second": "FrontEnd Engineer Intern",
+          "third": "Operations Manager"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Phonie",
+            "projectdescription": "A mini web app to detect the network carrier of all Nigerian phone numbers",
+            "projectlink": "https://phonie.netlify.app/"
+          },
+          "second": {
+            "projectname": "Box-Monie",
+            "projectdescription": "A platform that allow creatives to showcase and share their talent and portfolio.",
+            "projectlink": "https://sunnyside-main.netlify.app/"
+          },
+
+          "third": {
+            "projectname": "Color-Flipper",
+            "projectdescription": "A UI showcasing random primary and secondary colors.",
+            "projectlink": "https://thedeola-color-flipper.netlify.app/"
+          }
+        }
+      },
+
+      {
+        "id": 18,
+        "stuId": 2000,
+        "name": "Oloto Samson",
+        "track": "Backend Engineering",
+        "circle": 262,
+        "img": "https://avatars.githubusercontent.com/u/40104447?v=4",
+        "description": {
+          "intro": "I am the backend guy",
+          "introdetails": "Don't stress it. Just encapsulate it."
+        },
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/oloto-samson/",
+          "github": "https://github.com/oloto",
+          "twitter": "https://twitter.com/olotosamson",
+          "portfolio": "",
+          "slackHandle": "Samguine"
+        },
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+        "project": {
+          "first": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          },
+          "second": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
+        }
+      },
+
+      {
+        "id": 19,
         "stuId": 3397,
         "name": "Excel Nwachukwu",
         "track": "Frontend Engineering",
         "circle": 145,
-        "img": "https://avatars.githubusercontent.com/u/32638510?s=400&u=95a9c350e48e5e4bc7df340b40ef439fbd1e5b0b&v=4",
-
+        "img": "https://avatars.githubusercontent.com/u/32638510?v=4",
         "description": {
           "intro": "I started with persistence and, now consistency has been the fuel leading me through",
           "introdetails": "A self-taught Frontend Web Developer. I have experience building functional UI and frontend web applications. Over the course of my learning journey, I have grown comfortable working with a wide range of frontend technologies like: HTML5 | CSS/SASS | Bootrap5 | JavaScript. I wrote my first programmable code back in university but not until after graduation did I take it upon myself to really master the brains behind the magic intentionally. Over the past year, I been learning and practicing with different web technologies especially Javascript and I believe I am more than ready to take my career to a whole new phase. I strongly believe in the power of programming to change and improve people's lives through accessible and usable frontend products. I'm always on the lookout for possible opportunities to get even better and open to entry-level frontend engineering roles or internships, preferably remotely or on-premises."
         },
-
         "socialmedia": {
           "linkedin": "https://www.linkedin.com/in/trillionclues-excel/",
           "github": "https://github.com/trillionclues",
           "twitter": "https://twitter.com/trillionclues",
           "portfolio": "https://trillionclues.vercel.app/",
-          "slackHandle": "Excel Nwachukwu"
+          "slackHandle": "Excel"
         },
-
         "experience": {
           "first": "Software Engineer Intern @alx_africa",
           "second": "Frontend Developer Intern @SideHustle",
-          "third": "IT Support"
+          "third": "IT Support specialist"
         },
-
         "project": {
           "first": {
             "projectname": "web3 Drag n' Drop Game",
