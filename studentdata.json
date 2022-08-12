@@ -876,8 +876,52 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
-      }
+      },
+      {
+        "id": 14,
+        "stuId": 1241,
+        "name": "Uwaoma Cyrus",
+        "track": "Front-End Engineering",
+        "circle": 1,
+        "img": "https://avatars.githubusercontent.com/u/100401054?s=400&u=ec4d2d39a9e6fdca5b677f9237dcc00cd909f589&v=4",
 
+        "description": {
+          "intro":"I have a strong desire to contribute to the development in technology which helps in improving the lives of people, I love critical thinking and building a controlled automated sysytem",
+          "introdetails": "From an early age i have been deeply intrigued by the logic behind automated system"
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/uwaoma-cyrus-webdev",
+          "github": "https://github.com/cyrus-program",
+          "twitter": "https://twitter.com/uwaoma_cyrus",
+          "portfolio": "https://github.com/cyrus-program",
+          "slackHandle": "uwaoma cyrus"
+        },
+
+        "experience": {
+          "first": "self taught",
+          "second": "open source africa",
+          "third": ""
+        },
+
+        "project": {
+           "first": {
+            "projectname": "altschool first profile page",
+            "projectdescription": "displays my current profile.",
+            "projectlink": "https://alt-school-first-semester-assignment.cyruz.repl.co"
+          },
+          "second": {
+            "projectname": "phonie Recharge App",
+            "projectdescription": "an application that displays the network logo of numbers and performs recharge card transactions ",
+            "projectlink": "https://circle-1-phonie.circle-1-phonie-team.repl.co"
+          },
+          "third": {
+            "projectname": "",
+            "projectdescription": "",
+            "projectlink": ""
+          }
+        }
+      }
         
 
     ]
