@@ -515,6 +515,7 @@
           "third": ""
         },
         "project": {
+
           "first": {
             "projectname": "",
             "projectdescription": "",
@@ -876,6 +877,47 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
+      },
+
+      {
+        "id": 14,
+        "stuId": 3991,
+        "name": " Temiloluwa ADEGOKE",
+        "track": "Front-End Engineering",
+        "circle": 44,
+        "img": "https://avatars.githubusercontent.com/u/86549498?v=4",
+
+        "description": {
+          "intro": " I am excellent in working with others to achieve a certain objective on time and with excellence.",
+          "introdetails": " I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/adegoke-esther-4a8b4a218/",
+          "github": "https://github.com/iTemix",
+          "twitter": "https://twitter.com/highlove03",
+          "portfolio": "",
+          "slackHandle": "Temiloluwa ADEGOKE"
+        },
+
+        "experience": {
+    
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Tech School Dashboard",
+            "projectdescription": "I collaborated with a team to build a fully functional, responsive dashboard for a TECH SCHOOL",
+            "projectlink": "https://github.com/iTemix/adegoke-temiloluwa"
+          },
+          "second": {
+            "projectname": "Scrimba portfolio demo",
+            "projectdescription": " I participated in the poject challenge given by Scrimba to design a portfolio",
+            "projectlink": "https://github.com/iTemix/scrimba-portfolio-demo"
+          }
+ 
+        }
+
       }
 
         
