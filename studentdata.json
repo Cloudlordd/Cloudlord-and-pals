@@ -876,9 +876,56 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
+      },
+
+      {
+        "id": 14,
+        "stuId": 4665,
+        "name": "Okpala Joseph",
+        "track": "Frontend Engineering",
+        "circle": 59,
+        "img": "https://avatars.githubusercontent.com/u/105152644?v=4",
+
+        "description": {
+          "intro": "Web Developer and Tech Enthusiast.",
+          "introdetails": "I'm an 18 year old Web Developer who has always been interested in the world of Tech. I'm currently trying to develop myself and continue to grow."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/joseph-okpala-1371351aa/",
+          "github": "https://github.com/JosephOkpala",
+          "twitter": "https://twitter.com/unorthodox__dev",
+          "portfolio": "",
+          "slackHandle": "Joseph Okpala"
+        },
+
+        "experience": {
+          "first": "Creative Designer @Deezey Digital",
+          "second": "",
+          "third": ""
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Manage Landing Page",
+            "projectdescription": "Frontend Mentor Challenge.",
+            "projectlink": "https://manage-5zs.pages.dev/"
+          },
+          "second": {
+            "projectname": "SunnySide",
+            "projectdescription": "Frontend Mentor Challenge.",
+            "projectlink": ""
+          },
+
+          "third": {
+            "projectname": "EasyBank",
+            "projectdescription": "Frontend Mentor Challenge.",
+            "projectlink": ""
+          }
+        }
       }
 
-        
+      
 
     ]
   }
