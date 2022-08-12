@@ -876,9 +876,37 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
-      }
+      },
 
-        
+      {
+        "id": 0,
+        "stuId": 3438,
+        "name": "Einstein Nnamah",
+        "track": "Front-End Engineering",
+        "circle": 149,
+        "img": "https://fv9-2.failiem.lv/thumb_show.php?i=ytgmv6qak&download_checksum=c9cad5fcd0501ba51f24f825f4f2850ef3c4bf48&download_timestamp=1660332411",
+
+        "description": {
+          "intro": "I’m a creative that has experience in building/designing web applications and websites. I’m passionate about building beautiful and user-friendly websites and applications [main focus the users].",
+          "introdetails": "I would say i more focus on the User experience in whatever project i'm working on because i think that is the key to building a compelling product. Using my product design skills i have understood the key needs in building a compelling product the user can be satisfied with. "
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/einsteinnnamah/",
+          "github": "https://github.com/einsteinnnamah",
+          "twitter": "https://twitter.com/einstein_nnamah",
+          "portfolio": "",
+          "slackHandle": "Einstein Nnamah"
+        },
+
+        "experience": {
+          "first": "Visual Designer @Nelcom Solutions",
+          "second": "User experience Designer @Youbloom ",
+          "third": ""
+        }
+
+   
+      }
 
     ]
   }
