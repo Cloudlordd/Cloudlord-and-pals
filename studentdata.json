@@ -876,9 +876,55 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
-      }
+      },
 
-        
+    {
+        "id":14,
+        "stuId": 4137,
+        "name":"Adeola",
+        "track":"Front-End Engineering",
+        "circle":171,
+        "img":"https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
+    
+        "description":{
+                    "intro":"Software Engineer, Content Creator, and Communications Executive",
+                    "introdetails":"Smooth, Steady, Secure User Interface"
+                },
+    
+        "socialmedia":{
+                    "linkedin":"https://www.linkedin.com/in/adeolaadetunji",
+                    "github":"https://github.com/TheDeola",
+                    "twitter":"https://twitter.com/deolacodes",
+                    "portfolio":"https://thedeola.netlify.app/",
+                    "slackHandle":"TheDeola"
+                 },
+    
+        "experience":{
+                    "first":"Consultant",
+                    "second":"FrontEnd Engineer Intern",
+                    "third":"Operations Manager"
+                 },
+    
+        "project":{
+                    "first":{
+                        "projectname":"Phonie",
+                        "projectdescription":"A mini web app to detect the network carrier of all Nigerian phone numbers",
+                        "projectlink":"https://phonie.netlify.app/"
+                    },
+                    "second":{
+                        "projectname":"Box-Monie",
+                        "projectdescription":"A platform that allow creatives to showcase and share their talent and portfolio.",
+                        "projectlink":"https://sunnyside-main.netlify.app/"
+                    },
+    
+                    "third":{
+    
+                        "projectname":"Color-Flipper",
+                        "projectdescription":"A UI showcasing random primary and secondary colors.",
+                        "projectlink":"https://thedeola-color-flipper.netlify.app/"
+                    }
+                 }
+        }
 
     ]
   }
