@@ -988,10 +988,64 @@
                   "projectlink":"https://my-advice-generator1.netlify.app"
                 }
                }
-             }  
+             },
              
-            ]
-  }
+             {
+              "id": 24,
+              "stuId": 2678,
+              "name": "Anietie Akpanumoh",
+              "track": "Frontend Engineering",
+              "circle": 123,
+              "img": "https://avatars.githubusercontent.com/u/102967666?v=4",
+      
+              "description": {
+                "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
+                "intro-details": " I am a solution-oriented Front-End Developer and an adventurer with a professional background in IT Support and Network Security. I worked as an IT Support personnel for three years and developed an interest in Software Engineering. I am motivated by the opportunity that software development provides to positively impact the life of an individual and the community at large."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/anietieakpanumoh/",
+                "github": "https://github.com/AnietieAkpanumoh",
+                "twitter": "https://twitter.com/tukooldegreat",
+                "portfolio": "https://github.com/AnietieAkpanumoh?tab=repositories",
+                "slackHandle": "Anietie Akpanumoh"
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "A Landing page",
+                  "projectdescription": "I practiced my knowledge of HTML, CSS, and media queries by creating this order summary landing page, a challenge on Frontendmentor. I also hosted the result on Netlify.",
+                  "projectlink": "https://anietieakpanumoh.github.io/first-responsive-project-order-summary-using-css-grid/"
+                },
+      
+                "second": {
+                  "projectname": "A landing page",
+                  "projectdescription": "I practiced my knowledge of HTML, CSS, and media queries by creating this 3-column preview card component landing page, a challenge on Frontendmentor",
+                  "projectlink": "https://anietieakpanumoh.github.io/Preview-column-component/"
+                },
+      
+                "third": {
+                  "projectname": "SchoolStat - A simple dashboard for a tech school",
+                  "projectdescription": "A simple dashboard for a tech school built together with my circle teammates in Altschool Africa. This project was to solidify what we had learned in HTML, CSS and JavaScript",
+                  "projectlink": "https://anietieakpanumoh.github.io/Circle-123-SchoolStat/"
+                },
+      
+                "fourth": {
+                  "projectname": "A Landing page",
+                  "projectdescription": "I worked on a QR-Code component landing page on frontendmentor to test my knowledge on HTML, CSS and media queries.",
+                  "projectlink": "https://anietieakpanumoh.github.io/QR-CODE-COMPONENT/"
+                }
+              },
+      
+              "education": {
+                "first": "AltSchool Africa School of Engineering.",
+                "second": "University of Uyo, Akwa Ibom State"
+              }
+            }
+          ]
         }
+      }
+             
+   
       
 
