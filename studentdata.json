@@ -249,18 +249,6 @@
   
         
   
-      
-
-     
-
-      
-     
-
-      
-
-      
-     
-
       {
         "id": 6,
         "stuId": 4804,
@@ -746,9 +734,7 @@
                     }
                  }
         },
-        
-        
-        
+          
         {
           "id": 18,
           "stuId": 2000,
@@ -787,8 +773,48 @@
         
     },
 
+
     {
-      "id":19,
+      "id": 19,
+      "stuId": 4884,
+      "name": "Abdulmuizz Abubakar",
+      "track": "Frontend Engineering",
+      "circle": 65,
+      "img": "https://avatars.githubusercontent.com/u/49520914?s=400&v=4",
+      "description": {
+          "intro": "A Frontend engineer",
+          "introdetails": "A tech enthusiast who focuses on solving problems and building products to improve the lives of users."
+      },
+      "socialmedia": {
+          "linkedin": "www.linkedin.com/in/abdulmuizzabubakar/",
+          "github": "https://github.com/MuizzBakar",
+          "twitter": "https://twitter.com/iam_bakar",
+          "portfolio": "",
+          "slackHandle": "Muizz Bakar"
+      },
+      "experience": {
+          "first": "Administrative Officer",
+          "second": "Project Administrator",
+          "third": "Client Service"
+      },
+      "project": {
+          "first": {
+              "projectname": "Bootstrap Website",
+              "projectdescription": "A project done with bootstrap 4, an animation library,animate css and wow js for the scroll reveal",
+              "projectlink": "https://muizzbakar.github.io/bootstrap-website/"
+          },
+          "second": {
+              "projectname": "Product Landing Page",
+              "projectdescription": "A simple product landing page",
+              "projectlink": "https://muizzbakar.github.io/product-landing-page/"
+          }
+      }
+    
+},
+
+
+    {
+      "id":20,
       "stuId":2867,
       "name":"Philemon Nwanne",
       "track":"Cloud Engineering",
