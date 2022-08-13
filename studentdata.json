@@ -773,6 +773,7 @@
         
     },
 
+
     {
       "id": 19,
       "stuId": 4884,
@@ -809,8 +810,44 @@
           }
       }
     
-}
+},
 
+
+    {
+      "id":20,
+      "stuId":2867,
+      "name":"Philemon Nwanne",
+      "track":"Cloud Engineering",
+      "circle":364,
+      "img":"https://avatars.githubusercontent.com/u/108567784?v=4",
+
+      "description":{
+          "intro":"Cloud"
+      },
+
+      "socialmedia":{
+          "linkedin":"https://www.linkedin.com/in/philnwanne/",
+          "github":"https://github.com/philemonnwanne",
+          "twitter":"https://twitter.com/#",
+          "portfolio":"https://github.com/philemonnwanne",
+          "slackHandle":"Philemon Nwanne"
+           
+     },
+
+     "project":{
+          "first":{
+          "projectname":"",
+          "projectdescription":"",
+          "projectlink":"/"
+          }
+      },
+
+      "education":{
+          "first":"AltSchool Africa School of Engineering.",
+          "second":"Michael Okpara Federal University"
+      }
+
+  }
 
     ]
   }
