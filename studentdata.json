@@ -846,9 +846,6 @@
 
   },
 
-
-          
-      
       
       
       {
@@ -888,6 +885,53 @@
 
         
     },
+    
+     {
+        "id": 22,
+        "stuId": 1586,
+        "name": "David Udo",
+        "track": "Backend Engineering",
+        "circle": 234,
+        "img": "https://avatars.githubusercontent.com/u/65337929?s=400&u=581247bf98945f211499778231e26b73ff576b27&v=4",
+
+        "description": {
+          "intro": "I want to be the best at what I do, make so much money and live a soft life.",
+          "introdetails": "I am a Backend Engineering Student at Altschool Africa training to become a top-tier Software Engineer. I am also a Mechanical Engineering student and just recently discovered my interest in software development. In addition to software engineering, I am learning data science with DataCamp to supplement my backend skills."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/david-udo-1713b3231",
+          "github": "https://github.com/davidudo",
+          "twitter": "https://twitter.com/_davidudo",
+          "portfolio": "https://elfin-quality-396.notion.site/David-Udo-s-Portfolio-3ce211c9e26c4b3da8cbf7a9e9c4d7f7",
+          "slackHandle": "David Udo"
+        },
+
+        "experience": {
+          "first": "Mechanical Engineering Intern @ Ibom Power Plant",
+          "second": "",
+          "third": ""
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Advice Generator",
+            "projectdescription": "Frontend Mentor challenge.",
+            "projectlink": "https://davidudo.github.io/advice-generator/"
+          },
+          "second": {
+            "projectname": "Huddle",
+            "projectdescription": "Frontend Mentor challenge.",
+            "projectlink": "https://davidudo.github.io/huddle-website-01/"
+          },
+
+          "third": {
+            "projectname": "Fylo",
+            "projectdescription": "Frontend Mentor challenge.",
+            "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
+          }
+        }
+      }
     ]
   }
 }
