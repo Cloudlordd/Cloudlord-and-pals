@@ -1,6 +1,7 @@
 {
     "data": {
       "students": [
+        
         {
           "id": 0,
           "stuId": 3374,
@@ -874,6 +875,57 @@
             "projectname": "Pay-Me Admin Dashboard",
             "projectdescription": "I built a responsive admin dashboard that allows users to manage their company's payroll, manage employees, and manage their company's bank accounts. This was a personal project in which I was able to design an excellent user interface, implement the dark and light mode theme. ",
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
+          }
+        }
+      },
+      {
+        "id": 14,
+        "stuId": 2338,
+        "name": "Umunna Josph",
+        "track": "Frontend Engineering",
+        "circle": 111,
+        "img": "https://avatars.githubusercontent.com/u/50668967?s=96&v=4",
+
+        "description": {
+          "intro": "I love a good challenge, life should be easy, so consatantly giving my two cents trying to make things easier and better through programming, conditioning applications to suit specific needs of end users. So why programming you say.. Why not? ",
+          "introdetails": "I watch my father started his Architectural career manually drafting on paper years back when i was little, I saw the absurd lenghty amount of time it took him to get a job done then years later I AutoCAD application software came up during the computer age and I was introduced to it. I became intrigued on how the application was able to cut an unbelievable amount of time from the usual and how efficiently it got the job done. Years passed and newer versions were made, these newer versions were faster, cost efficient with so many features it seems inexhaustable. My mind was blown. I watch how it has affected every other fields of expertise, Agriculture, communications, Health sector you name it. I became obsessed and mind blown on how computing has greatly impacted these other fields. I then seeked out to make life easier and efficient through programming."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/joseph-umunna-03393617a/",
+          "github": "https://github.com/joseph0819",
+          "twitter": "https://twitter.com/ceejay08199",
+          "portfolio": "",
+          "slackHandle": "Umunna Joseph"
+        },
+
+        "experience": {
+          "first": "FrontEnd Engineer Intern @ALX",
+          "second": "FrontEnd Engineer Intern @ALX",
+          "third": "Structural Engineer at @ Shelter Services"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "QR Generator",
+            "projectdescription": "A platform that was built on Quick Response api, it is used to generate qr for texts and urls.",
+            "projectlink": "https://qrgennn.netlify.app/"
+          },
+          "second": {
+            "projectname": "Random Quotes",
+            "projectdescription": "A platform built with basic HTML, CSS and JavaScript, it displays random quotes generated with the click of a button.",
+            "projectlink": "https://quotefortoday.netlify.app/"
+          },
+          "third": {
+            "projectname": "Nike cloned site",
+            "projectdescription": "A platform built with basic HTML, CSS and JavaScript, a practice nike site.",
+            "projectlink": "https://nikesitetest.netlify.app/"
+          },
+
+          "education": {
+            "first": "AltSchool Africa School of Engineering.",
+            "second": "National Diploma in Computer Science, Federal polytechnic Bida, Niger state",
+            "third": "Statistcs in Michael Okpara University of Agriculture Umuahia, Abia State."
           }
         }
       }
