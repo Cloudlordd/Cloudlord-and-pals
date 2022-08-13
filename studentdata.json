@@ -556,7 +556,12 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
-      },
+
+      }, 
+
+     
+
+
 
       {
         "id": 14,
@@ -883,7 +888,7 @@
             "projectlink": "https://streamit-movie-app.vercel.app/"
           }
 
-        
+        }
     },
     
      {
@@ -931,7 +936,56 @@
             "projectlink": "https://midevictor.github.io/PayMe-Administration-Dashboard/"
           }
         }
-      }
+      },
+      
+       {
+        "id":23,
+        "stuId": 3351,
+        "name":"Lawrence Franklin",
+        "track":"Frontend",
+        "circle": 140,
+        "img":"https://res.cloudinary.com/dalu46/image/upload/v1660327695/dalu_zrfc1o.png",
+    
+        "description":{
+            "intro":"Talk to me about JavaScript. I love OpenSource. Let's do DSA",
+            "introdetails":"I'm a frontend developer"
+        },
+    
+        "socialmedia":{
+          "linkedin":"https://www.linkedin.com/in/lawrence-franklin-chukwudalu-782687228/",
+          "github":"https://github.com/Dalu46",
+          "twitter":"https://twitter.com/iam_franklin10",
+          "portfolio":"",
+          "slackHandle":"Lawrence Franklin Chukwudalu"
+        },
+    
+        "experience":{
+          "first":"FrontEnd Engineer Intern in my mind🥲",
+          "second":"Technical writer @Medusa",
+          "third":""
+        },
+    
+        "project":{
+          "first":{
+          "projectname":"CGPA Calculator",
+          "projectdescription":"A project for calculating CGPA results.",
+          "projectlink":"https://cgpa-calculator1.netlify.app"
+        },
+        "second":{
+          "projectname":"QR Code Generator",
+          "projectdescription":"An application that generates QR codes based on any text (including URLs) you pass to it.",
+          "projectlink":"https://qr-code-generator1.netlify.app"
+        },
+    
+        "third":{
+    
+          "projectname":"Random Advice Generator",
+          "projectdescription":"An application that generates ramdom advices.",
+          "projectlink":"https://my-advice-generator1.netlify.app"
+        }
+       }
+     }  
+     
     ]
   }
 }
