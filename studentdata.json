@@ -238,9 +238,16 @@
             "projectdescription": "",
             "projectlink": ""
           }
+
         }
       },
 
+
+        
+        
+        
+        
+  
       {
         "id": 6,
         "stuId": 4804,
@@ -674,6 +681,7 @@
       {
         "id": 17,
         "stuId": 4137,
+
         "name": "Adeola",
         "track": "Front-End Engineering",
         "circle": 171,
@@ -703,20 +711,24 @@
             "projectname": "Phonie",
             "projectdescription": "A mini web app to detect the network carrier of all Nigerian phone numbers",
             "projectlink": "https://phonie.netlify.app/"
-          },
-          "second": {
-            "projectname": "Box-Monie",
-            "projectdescription": "A platform that allow creatives to showcase and share their talent and portfolio.",
-            "projectlink": "https://sunnyside-main.netlify.app/"
-          },
-
-          "third": {
-            "projectname": "Color-Flipper",
-            "projectdescription": "A UI showcasing random primary and secondary colors.",
-            "projectlink": "https://thedeola-color-flipper.netlify.app/"
-          }
-        }
-      },
+        },
+        
+                    "second":{
+                        "projectname":"Box-Monie",
+                        "projectdescription":"A platform that allow creatives to showcase and share their talent and portfolio.",
+                        "projectlink":"https://sunnyside-main.netlify.app/"
+                    },
+    
+                    "third":{
+    
+                        "projectname":"Color-Flipper",
+                        "projectdescription":"A UI showcasing random primary and secondary colors.",
+                        "projectlink":"https://thedeola-color-flipper.netlify.app/"
+                    }
+                 }
+        },
+          
+      
 
       {
         "id": 18,
@@ -752,11 +764,95 @@
             "projectdescription": "",
             "projectlink": ""
           }
+
         }
       },
 
+      
+
+
+    {
+      "id": 19,
+      "stuId": 4884,
+      "name": "Abdulmuizz Abubakar",
+      "track": "Frontend Engineering",
+      "circle": 65,
+      "img": "https://avatars.githubusercontent.com/u/49520914?s=400&v=4",
+      "description": {
+          "intro": "A Frontend engineer",
+          "introdetails": "A tech enthusiast who focuses on solving problems and building products to improve the lives of users."
+      },
+      "socialmedia": {
+          "linkedin": "www.linkedin.com/in/abdulmuizzabubakar/",
+          "github": "https://github.com/MuizzBakar",
+          "twitter": "https://twitter.com/iam_bakar",
+          "portfolio": "",
+          "slackHandle": "Muizz Bakar"
+      },
+      "experience": {
+          "first": "Administrative Officer",
+          "second": "Project Administrator",
+          "third": "Client Service"
+      },
+      "project": {
+          "first": {
+              "projectname": "Bootstrap Website",
+              "projectdescription": "A project done with bootstrap 4, an animation library,animate css and wow js for the scroll reveal",
+              "projectlink": "https://muizzbakar.github.io/bootstrap-website/"
+          },
+          "second": {
+              "projectname": "Product Landing Page",
+              "projectdescription": "A simple product landing page",
+              "projectlink": "https://muizzbakar.github.io/product-landing-page/"
+          }
+      }
+    
+},
+
+
+    {
+      "id":20,
+      "stuId":2867,
+      "name":"Philemon Nwanne",
+      "track":"Cloud Engineering",
+      "circle":364,
+      "img":"https://avatars.githubusercontent.com/u/108567784?v=4",
+
+      "description":{
+          "intro":"Cloud"
+      },
+
+      "socialmedia":{
+          "linkedin":"https://www.linkedin.com/in/philnwanne/",
+          "github":"https://github.com/philemonnwanne",
+          "twitter":"https://twitter.com/#",
+          "portfolio":"https://github.com/philemonnwanne",
+          "slackHandle":"Philemon Nwanne"
+           
+     },
+
+     "project":{
+          "first":{
+          "projectname":"",
+          "projectdescription":"",
+          "projectlink":"/"
+          }
+      },
+
+      "education":{
+          "first":"AltSchool Africa School of Engineering.",
+          "second":"Michael Okpara Federal University"
+      }
+
+  },
+
+
+          
+      
+      
+      
       {
-        "id": 19,
+        "id": 21,
         "stuId": 3397,
         "name": "Excel Nwachukwu",
         "track": "Frontend Engineering",
@@ -788,15 +884,10 @@
             "projectname": "StreamIt",
             "projectdescription": "A movie recommendation app that displays different list of movies accoridng to their respective genres, rating and other features like producers and watch time.",
             "projectlink": "https://streamit-movie-app.vercel.app/"
-          },
-
-          "third": {
-            "projectname": "NYSC Jobs Portal",
-            "projectdescription": "A platform connecting corp members to recruiters and prospective employers. Still in view!",
-            "projectlink": "https://github.com/trillionclues/nyscjobs-website"
           }
-        }
-      }
+
+        
+    },
     ]
   }
 }
