@@ -1063,27 +1063,8 @@
           "second": "Ladoke Akintola University of Technology"
         }
       },
-      {
-        "id": 26,
-        "stuId": 2698,
-        "name": "Nzubechi Ahamefula",
-        "track": "Frontend Engineering",
-        "circle": 125,
-        "img": "https://avatars.githubusercontent.com/u/101618685?v=4",
+      
 
-        "description": {
-          "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
-          "intro-details": " I am a solution-oriented Front-End Developer and an adventurer"
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/nzubechi-ahamefula-750382238",
-          "github": "https://github.com/Zubby003",
-          "twitter": "https://twitter.com/Zubby_Ahamefula",
-          "portfolio": "https://github.com/Zubby003?tab=repositories",
-          "slackHandle": "Nzubechi Ahamefula"
-        }
-      },
       {
         "id": 26,
         "stuId": 404,
@@ -1109,6 +1090,27 @@
           "second": "Software Engineer at ALX",
           "third": ""
 
+        },
+
+        "education": {
+          "first": "AltSchool Africa School of Engineering.",
+          "second": "ALX Software Engineering"
+
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Assignment",
+            "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
+            "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
+          
+          }
+        }
+      },
+  
+
+{
+        "id":27,
         "stuId": 1731,
         "name": "Samson Okeji",
         "track": "Backend Engineering",
@@ -1132,21 +1134,14 @@
           "first": "Back-End Engineer @Business Codes Technologies Limited",
           "second": "Software Engineering Intern @Microsoft x Elev8",
           "third": "Software Engineering Intern @Microsoft x Tech4dev"
->>>>>>> 8a4f466120f90c166e14dd35250b191aa302de88
+
         },
 
         "project": {
           "first": {
-<<<<<<< HEAD
-            "projectname": "Phoine",
-            "projectdescription": "A simple form created with HTML, CSS and Javascript. it displays Nigerian Network log when inputting your phone number",
-            "projectlink": "https://github.com/Zubby003/Phonie"
-          }
-
-=======
-            "projectname": "EfoodBank",
+"projectname": "EfoodBank",
             "projectdescription": "A react web-based app that is aimed at connecting potential Benefactors of food items/charity with potential beneficiaries, this is in-line with the vision of SDG GOAL 2: Zero Hunger.",
-            "projectlink": "samsonokeji-efoodbank.netlify.app/"
+            "projectlink": "samsonokeji-efoodbank.netlify.app/"           
           },
           "second": {
             "projectname": "PHONIE",
@@ -1169,7 +1164,7 @@
       },
       
       {
-        "id": 27,
+        "id": 28,
         "stuId": 4797,
         "name": "Bernard Kwame Solodzi",
         "track": "Backend Engineering",
@@ -1187,39 +1182,51 @@
           "twitter": "https://twitter.com/boss_assignment",
           "portfolio": "https://altschoolass1.bsolodzi.repl.co/index.html",
           "slackHandle": "Bernard Kwame Solodzi"
->>>>
-        },
+         },
 
+
+
+         "education":{
+          "first":"AltSchool Africa School of Engineering.",
+          "second":"University of Health and ALlied Sciences, Ho Ghana"
+
+      },
+        
         "project": {
           "first": {
-<<<<
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          }
->>>>>>> 8a4f466120f90c166e14dd35250b191aa302de88
-        },
-
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-<<<<<<< HEAD
-          "second": "Nnamdi Azikiwe University, Anambara State, Nigeria"
-=======
-          "second": "ALX Software Engineering"
-====
             "projectname": "Assignment",
             "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
             "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
           }
+
+        }
+
+
+      },
+      
+      
+      {
+        "id": 26,
+        "stuId": 2698,
+        "name": "Nzubechi Ahamefula",
+        "track": "Frontend Engineering",
+        "circle": 125,
+        "img": "https://avatars.githubusercontent.com/u/101618685?v=4",
+
+        "description": {
+          "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
+          "intro-details": " I am a solution-oriented Front-End Developer and an adventurer"
         },
 
-        "education":{
-            "first":"AltSchool Africa School of Engineering.",
-            "second":"University of Health and ALlied Sciences, Ho Ghana"
->>>>
->>>>>>> 8a4f466120f90c166e14dd35250b191aa302de88
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/nzubechi-ahamefula-750382238",
+          "github": "https://github.com/Zubby003",
+          "twitter": "https://twitter.com/Zubby_Ahamefula",
+          "portfolio": "https://github.com/Zubby003?tab=repositories",
+          "slackHandle": "Nzubechi Ahamefula"
         }
       }
+
 
     ]
   }
