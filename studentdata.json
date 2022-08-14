@@ -1011,7 +1011,6 @@
           "second": "University of Uyo, Akwa Ibom State"
         }
       },
-
       {
         "id": 25,
         "stuId": 3568,
@@ -1063,7 +1062,43 @@
           "first": "AltSchool Africa School of Engineering.",
           "second": "Ladoke Akintola University of Technology"
         }
+      },
+      {
+        "id": 26,
+        "stuId": 2698,
+        "name": "Nzubechi Ahamefula",
+        "track": "Frontend Engineering",
+        "circle": 125,
+        "img": "https://avatars.githubusercontent.com/u/101618685?v=4",
+
+        "description": {
+          "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
+          "intro-details": " I am a solution-oriented Front-End Developer and an adventurer"
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/nzubechi-ahamefula-750382238",
+          "github": "https://github.com/Zubby003",
+          "twitter": "https://twitter.com/Zubby_Ahamefula",
+          "portfolio": "https://github.com/Zubby003?tab=repositories",
+          "slackHandle": "Nzubechi Ahamefula"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Phoine",
+            "projectdescription": "A simple form created with HTML, CSS and Javascript. it displays Nigerian Network log when inputting your phone number",
+            "projectlink": "https://github.com/Zubby003/Phonie"
+          }
+
+        },
+
+        "education": {
+          "first": "AltSchool Africa School of Engineering.",
+          "second": "Nnamdi Azikiwe University, Anambara State, Nigeria"
+        }
       }
+
     ]
   }
 }
