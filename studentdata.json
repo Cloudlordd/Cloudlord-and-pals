@@ -1205,8 +1205,9 @@
       },
       
       
+
       {
-        "id": 26,
+        "id": 29,
         "stuId": 2698,
         "name": "Nzubechi Ahamefula",
         "track": "Frontend Engineering",
@@ -1224,8 +1225,62 @@
           "twitter": "https://twitter.com/Zubby_Ahamefula",
           "portfolio": "https://github.com/Zubby003?tab=repositories",
           "slackHandle": "Nzubechi Ahamefula"
+
         }
-      }
+      },
+      
+      
+      {
+              "id": 30,
+              "stuId": 5272,
+              "name": "King Igbozuruike",
+              "track": "Cloud Engineering",
+              "circle": 224,
+              "img": "https://avatars.githubusercontent.com/u/104108166?s=400&u=c9c6cd41a4fd324fa2bedcfa1543ab5008e8c871&v=4",
+      
+              "description": {
+                "intro": "I dream to work for Microsoft!",
+                "introdetails": "I am a Cloud Engineering Student at Altschool Africa training to become a top-tier Software Engineer. I currently not in University as I am an extremely young man. Don't ask me my age. But I plan to major in Computer Science though."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/thetechking/",
+                "github": "https://github.com/kingigbozuruike",
+                "twitter": "https://twitter.com/the_techking",
+                "portfolio": "",
+                "slackHandle": "The Tech King"
+              },
+      
+              "experience": {
+                "first": "AltSchool Student. Obviously!",
+                "second": "Microsoft Intern in my dream!",
+                "third": ""
+              },
+              
+               "education": {
+                "first": "AltSchool Africa School of Engineering.",
+                "second": "University of Uyo, Akwa Ibom State"
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "School Dashboard",
+                  "projectdescription": "AltSchool Holiday challenge.",
+                  "projectlink": "https://Circle-224-SchoolStat.circle2-2-4.repl.co"
+                },
+                "second": {
+                  "projectname": "Web Search",
+                  "projectdescription": "I don't really have projects online, so if you click on this link it will probably lead you to Google!",
+                  "projectlink": "https://google.com"
+                },
+      
+                "third": {
+                  "projectname": "",
+                  "projectdescription": "",
+                  "projectlink": ""
+                }
+              }
+            }
 
 
     ]
