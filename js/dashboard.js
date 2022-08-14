@@ -146,7 +146,7 @@ console.log(project)
 
 const projects = ()=>{
 
-	const {project:{first, second, third}} = getData
+	const {project:{first, second, third, fourth}} = getData
 	
 	container.innerHTML =`
 
@@ -208,6 +208,20 @@ const projects = ()=>{
 	
 				 
 						<span class="text">
+							<h3>${fourth.projectname}</h3>
+							
+						</span>
+
+						<p class="project-description">${fourth.projectdescription} </p>
+						<a href=${fourth.projectlink} target =_blank> ${fourth.projectname}
+						</a>
+	               
+					</div>
+
+					<div>
+	
+				 
+						<span class="text">
 							<h3>Linkedin</h3>
 							
 						</span>
@@ -239,7 +253,7 @@ const about =()=>{
 	
 	</div>
 	        <aside>
-			<h2> My Story </h1>
+			<h1> My Story </h1>
          <p>
      ${intro}
 		 </p>
