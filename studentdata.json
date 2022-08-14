@@ -1064,6 +1064,41 @@
           "second": "Ladoke Akintola University of Technology"
         }
       }
+      
+      {
+        "id": 26,
+        "stuId": 4797,
+        "name": "Bernard Kwame Solodzi",
+        "track": "Backend Engineering",
+        "circle": 273,
+        "img": "https://github.com/Bsolodzi.png",
+
+        "description": {
+          "intro": "I am studying the ways of a snake, hoping to become a world class software engineer in the near future. I am also interested in Data Science and engineering",
+          "introdetails": "Outside tech, I am currently a final year student of Bachelor of Medical Laboratory Sciences."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/bernard-kwame-solodzi/",
+          "github": "https://github.com/Bsolodzi",
+          "twitter": "https://twitter.com/boss_assignment",
+          "portfolio": "https://altschoolass1.bsolodzi.repl.co/index.html",
+          "slackHandle": "Bernard Kwame Solodzi"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Assignment",
+            "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
+            "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
+          }
+        },
+
+        "education":{
+            "first":"AltSchool Africa School of Engineering.",
+            "second":"University of Health and ALlied Sciences, Ho Ghana"
+        }
+      }
     ]
   }
 }
