@@ -1063,6 +1063,59 @@
           "first": "AltSchool Africa School of Engineering.",
           "second": "Ladoke Akintola University of Technology"
         }
+      },
+
+      {
+        "id": 26,
+        "stuId": 1731,
+        "name": "Samson Okeji",
+        "track": "Backend Engineering",
+        "circle": 12,
+        "img": "https://avatars.githubusercontent.com/u/67550977?v=4",
+
+        "description": {
+          "intro": "Baddass Backend Engineer, passionate about open-source",
+          "introdetails": "I'm a Software Engineer, creative and resilient, one who is passionate about all software development phases, writing clean codes, and enjoys solving complex problems. Currently improving my skills by studying for a diploma in software engineering with focus in Backend Engineering at AltSchool Africa. I'm passionate about knowledge sharing, documentation, software engineering, and others. I create technical content and build useful [open-source projects] (https://github.com/Psalmzee)"
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/samson-okeji-001b1913a/",
+          "github": "https://github.com/Psalmzee",
+          "twitter": "https://twitter.com/SammyOkeji",
+          "portfolio": "https://github.com/Psalmzee?tab=repositories",
+          "slackHandle": "Samson Okeji"
+        },
+
+        "experience": {
+          "first": "Back-End Engineer @Business Codes Technologies Limited",
+          "second": "Software Engineering Intern @Microsoft x Elev8",
+          "third": "Software Engineering Intern @Microsoft x Tech4dev"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "EfoodBank",
+            "projectdescription": "A react web-based app that is aimed at connecting potential Benefactors of food items/charity with potential beneficiaries, this is in-line with the vision of SDG GOAL 2: Zero Hunger.",
+            "projectlink": "samsonokeji-efoodbank.netlify.app/"
+          },
+          "second": {
+            "projectname": "PHONIE",
+            "projectdescription": "This is a web based app built with HTML5, CSS3, and Vanilla JavaScript to detect your network provider after accepting user input of any valid Nigerian phone number.",
+            "projectlink": "phonie-network-detector.netlify.app/"
+          },
+
+          "third": {
+            "projectname": "DATAGRID",
+            "projectdescription": "A re-usable datagrid component in React/Typescript supported bv a light-weight server using node.js",
+            "projectlink": "https://samsonokeji-datagrid-klas-challenge.netlify.app/"
+          },
+
+          "fourth": {
+            "projectname": "My-Portfolio",
+            "projectdescription": "More personalized Information about me written with HTML5, CSS3 and Vanilla JS",
+            "projectlink": "https://samsonokeji-portfolio.netlify.app/"
+          }
+        }
       }
     ]
   }
