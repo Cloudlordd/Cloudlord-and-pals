@@ -1065,6 +1065,8 @@
         }
       },
 
+
+
       {
         "id": 26,
         "stuId": 404,
@@ -1090,6 +1092,27 @@
           "second": "Software Engineer at ALX",
           "third": ""
 
+        },
+
+        "education": {
+          "first": "AltSchool Africa School of Engineering.",
+          "second": "ALX Software Engineering"
+
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Assignment",
+            "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
+            "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
+          
+          }
+        }
+      },
+  
+
+{
+        "id":27,
         "stuId": 1731,
         "name": "Samson Okeji",
         "track": "Backend Engineering",
@@ -1142,7 +1165,7 @@
       },
       
       {
-        "id": 27,
+        "id": 28,
         "stuId": 4797,
         "name": "Bernard Kwame Solodzi",
         "track": "Backend Engineering",
@@ -1160,33 +1183,25 @@
           "twitter": "https://twitter.com/boss_assignment",
           "portfolio": "https://altschoolass1.bsolodzi.repl.co/index.html",
           "slackHandle": "Bernard Kwame Solodzi"
->>>>
-        },
+         },
 
+
+
+         "education":{
+          "first":"AltSchool Africa School of Engineering.",
+          "second":"University of Health and ALlied Sciences, Ho Ghana"
+
+      },
+        
         "project": {
           "first": {
-<<<<
             "projectname": "",
             "projectdescription": "",
             "projectlink": ""
           }
-        },
-
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "ALX Software Engineering"
-====
-            "projectname": "Assignment",
-            "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
-            "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
-          }
-        },
-
-        "education":{
-            "first":"AltSchool Africa School of Engineering.",
-            "second":"University of Health and ALlied Sciences, Ho Ghana"
->>>>
         }
+
+       
       }
     ]
   }
