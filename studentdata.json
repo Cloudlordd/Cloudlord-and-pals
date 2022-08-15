@@ -1280,9 +1280,47 @@
                   "projectlink": ""
                 }
               }
+            },
+            {
+              "id": 31,
+              "stuId": 2708,
+              "name": "Obaloluwa Oladunjoye",
+              "track": "Frontend Engineering",
+              "circle": 126,
+              "img": "https://avatars.githubusercontent.com/u/98332219?s=96&v=4",
+      
+              "description": {
+                "intro": "I'm a Software engineer, social media manager and a lover of dogs. when i'm not writing codes, I watch random tutorial videos and videos of the science of things.",
+                "introdetails": "Student at Altschool Africa and the University of Ibadan. I delight in knowing how things work and how magic is made using the internet. Still a bubbling newbie in the tech space. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/obasavvy",
+                "github": "https://github.com/litobalolu",
+                "twitter": "https://twitter.com/obasavvy",
+                "portfolio": "",
+                "slackHandle": "Obasavvy"
+              },
+      
+              "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Personal Tracker",
+                  "projectdescription": "A tracker design for people who workout and watch their regular activities",
+                  "projectlink": "https://peteloba.obaloluwaoladun.repl.co/"
+                },
+                "second": {
+                  "projectname": "Ajim Capital",
+                  "projectdescription": "A company that invests in the future of Startups. Built to handle financial problems startups might encounter ",
+                  "projectlink": "https://ajimcapital.obaloluwaoladun.repl.co/"
+                }
+              }
             }
-
-
     ]
   }
 }
