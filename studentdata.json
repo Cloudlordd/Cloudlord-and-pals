@@ -1322,6 +1322,58 @@
               }
             }, 
             {
+              "id":33,
+              "stuId":1942,
+              "name":"Joseph Alagi",
+              "track":"Cloud Engineering",
+              "circle":344,
+              "img":"https://photos.google.com/u/1/photo/AF1QipPUsmVqp4SKtJ7nHjnJzYEDy1Tz6ZVLu0PAeA0",
+          
+              "description":{
+                          "intro":"I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who currently works as a Admin Executive at [Plus Acuity Media Ltd](https://www.acuityng.com/) a sister company of [Mediareach OMG Nigeria](https://www.mediareachomd.com/) I'm passionate about learning, sharing knowledge, documentation, web engineering, Building Tech-Products, Health and Fitness, Cloud Computing, and others. I create technical content (on my [Blog](https://medium.com/@AlagiJoseph), build useful [open-source projects](https://github.com/JosephAlagi), speak at some meetups/conferences, build technical communities...",
+                          "introdetails":"i JUST WANNA LIVE A SOFT LIFE WITH PURPOSE"
+                      },
+          
+              "socialmedia":{
+                          "linkedin":"https://www.linkedin.com/in/alagi-joseph-57605993/",
+                          "github":"https://github.com/Joseph-Alagi-Okebe",
+                          "twitter":"https://twitter.com/AlagiJoseph",
+                          "portfolio":"https://joseph-alagi.joe996-html.repl.co/",
+                          "slackHandle":"Joseph Alagi"
+                       },
+          
+              "experience":{
+                          "first":"FrontEnd Engineer Student @AltschoolAfrica",
+                          "second":"Cloud Engineer Student @AltschoolAfrica",
+                          "third":"Cloud Engineer Intern @Amazon"
+                       },
+          
+              "project":{
+                          "first":{
+                              "projectname":"ABOUT ME PAGE",
+                              "projectdescription":"A webpage that describes me",
+                              "projectlink":"https://joseph-alagi.joe996-html.repl.co/"
+                          },
+                          "second":{
+                              "projectname":"SIMPLE WEBPAGE",
+                              "projectdescription":"I was tasked to build a simple webpage describing myself using only HTML",
+                              "projectlink":"https://joseph-alagi-okebe.github.io/AJstyles/"
+                          },
+          
+                          "third":{
+          
+                              "projectname":"SchoolStat ",
+                              "projectdescription":"I was tasked to work with my circle members to attempt the Hackarthon challenge, of which we ended up doing a simple dashboard for a tech school that is sortable in asc and dsc order.",
+                              "projectlink":"https://team-school-stat344.team-schoolstat344.repl.co/"
+                          }
+                       }
+                  },
+          
+          
+          
+          
+          
+            {
               "id": 32,
               "stuId": 5326,
               "name": "Ekunola Paul",
@@ -1367,4 +1419,5 @@
             }
     ]
   }
+
 }
