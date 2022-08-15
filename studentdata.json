@@ -1280,9 +1280,91 @@
                   "projectlink": ""
                 }
               }
+            },
+            {
+              "id": 31,
+              "stuId": 2708,
+              "name": "Obaloluwa Oladunjoye",
+              "track": "Frontend Engineering",
+              "circle": 126,
+              "img": "https://avatars.githubusercontent.com/u/98332219?s=96&v=4",
+      
+              "description": {
+                "intro": "I'm a Software engineer, social media manager and a lover of dogs. when i'm not writing codes, I watch random tutorial videos and videos of the science of things.",
+                "introdetails": "Student at Altschool Africa and the University of Ibadan. I delight in knowing how things work and how magic is made using the internet. Still a bubbling newbie in the tech space. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/obasavvy",
+                "github": "https://github.com/litobalolu",
+                "twitter": "https://twitter.com/obasavvy",
+                "portfolio": "",
+                "slackHandle": "Obasavvy"
+              },
+      
+              "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Personal Tracker",
+                  "projectdescription": "A tracker design for people who workout and watch their regular activities",
+                  "projectlink": "https://peteloba.obaloluwaoladun.repl.co/"
+                },
+                "second": {
+                  "projectname": "Ajim Capital",
+                  "projectdescription": "A company that invests in the future of Startups. Built to handle financial problems startups might encounter ",
+                  "projectlink": "https://ajimcapital.obaloluwaoladun.repl.co/"
+                }
+              }
+            }, 
+            {
+              "id": 32,
+              "stuId": 5326,
+              "name": "Ekunola Paul",
+              "track": "Frontend Engineering",
+              "circle": 79,
+              "img": "https://avatars.githubusercontent.com/u/72552585?s=400&u=18b971e008c8db3636198303ad415a26e27319a3&v=4",
+      
+              "description": {
+                "intro": "I'm a software engineer, and an Entrepreneur",
+                "introdetails": "Student at Altschool Africa and Olabisi Onabanjo University. I excel and I'm invested in every stage of the life cycle of software development, including design implementation, coding, debugging, testing, and maintenance."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/ekunola-paul-42712b1aa/",
+                "github": "https://github.com/pscon",
+                "twitter": "https://twitter.com/PSCON3",
+                "portfolio": "https://ekunola-paul.netlify.app/",
+                "slackHandle": "pscon"
+              },
+      
+              "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Google Clone",
+                  "projectdescription": "A web Application similar to google, where you can search and surf the internet, view pictures, videos and news about your search topic...",
+                  "projectlink": "https://fastidious-belekoy-d1d97f.netlify.app/"
+                },
+                "second": {
+                  "projectname": "Dashboard",
+                  "projectdescription": "The Dashboard is a visual display of all of your data. A dashboard usually sits on its own page and receives information from a linked database. ",
+                  "projectlink": "https://cute-bonbon-7ba896.netlify.app/"
+                }
+              }, 
+              "education": {
+                "first": "AltSchool Africa School of Engineering.",
+                "second": "Olabisi Onabanjo University"
+              }
             }
-
-
     ]
   }
 }
