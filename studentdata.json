@@ -1413,11 +1413,12 @@
                   "projectlink": "https://cute-bonbon-7ba896.netlify.app/"
                 }
               }, 
-              "education": {
+                "education": {
                 "first": "AltSchool Africa School of Engineering.",
                 "second": "Olabisi Onabanjo University"
               }
             },
+
 
             {
               "id": 33,
@@ -1438,11 +1439,7 @@
                 "twitter": "https://twitter.com/AbdulrazzaqFahd",
                 "portfolio": "https://github.com/fahd-abdulrazzaq",
                 "slackHandle": "Fahd Abdulrazzaq"
-              },
-      
-              "project": {
-                "first": {
-                  "projectname": "Profile Page",
+         "projectname": "Profile Page",
                   "projectdescription": "just a random page i created which contains a breif description of me, a calculator and a login page",
                   "projectlink": "https://github.com/fahd-abdulrazzaq/About-Me.git"
                 },
@@ -1471,9 +1468,52 @@
                 "second": "Altschool Africa",
                 "third": "Google.com"
               }
-            }
-      
+            },
             
+            
+            {
+              "id": 34,
+              "stuId": 4446,
+              "name": "Jael-Praise David",
+              "track": "Frontend Engineering",
+              "circle": 178,
+              "img": "https://avatars.githubusercontent.com/u/108879387?s=400&u=373f1824a07a448e5b15ff9591f87a835fe43a25&v=4",
+      
+              "description": {
+                "intro": "A Computer Engineer, trainning to be a Software Engineer at AltSchool.",
+                "introdetails": "I am a serial business owner, dogged entrepreneur and most importantly, a Computer Hardware Engineer with dreams of building robot that can work perfectly in deep space. Becoming a robotics enginner with execellent full-Stack Engineering skills is a step in the right direction and that's why I am taking this step."
+              },
+      
+              "socialmedia": {
+                "github": "https://github.com/PR41S3",
+                "twitter": "https://twitter.com/jaelpraise",
+                "portfolio": "",
+                "slackHandle": "Jael David"
+              },
+      
+              "project": {
+                "first": {
+
+                  "projectname": "",
+                  "projectdescription": "",
+                  "projectlink": ""
+                },
+                "second": {
+                  "projectname": "",
+                  "projectdescription": "",
+                  "projectlink": ""
+                }
+              }, 
+              "education": {
+                "first": "IGBINEDION UNIVERSITY OKADA. B.ENG COMPUTER ENGINEERING",
+                "second": "OSISATECH COE ENUGU. PGDE.COMPUTER ENGINEERING EDUCATION",
+                "third": "NATIONAL OPEN UNIVERSITY, V.I, LAGOS STUDY CENTRE. MSC. INFORMATION TECHNOLOGY(In View)",
+                "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN FRONTEND ENGINEERING(In View)"
+              }
+
+            }
+
+
     ]
   }
 
