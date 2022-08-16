@@ -1322,6 +1322,59 @@
               }
             }, 
             {
+              "id":33,
+              "stuId":1942,
+              "name":"Joseph Alagi",
+              "track":"Cloud Engineering",
+              "circle":344,
+              "img":"https://avatars.githubusercontent.com/u/63665248?s=400&u=959450b47c05b94d39aea291c56dcb586e0b4e0a&v=4",
+          
+              "description":{
+                          "intro":"I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who currently works as a Admin Executive at [Plus Acuity Media Ltd](https://www.acuityng.com/) a sister company of [Mediareach OMG Nigeria](https://www.mediareachomd.com/) I'm passionate about learning, sharing knowledge, documentation, web engineering, Building Tech-Products, Health and Fitness, Cloud Computing, and others. I create technical content (on my [Blog](https://medium.com/@AlagiJoseph), build useful [open-source projects](https://github.com/JosephAlagi), speak at some meetups/conferences, build technical communities...",
+                          "introdetails":"i JUST WANNA LIVE A SOFT LIFE WITH PURPOSE"
+                      },
+          
+              "socialmedia":{
+                          "linkedin":"https://www.linkedin.com/in/alagi-joseph-57605993/",
+                          "github":"https://github.com/Joseph-Alagi-Okebe",
+                          "twitter":"https://twitter.com/AlagiJoseph",
+                          "portfolio":"https://joseph-alagi.joe996-html.repl.co/",
+                          "slackHandle":"Joseph Alagi"
+                       },
+          
+              "experience":{
+                          "first":"FrontEnd Engineer Student @AltschoolAfrica",
+                          "second":"Cloud Engineer Student @AltschoolAfrica",
+                          "third":"Cloud Engineer Intern @Amazon"
+                       },
+          
+              "project":{
+                          "first":{
+                              "projectname":"ABOUT ME PAGE",
+                              "projectdescription":"A webpage that describes me",
+                              "projectlink":"https://joseph-alagi.joe996-html.repl.co/"
+                          },
+                          "second":{
+                              "projectname":"SIMPLE WEBPAGE",
+                              "projectdescription":"I was tasked to build a simple webpage describing myself using only HTML",
+                              "projectlink":"https://joseph-alagi-okebe.github.io/AJstyles/"
+                          },
+          
+                          "third":{
+          
+                              "projectname":"SchoolStat ",
+                              "projectdescription":"I was tasked to work with my circle members to attempt the Hackarthon challenge, of which we ended up doing a simple dashboard for a tech school that is sortable in asc and dsc order.",
+                              "projectlink":"https://team-school-stat344.team-schoolstat344.repl.co/"
+                          }
+                       }
+                  },
+          
+          
+          
+          
+          
+                  
+            {
               "id": 32,
               "stuId": 5326,
               "name": "Ekunola Paul",
@@ -1365,8 +1418,61 @@
                 "second": "Olabisi Onabanjo University"
               }
             },
+
+
             {
               "id": 33,
+              "stuId": "5311",
+              "name": "Fahd Abdulrazzaq",
+              "track": "Cloud Engineering",
+              "circle": 349,
+              "img": "https://avatars.githubusercontent.com/u/105148062?s=96&v=4",
+      
+              "description": {
+                "intro": "  I'm that guy who slides into your dm with multiple questions. Always Seeking Knowledge",
+                "intro-details": "The Greatest Knowledge A Person Can Acquire Over The course of his or her lifetime is that he or she knows nothing, I live my life by this. Always Learning, Always Seeking for Knowledge"
+              },
+      
+              "socialmedia": {
+                "linkedin":"",
+                "github": "https://github.com/fahd-abdulrazzaq",
+                "twitter": "https://twitter.com/AbdulrazzaqFahd",
+                "portfolio": "https://github.com/fahd-abdulrazzaq",
+                "slackHandle": "Fahd Abdulrazzaq"
+         "projectname": "Profile Page",
+                  "projectdescription": "just a random page i created which contains a breif description of me, a calculator and a login page",
+                  "projectlink": "https://github.com/fahd-abdulrazzaq/About-Me.git"
+                },
+      
+                "second": {
+                  "projectname": "Assignment",
+                  "projectdescription": "My Second Altschool Assignment",
+                  "projectlink": "https://github.com/fahd-abdulrazzaq/Abdulrazzaq-Fahd-Assignment-2.git"
+                },
+      
+                "third": {
+                  "projectname": "Random Animations",
+                  "projectdescription": "Just A Page With Random A nimations I created for fun",
+                  "projectlink": "https://github.com/fahd-abdulrazzaq/Random-Animation.git"
+                },
+      
+                "fourth": {
+                  "projectname": "login page",
+                  "projectdescription": "This is just a random login page i created to practice my css animation and design skills",
+                  "projectlink": "https://github.com/fahd-abdulrazzaq/Log-in-page.git"
+                }
+              },
+      
+              "education": {
+                "first": "Federal University Of Technology,Minna",
+                "second": "Altschool Africa",
+                "third": "Google.com"
+              }
+            },
+            
+            
+            {
+              "id": 34,
               "stuId": 4446,
               "name": "Jael-Praise David",
               "track": "Frontend Engineering",
@@ -1385,14 +1491,9 @@
                 "slackHandle": "Jael David"
               },
       
-              "experience": {
-                "first": "",
-                "second": "",
-                "third": ""
-              },
-      
               "project": {
                 "first": {
+
                   "projectname": "",
                   "projectdescription": "",
                   "projectlink": ""
@@ -1412,6 +1513,9 @@
 
             }
 
+
     ]
   }
+
 }
+
