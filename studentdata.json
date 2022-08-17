@@ -1516,63 +1516,11 @@
                 "third": "NATIONAL OPEN UNIVERSITY, V.I, LAGOS STUDY CENTRE. MSC. INFORMATION TECHNOLOGY(In View)",
                 "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN FRONTEND ENGINEERING(In View)"
               }
-              "id":36,
-              "stuId": 2175,
-              "name":"Okpala Kosiosochukwu",
-              "track":"Cloud Engineering",
-              "circle":286,
-              "img":"",
-          
-              "description":{
-                          "intro":"Trusting in the process of being a Cloud Engineer learning at Altschool",
-                          "introdetails":"A virtual assistant amongst other things and  chef in my spare time."
-                      },
-          
-              "socialmedia":{
-                          "linkedin":"https://www.linkedin.com/in/emmanuella-kosisochukwu-okpala-222b7219a",
-                          "github":"https://github.com/Kossiso",
-                          "twitter":"https://twitter.com/kosi_eo",
-                          "slackHandle":"Okpala Kosi"
-                       },
-          
-              "experience":{
-                          "first":"Exploration Geologist @Etazuma Group WA",
-                          "second":"Laboratory Geologist @Ministry Of Works",
-                       },
-          
-              "project":{
-                          "first":{
-                              "projectname":"",
-                              "projectdescription":"",
-                              "projectlink":""
-                          },
-                          "second":{
-                              "projectname":"",
-                              "projectdescription":"",
-                              "projectlink":""
-                          },
-          
-                          "third":{
-          
-                              "projectname":"",
-                              "projectdescription":"",
-                              "projectlink":""
-                          }
-              "education": {
-                        "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
-                        "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
-                        "third": "PROJECT MANAGEMENT, GOOGLE",
-                        "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
-                      }
-                          
-                       }
-                  },
-
             }
 
+            
+                ]
+              }
+            }
 
-    ]
-  }
-
-}
 
