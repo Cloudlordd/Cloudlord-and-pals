@@ -1322,7 +1322,7 @@
               }
             }, 
             {
-              "id":33,
+              "id":32,
               "stuId":1942,
               "name":"Joseph Alagi",
               "track":"Cloud Engineering",
@@ -1330,8 +1330,10 @@
               "img":"https://avatars.githubusercontent.com/u/63665248?s=400&u=959450b47c05b94d39aea291c56dcb586e0b4e0a&v=4",
           
               "description":{
-                          "intro":"I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who currently works as a Admin Executive at [Plus Acuity Media Ltd](https://www.acuityng.com/) a sister company of [Mediareach OMG Nigeria](https://www.mediareachomd.com/) I'm passionate about learning, sharing knowledge, documentation, web engineering, Building Tech-Products, Health and Fitness, Cloud Computing, and others. I create technical content (on my [Blog](https://medium.com/@AlagiJoseph), build useful [open-source projects](https://github.com/JosephAlagi), speak at some meetups/conferences, build technical communities...",
-                          "introdetails":"i JUST WANNA LIVE A SOFT LIFE WITH PURPOSE"
+                "intro":"i JUST WANNA LIVE A SOFT LIFE WITH PURPOSE",
+
+                          "introdetails":"I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who currently works as a Admin Executive at [Plus Acuity Media Ltd](https://www.acuityng.com/) a sister company of [Mediareach OMG Nigeria](https://www.mediareachomd.com/) I'm passionate about learning, sharing knowledge, documentation, web engineering, Building Tech-Products, Health and Fitness, Cloud Computing, and others. I create technical content (on my [Blog](https://medium.com/@AlagiJoseph), build useful [open-source projects](https://github.com/JosephAlagi), speak at some meetups/conferences, build technical communities..."
+                          
                       },
           
               "socialmedia":{
@@ -1375,7 +1377,7 @@
           
                   
             {
-              "id": 32,
+              "id": 33,
               "stuId": 5326,
               "name": "Ekunola Paul",
               "track": "Frontend Engineering",
@@ -1421,7 +1423,7 @@
 
 
             {
-              "id": 33,
+              "id": 34,
               "stuId": "5311",
               "name": "Fahd Abdulrazzaq",
               "track": "Cloud Engineering",
@@ -1439,7 +1441,11 @@
                 "twitter": "https://twitter.com/AbdulrazzaqFahd",
                 "portfolio": "https://github.com/fahd-abdulrazzaq",
                 "slackHandle": "Fahd Abdulrazzaq"
-         "projectname": "Profile Page",
+              },
+
+        "project":{
+                 "first":{
+                  "projectname": "Profile Page",
                   "projectdescription": "just a random page i created which contains a breif description of me, a calculator and a login page",
                   "projectlink": "https://github.com/fahd-abdulrazzaq/About-Me.git"
                 },
@@ -1472,7 +1478,7 @@
             
             
             {
-              "id": 34,
+              "id": 35,
               "stuId": 4446,
               "name": "Jael-Praise David",
               "track": "Frontend Engineering",
