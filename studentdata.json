@@ -1306,6 +1306,7 @@
           }
         }
       },
+
       {
         "id": 32,
         "stuId": 1942,
@@ -1344,7 +1345,8 @@
             "projectname": "SIMPLE WEBPAGE",
             "projectdescription": "I was tasked to build a simple webpage describing myself using only HTML",
             "projectlink": "https://joseph-alagi-okebe.github.io/AJstyles/"
-          },
+          }
+        },
 
 
               "education": {
@@ -1605,8 +1607,8 @@
       
       
       
-            ,{
-              "id": 38
+            {
+              "id": 38,
               "stuId": 5395,
               "name":"Ozuem Eugene",
               "track":"Front-End Engineering",
