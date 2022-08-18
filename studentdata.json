@@ -1,6 +1,7 @@
 {
   "data": {
     "students": [
+      
       {
         "id": 0,
         "stuId": 3374,
@@ -1567,10 +1568,37 @@
                       "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
             }    
             }
-
             
+            ,{
+              "id": 0,
+              "stuId": 5395,
+              "name":"Ozuem Eugene",
+              "track":"Front-End Engineering",
+              "circle": 59,
+              "img": "https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
+      
+              "description": {
+                "intro": "Black Bruce Wayne",
+                "introdetails": "Ozuem Eugene is a Junior Web Developer who has worked in the frontend team of some amazing organizations. Design thinking, problem solving, communication, education, and training are all areas in which I excel. If you are a company looking for a web presence or an employer looking to hire, please contact me here. In previous years, I had the opportunity to intern with TIIDELAB, an organization that assists passionate students and graduates in developing their skills in software engineering, as well as providing softskills with full curriculum to assist fellows in building a public profile. Moving forward on my journey, I decided to focus on becoming a world class cloud engineer in the coming years, assisting organizations to scale applications, manage resources, provide server security, and collaborate with in-house software engineering teams to negotiate seamless ways to provide and scale applications. I am currently studying cloud engineering at Altschool Africa, a recognized institution in Africa and beyond."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/eugene-chuks-364270134",
+                "github": "https://github.com/preeaacchh",
+                "twitter": "https://twitter.com/preeaacchh",
+                "portfolio": "",
+                "slackHandle": "preeaacchh"
+              },
+      
+              "experience": {
+                "first": "None",
+                "second": "FrontEnd Engineer Intern",
+                "third": ""
+              }
+            }
 
-            
+          
+
                 ]
               }
             }
