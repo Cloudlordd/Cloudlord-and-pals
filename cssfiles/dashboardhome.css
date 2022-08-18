@@ -621,7 +621,8 @@ padding: 30px 10px;
 
 @media screen and (max-width: 768px) {
 	#sidebar {
-		width: 200px;
+		width: 100%;
+      max-width: 375px;
 	}
 
 	#content {
