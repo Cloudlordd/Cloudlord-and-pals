@@ -1575,4 +1575,56 @@
               }
             }
 
+            {
+              "id": 37,
+              "stuId": 2494,
+              "name":"Emmanuel Akingbade",
+              "track":"Cloud Engineering",
+              "circle": 355,
+              "img": "https://avatars.githubusercontent.com/u/98383411?v=4",
+      
+              "description": {
+                "intro": "Fascinated with what happens behind the scene",
+                "introdetails": "A tech newbie but with strong passion for learning. Architect by day...techbaby at night. I believe creativity is the soul that drives invention,hence my love for Architecture and new found drive - Cloud Engineering."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/emmanuel-akingbade-8a4132182/",
+                "github": "https://github.com/Quriouskat",
+                "twitter": "https://twitter.com/Akin_Arinola",
+                "portfolio": "",
+                "slackHandle": "Emmanuel Akingbade"
+              },
+      
+              "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "My first portfolio website",
+                  "projectdescription": "My first portfolio website using my knowledge of HTML and CSS, i created simple profile pages linked together. Also created a simple responsive calculator",
+                  "projectlink": "https://github.com/Quriouskat/Assignment"
+                },
+                "second": {
+                  "projectname": "Altschool Assignment 2",
+                  "projectdescription": "A javascript assignment on basic knowledge of data types in Javascript",
+                  "projectlink": "https://github.com/Quriouskat/Emmanuel-Akingabde-assignment-02"
+                },
+      
+                "third": {
+                  "projectname": "Tip Calculator",
+                  "projectdescription": "Created simple tip calculator using basic knowledge of python",
+                  "projectlink": "https://github.com/Quriouskat/Tip-calculator"
+                }
+              }
+
+              "education": {
+                "first": "AltSchool Africa School of Engineering.",
+                "second": "Lagos State University.",
+                "third": "Federal Polytechnic, Ado-Ekiti."
+              }
+            },          
 
