@@ -626,8 +626,10 @@ padding: 30px 10px;
 	}
 
 	#content {
+      position: absolute;
+      left: 60px;
 		width: calc(100% - 60px);
-		left: 200px;
+		left: 60px;
 	}
 
 	#content nav .nav-link {
