@@ -219,7 +219,8 @@ body {
 	position: sticky;
 	top: 0;
 	left: 0;
-	z-index: 1000;
+   z-index: 2001;
+   padding-left: 0;
 }
 #content nav::before {
 	content: '';
