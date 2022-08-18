@@ -353,3 +353,19 @@ const logout = ()=>{
  `
 
 }
+
+// function to close side bar when any of the side bar menu is clicked 
+const [SIDEBAR_LIST1, SIDEBAR_LIST2] = document.querySelectorAll('.side-menu');
+const SIDEBAR_ITEM1 = SIDEBAR_LIST1.querySelectorAll(':scope > li');
+const SIDEBAR_ITEM2 = SIDEBAR_LIST2.querySelectorAll(':scope > li');
+const sidebarList = [...SIDEBAR_ITEM1, ...SIDEBAR_ITEM2];
+
+const sidebarClickHandler = () => {
+   for (const item of sidebarList) {
+      item.addEventListener('click', () => {
+         sidebar.classList.add('hide');
+			studentImage.classList.add('remove');
+      } )
+   }
+}
+sidebarClickHandler();
