@@ -4,13 +4,13 @@
       {
         "id": 0,
         "stuId": 3374,
-        "name": "Adeyemi Buhari",
-        "track": "Cloud Engineering",
+        "name":"Adeyemi Buhari",
+        "track":"Cloud Engineering",
         "circle": 145,
         "img": "https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
 
         "description": {
-          "intro": "Problem solving is the most important aspect of my personality. I enjoy thinking outside the box and always listen when others speak",
+          "intro": "There is no cloud. It’s just someone else’s computer",
           "introdetails": "I've been obsessed with the idea of using software to solve practical problems since I wrote my first program in Qbasic and manipulated it to produce the desired output. I am passionate about solving the never-ending puzzle that is software engineering. I believe in the power of programming to change and improve people's lives all over the world. Adeyemi Buhari Opeyemi is a Junior Web Developer who has worked in the frontend team of some amazing organizations. Design thinking, problem solving, communication, education, and training are all areas in which I excel. If you are a company looking for a web presence or an employer looking to hire, please contact me here. In previous years, I had the opportunity to intern with TIIDELAB, an organization that assists passionate students and graduates in developing their skills in software engineering, as well as providing softskills with full curriculum to assist fellows in building a public profile. Moving forward on my journey, I decided to focus on becoming a world class cloud engineer in the coming years, assisting organizations to scale applications, manage resources, provide server security, and collaborate with in-house software engineering teams to negotiate seamless ways to provide and scale applications. I am currently studying cloud engineering at Altschool Africa, a recognized institution in Africa and beyond. Altschool Africa is for individuals looking to gain technical skills and kickstart a career in Software Engineering."
         },
 
@@ -1322,7 +1322,7 @@
               }
             }, 
             {
-              "id":33,
+              "id":32,
               "stuId":1942,
               "name":"Joseph Alagi",
               "track":"Cloud Engineering",
@@ -1330,8 +1330,10 @@
               "img":"https://avatars.githubusercontent.com/u/63665248?s=400&u=959450b47c05b94d39aea291c56dcb586e0b4e0a&v=4",
           
               "description":{
-                          "intro":"I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who currently works as a Admin Executive at [Plus Acuity Media Ltd](https://www.acuityng.com/) a sister company of [Mediareach OMG Nigeria](https://www.mediareachomd.com/) I'm passionate about learning, sharing knowledge, documentation, web engineering, Building Tech-Products, Health and Fitness, Cloud Computing, and others. I create technical content (on my [Blog](https://medium.com/@AlagiJoseph), build useful [open-source projects](https://github.com/JosephAlagi), speak at some meetups/conferences, build technical communities...",
-                          "introdetails":"i JUST WANNA LIVE A SOFT LIFE WITH PURPOSE"
+                "intro":"i JUST WANNA LIVE A SOFT LIFE WITH PURPOSE",
+
+                          "introdetails":"I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who currently works as a Admin Executive at [Plus Acuity Media Ltd](https://www.acuityng.com/) a sister company of [Mediareach OMG Nigeria](https://www.mediareachomd.com/) I'm passionate about learning, sharing knowledge, documentation, web engineering, Building Tech-Products, Health and Fitness, Cloud Computing, and others. I create technical content (on my [Blog](https://medium.com/@AlagiJoseph), build useful [open-source projects](https://github.com/JosephAlagi), speak at some meetups/conferences, build technical communities..."
+                          
                       },
           
               "socialmedia":{
@@ -1375,7 +1377,7 @@
           
                   
             {
-              "id": 32,
+              "id": 33,
               "stuId": 5326,
               "name": "Ekunola Paul",
               "track": "Frontend Engineering",
@@ -1413,14 +1415,15 @@
                   "projectlink": "https://cute-bonbon-7ba896.netlify.app/"
                 }
               }, 
-              "education": {
+                "education": {
                 "first": "AltSchool Africa School of Engineering.",
                 "second": "Olabisi Onabanjo University"
               }
             },
 
+
             {
-              "id": 33,
+              "id": 34,
               "stuId": "5311",
               "name": "Fahd Abdulrazzaq",
               "track": "Cloud Engineering",
@@ -1439,9 +1442,9 @@
                 "portfolio": "https://github.com/fahd-abdulrazzaq",
                 "slackHandle": "Fahd Abdulrazzaq"
               },
-      
-              "project": {
-                "first": {
+
+        "project":{
+                 "first":{
                   "projectname": "Profile Page",
                   "projectdescription": "just a random page i created which contains a breif description of me, a calculator and a login page",
                   "projectlink": "https://github.com/fahd-abdulrazzaq/About-Me.git"
@@ -1471,11 +1474,105 @@
                 "second": "Altschool Africa",
                 "third": "Google.com"
               }
-            }
-      
+            },
             
-    ]
-  }
+            
+            {
+              "id": 35,
+              "stuId": 4446,
+              "name": "Jael-Praise David",
+              "track": "Frontend Engineering",
+              "circle": 178,
+              "img": "https://avatars.githubusercontent.com/u/108879387?s=400&u=373f1824a07a448e5b15ff9591f87a835fe43a25&v=4",
+      
+              "description": {
+                "intro": "A Computer Engineer, trainning to be a Software Engineer at AltSchool.",
+                "introdetails": "I am a serial business owner, dogged entrepreneur and most importantly, a Computer Hardware Engineer with dreams of building robot that can work perfectly in deep space. Becoming a robotics enginner with execellent full-Stack Engineering skills is a step in the right direction and that's why I am taking this step."
+              },
+      
+              "socialmedia": {
+                "github": "https://github.com/PR41S3",
+                "twitter": "https://twitter.com/jaelpraise",
+                "portfolio": "",
+                "slackHandle": "Jael David"
+              },
+      
+              "project": {
+                "first": {
 
-}
+                  "projectname": "",
+                  "projectdescription": "",
+                  "projectlink": ""
+                },
+                "second": {
+                  "projectname": "",
+                  "projectdescription": "",
+                  "projectlink": ""
+                }
+              }, 
+              "education": {
+                "first": "IGBINEDION UNIVERSITY OKADA. B.ENG COMPUTER ENGINEERING",
+                "second": "OSISATECH COE ENUGU. PGDE.COMPUTER ENGINEERING EDUCATION",
+                "third": "NATIONAL OPEN UNIVERSITY, V.I, LAGOS STUDY CENTRE. MSC. INFORMATION TECHNOLOGY(In View)",
+                "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN FRONTEND ENGINEERING(In View)"
+              }
+            },
+
+
+
+            {
+              "id": 36,
+              "stuId": 2175,
+              "name": "Okpala Kosiosochukwu",
+              "track": "Cloud Engineering",
+              "circle": 286,
+              "img": "https://avatars.githubusercontent.com/u/105818250?v=4",
+      
+              "description":{
+                "intro":"Trusting in the process of being a Cloud Engineer learning at Altschool",
+                "introdetails":"A virtual assistant amongst other things and  chef in my spare time."
+            },
+      
+            "socialmedia":{
+              "linkedin":"https://www.linkedin.com/in/emmanuella-kosisochukwu-okpala-222b7219a",
+              "github":"https://github.com/Kossiso",
+              "twitter":"https://twitter.com/kosi_eo",
+              "slackHandle":"Okpala Kosi"
+           },
+      
+           "project":{
+            "first":{
+                "projectname":"",
+                "projectdescription":"",
+                "projectlink":""
+            },
+            "second":{
+                "projectname":"",
+                "projectdescription":"",
+                "projectlink":""
+            },
+
+            "third":{
+
+                "projectname":"",
+                "projectdescription":"",
+                "projectlink":""
+            }
+          },
+
+              "education": {
+                      "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
+                      "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
+                      "third": "PROJECT MANAGEMENT, GOOGLE",
+                      "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
+            }    
+            }
+
+            
+
+            
+                ]
+              }
+            }
+
 
