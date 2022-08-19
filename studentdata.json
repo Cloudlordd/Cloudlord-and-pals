@@ -1,7 +1,6 @@
 {
   "data": {
     "students": [
-      
       {
         "id": 0,
         "stuId": 3374,
@@ -1348,15 +1347,13 @@
           }
         },
 
-
-              "education": {
-                      "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
-                      "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
-                      "third": "PROJECT MANAGEMENT, GOOGLE",
-                      "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
-            }    
-            },
-            
+        "education": {
+          "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
+          "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
+          "third": "PROJECT MANAGEMENT, GOOGLE",
+          "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
+        }
+      },
 
       {
         "id": 33,
@@ -1370,7 +1367,6 @@
           "intro": "I'm a software engineer, and an Entrepreneur",
           "introdetails": "Student at Altschool Africa and Olabisi Onabanjo University. I excel and I'm invested in every stage of the life cycle of software development, including design implementation, coding, debugging, testing, and maintenance."
         },
-
 
         "socialmedia": {
           "linkedin": "https://www.linkedin.com/in/ekunola-paul-42712b1aa/",
@@ -1457,9 +1453,56 @@
           "third": "Google.com"
         }
       },
-
       {
         "id": 35,
+        "stuId": "1826",
+        "name": "Temitope Agbaje",
+        "track": "Backend Engineering",
+        "circle": 235,
+        "img": "https://avatars.githubusercontent.com/u/71881414?s=400&u=82de0b0b0360e47d398e893bf36de4afccd9328b&v=4",
+
+        "description": {
+          "intro": " Hi, My name is Tope. I am on vibes and I want to be soft 😅",
+          "intro-details": "To be very honest, I want to be a world class developer 😊"
+        },
+
+        "socialmedia": {
+          "linkedin": "",
+          "github": "https://github.com/TemitopeAgbaje",
+          "twitter": "https://twitter.com/Ag_Tope",
+          "portfolio": "https://github.com/TemitopeAgbaje",
+          "slackHandle": "Temitope Agbaje"
+        },
+
+        "project": {
+          "first": {
+            "projectname": "Weather App",
+            "projectdescription": "Basically just used to check the weather forecast of a location",
+            "projectlink": "https://topweather.netlify.app/"
+          },
+
+          "second": {
+            "projectname": "Google landing Page",
+            "projectdescription": "I forgot why i did it sha, Just check it out",
+            "projectlink": "https://topegooglepage.netlify.app/"
+          },
+
+          "third": {
+            "projectname": "Random Letter Gme",
+            "projectdescription": "Let Play the game",
+            "projectlink": "https://guessletter.netlify.app/"
+          }
+        },
+
+        "education": {
+          "first": "Unilag",
+          "second": "Altschool Africa",
+          "third": "Google.com"
+        }
+      },
+
+      {
+        "id": 36,
         "stuId": 4446,
         "name": "Jael-Praise David",
         "track": "Frontend Engineering",
@@ -1499,7 +1542,7 @@
       },
 
       {
-        "id": 36,
+        "id": 37,
         "stuId": 2175,
         "name": "Okpala Kosiosochukwu",
         "track": "Cloud Engineering",
@@ -1549,10 +1592,8 @@
         }
       },
 
-
       {
- 
-        "id": 37,
+        "id": 38,
         "stuId": "5155",
         "name": "IKEM ADAOBI",
         "track": "Backend Engineering",
@@ -1604,40 +1645,35 @@
           "third": "Altschool"
         }
       },
-      
-      
-      
-            {
-              "id": 38,
-              "stuId": 5395,
-              "name":"Ozuem Eugene",
-              "track":"Front-End Engineering",
-              "circle": 59,
-              "img": "https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
-      
-              "description": {
-                "intro": "Black Bruce Wayne",
-                "introdetails": "Ozuem Eugene is a Junior Web Developer who has worked in the frontend team of some amazing organizations. Design thinking, problem solving, communication, education, and training are all areas in which I excel. If you are a company looking for a web presence or an employer looking to hire, please contact me here. In previous years, I had the opportunity to intern with TIIDELAB, an organization that assists passionate students and graduates in developing their skills in software engineering, as well as providing softskills with full curriculum to assist fellows in building a public profile. Moving forward on my journey, I decided to focus on becoming a world class cloud engineer in the coming years, assisting organizations to scale applications, manage resources, provide server security, and collaborate with in-house software engineering teams to negotiate seamless ways to provide and scale applications. I am currently studying cloud engineering at Altschool Africa, a recognized institution in Africa and beyond."
-              },
-      
-              "socialmedia": {
-                "linkedin": "https://www.linkedin.com/in/eugene-chuks-364270134",
-                "github": "https://github.com/preeaacchh",
-                "twitter": "https://twitter.com/preeaacchh",
-                "portfolio": "",
-                "slackHandle": "preeaacchh"
-              },
-      
-              "experience": {
-                "first": "None",
-                "second": "FrontEnd Engineer Intern",
-                "third": ""
-              }
-            }
 
-          
+      {
+        "id": 39,
+        "stuId": 5395,
+        "name": "Ozuem Eugene",
+        "track": "Front-End Engineering",
+        "circle": 59,
+        "img": "https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
 
-                ]
+        "description": {
+          "intro": "Black Bruce Wayne",
+          "introdetails": "Ozuem Eugene is a Junior Web Developer who has worked in the frontend team of some amazing organizations. Design thinking, problem solving, communication, education, and training are all areas in which I excel. If you are a company looking for a web presence or an employer looking to hire, please contact me here. In previous years, I had the opportunity to intern with TIIDELAB, an organization that assists passionate students and graduates in developing their skills in software engineering, as well as providing softskills with full curriculum to assist fellows in building a public profile. Moving forward on my journey, I decided to focus on becoming a world class cloud engineer in the coming years, assisting organizations to scale applications, manage resources, provide server security, and collaborate with in-house software engineering teams to negotiate seamless ways to provide and scale applications. I am currently studying cloud engineering at Altschool Africa, a recognized institution in Africa and beyond."
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/eugene-chuks-364270134",
+          "github": "https://github.com/preeaacchh",
+          "twitter": "https://twitter.com/preeaacchh",
+          "portfolio": "",
+          "slackHandle": "preeaacchh"
+        },
+
+        "experience": {
+          "first": "None",
+          "second": "FrontEnd Engineer Intern",
+          "third": ""
+        }
+      }
+    ]
               }
             }
 
