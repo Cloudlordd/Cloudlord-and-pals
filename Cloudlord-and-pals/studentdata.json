@@ -1,12 +1,11 @@
 {
   "data": {
     "students": [
-      
       {
         "id": 0,
         "stuId": 3374,
-        "name": "Adeyemi Buhari",
-        "track": "Cloud Engineering",
+        "name":"Adeyemi Buhari",
+        "track":"Cloud Engineering",
         "circle": 145,
         "img": "https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
 
@@ -1050,7 +1049,7 @@
             "projectname": "A Rock-paper-scissors",
             "projectdescription": "This is a Rock-paper-scissors game. A simple python project inspired by 100days of code by Angela Yu.",
             "projectlink": "https://github.com/Bukola-Testimony/Rock-paper-scissors"
-          },
+          }, 
 
           "fourth": {
             "projectname": "Treasure Island",
@@ -1064,6 +1063,7 @@
           "second": "Ladoke Akintola University of Technology"
         }
       },
+      
 
       {
         "id": 26,
@@ -1089,11 +1089,13 @@
           "first": "AltSchool Africa School of Engineering.",
           "second": "Software Engineer at ALX",
           "third": ""
+
         },
 
         "education": {
           "first": "AltSchool Africa School of Engineering.",
           "second": "ALX Software Engineering"
+
         },
 
         "project": {
@@ -1101,12 +1103,14 @@
             "projectname": "Assignment",
             "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
             "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
+          
           }
         }
       },
+  
 
-      {
-        "id": 27,
+{
+        "id":27,
         "stuId": 1731,
         "name": "Samson Okeji",
         "track": "Backend Engineering",
@@ -1130,13 +1134,14 @@
           "first": "Back-End Engineer @Business Codes Technologies Limited",
           "second": "Software Engineering Intern @Microsoft x Elev8",
           "third": "Software Engineering Intern @Microsoft x Tech4dev"
+
         },
 
         "project": {
           "first": {
-            "projectname": "EfoodBank",
+"projectname": "EfoodBank",
             "projectdescription": "A react web-based app that is aimed at connecting potential Benefactors of food items/charity with potential beneficiaries, this is in-line with the vision of SDG GOAL 2: Zero Hunger.",
-            "projectlink": "samsonokeji-efoodbank.netlify.app/"
+            "projectlink": "samsonokeji-efoodbank.netlify.app/"           
           },
           "second": {
             "projectname": "PHONIE",
@@ -1157,7 +1162,7 @@
           }
         }
       },
-
+      
       {
         "id": 28,
         "stuId": 4797,
@@ -1177,21 +1182,29 @@
           "twitter": "https://twitter.com/boss_assignment",
           "portfolio": "https://altschoolass1.bsolodzi.repl.co/index.html",
           "slackHandle": "Bernard Kwame Solodzi"
-        },
+         },
 
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "University of Health and ALlied Sciences, Ho Ghana"
-        },
 
+
+         "education":{
+          "first":"AltSchool Africa School of Engineering.",
+          "second":"University of Health and ALlied Sciences, Ho Ghana"
+
+      },
+        
         "project": {
           "first": {
             "projectname": "Assignment",
             "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
             "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
           }
+
         }
+
+
       },
+      
+      
 
       {
         "id": 29,
@@ -1212,494 +1225,335 @@
           "twitter": "https://twitter.com/Zubby_Ahamefula",
           "portfolio": "https://github.com/Zubby003?tab=repositories",
           "slackHandle": "Nzubechi Ahamefula"
-        }
-      },
 
-      {
-        "id": 30,
-        "stuId": 5272,
-        "name": "King Igbozuruike",
-        "track": "Cloud Engineering",
-        "circle": 224,
-        "img": "https://avatars.githubusercontent.com/u/104108166?s=400&u=c9c6cd41a4fd324fa2bedcfa1543ab5008e8c871&v=4",
-
-        "description": {
-          "intro": "I dream to work for Microsoft!",
-          "introdetails": "I am a Cloud Engineering Student at Altschool Africa training to become a top-tier Software Engineer. I currently not in University as I am an extremely young man. Don't ask me my age. But I plan to major in Computer Science though."
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/thetechking/",
-          "github": "https://github.com/kingigbozuruike",
-          "twitter": "https://twitter.com/the_techking",
-          "portfolio": "",
-          "slackHandle": "The Tech King"
-        },
-
-        "experience": {
-          "first": "AltSchool Student. Obviously!",
-          "second": "Microsoft Intern in my dream!",
-          "third": ""
-        },
-
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "University of Uyo, Akwa Ibom State"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "School Dashboard",
-            "projectdescription": "AltSchool Holiday challenge.",
-            "projectlink": "https://Circle-224-SchoolStat.circle2-2-4.repl.co"
-          },
-          "second": {
-            "projectname": "Web Search",
-            "projectdescription": "I don't really have projects online, so if you click on this link it will probably lead you to Google!",
-            "projectlink": "https://google.com"
-          },
-
-          "third": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          }
-        }
-      },
-      {
-        "id": 31,
-        "stuId": 2708,
-        "name": "Obaloluwa Oladunjoye",
-        "track": "Frontend Engineering",
-        "circle": 126,
-        "img": "https://avatars.githubusercontent.com/u/98332219?s=96&v=4",
-
-        "description": {
-          "intro": "I'm a Software engineer, social media manager and a lover of dogs. when i'm not writing codes, I watch random tutorial videos and videos of the science of things.",
-          "introdetails": "Student at Altschool Africa and the University of Ibadan. I delight in knowing how things work and how magic is made using the internet. Still a bubbling newbie in the tech space. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/obasavvy",
-          "github": "https://github.com/litobalolu",
-          "twitter": "https://twitter.com/obasavvy",
-          "portfolio": "",
-          "slackHandle": "Obasavvy"
-        },
-
-        "experience": {
-          "first": "",
-          "second": "",
-          "third": ""
-        },
-
-        "project": {
-          "first": {
-            "projectname": "Personal Tracker",
-            "projectdescription": "A tracker design for people who workout and watch their regular activities",
-            "projectlink": "https://peteloba.obaloluwaoladun.repl.co/"
-          },
-          "second": {
-            "projectname": "Ajim Capital",
-            "projectdescription": "A company that invests in the future of Startups. Built to handle financial problems startups might encounter ",
-            "projectlink": "https://ajimcapital.obaloluwaoladun.repl.co/"
-          }
-        }
-      },
-
-      {
-        "id": 32,
-        "stuId": 1942,
-        "name": "Joseph Alagi",
-        "track": "Cloud Engineering",
-        "circle": 344,
-        "img": "https://avatars.githubusercontent.com/u/63665248?s=400&u=959450b47c05b94d39aea291c56dcb586e0b4e0a&v=4",
-
-        "description": {
-          "intro": "i JUST WANNA LIVE A SOFT LIFE WITH PURPOSE",
-
-          "introdetails": "I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who currently works as a Admin Executive at [Plus Acuity Media Ltd](https://www.acuityng.com/) a sister company of [Mediareach OMG Nigeria](https://www.mediareachomd.com/) I'm passionate about learning, sharing knowledge, documentation, web engineering, Building Tech-Products, Health and Fitness, Cloud Computing, and others. I create technical content (on my [Blog](https://medium.com/@AlagiJoseph), build useful [open-source projects](https://github.com/JosephAlagi), speak at some meetups/conferences, build technical communities..."
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/alagi-joseph-57605993/",
-          "github": "https://github.com/Joseph-Alagi-Okebe",
-          "twitter": "https://twitter.com/AlagiJoseph",
-          "portfolio": "https://joseph-alagi.joe996-html.repl.co/",
-          "slackHandle": "Joseph Alagi"
-        },
-
-        "experience": {
-          "first": "FrontEnd Engineer Student @AltschoolAfrica",
-          "second": "Cloud Engineer Student @AltschoolAfrica",
-          "third": "Cloud Engineer Intern @Amazon"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "ABOUT ME PAGE",
-            "projectdescription": "A webpage that describes me",
-            "projectlink": "https://joseph-alagi.joe996-html.repl.co/"
-          },
-          "second": {
-            "projectname": "SIMPLE WEBPAGE",
-            "projectdescription": "I was tasked to build a simple webpage describing myself using only HTML",
-            "projectlink": "https://joseph-alagi-okebe.github.io/AJstyles/"
-          }
-        },
-
-
-              "education": {
-                      "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
-                      "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
-                      "third": "PROJECT MANAGEMENT, GOOGLE",
-                      "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
-            }    
-            },
-            
-
-      {
-        "id": 33,
-        "stuId": 5326,
-        "name": "Ekunola Paul",
-        "track": "Frontend Engineering",
-        "circle": 79,
-        "img": "https://avatars.githubusercontent.com/u/72552585?s=400&u=18b971e008c8db3636198303ad415a26e27319a3&v=4",
-
-        "description": {
-          "intro": "I'm a software engineer, and an Entrepreneur",
-          "introdetails": "Student at Altschool Africa and Olabisi Onabanjo University. I excel and I'm invested in every stage of the life cycle of software development, including design implementation, coding, debugging, testing, and maintenance."
-        },
-
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/ekunola-paul-42712b1aa/",
-          "github": "https://github.com/pscon",
-          "twitter": "https://twitter.com/PSCON3",
-          "portfolio": "https://ekunola-paul.netlify.app/",
-          "slackHandle": "pscon"
-        },
-
-        "experience": {
-          "first": "",
-          "second": "",
-          "third": ""
-        },
-
-        "project": {
-          "first": {
-            "projectname": "Google Clone",
-            "projectdescription": "A web Application similar to google, where you can search and surf the internet, view pictures, videos and news about your search topic...",
-            "projectlink": "https://fastidious-belekoy-d1d97f.netlify.app/"
-          },
-          "second": {
-            "projectname": "Dashboard",
-            "projectdescription": "The Dashboard is a visual display of all of your data. A dashboard usually sits on its own page and receives information from a linked database. ",
-            "projectlink": "https://cute-bonbon-7ba896.netlify.app/"
-          }
-        },
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "Olabisi Onabanjo University"
-        }
-      },
-
-      {
-        "id": 34,
-        "stuId": "5311",
-        "name": "Fahd Abdulrazzaq",
-        "track": "Cloud Engineering",
-        "circle": 349,
-        "img": "https://avatars.githubusercontent.com/u/105148062?s=96&v=4",
-
-        "description": {
-          "intro": "  I'm that guy who slides into your dm with multiple questions. Always Seeking Knowledge",
-          "intro-details": "The Greatest Knowledge A Person Can Acquire Over The course of his or her lifetime is that he or she knows nothing, I live my life by this. Always Learning, Always Seeking for Knowledge"
-        },
-
-        "socialmedia": {
-          "linkedin": "",
-          "github": "https://github.com/fahd-abdulrazzaq",
-          "twitter": "https://twitter.com/AbdulrazzaqFahd",
-          "portfolio": "https://github.com/fahd-abdulrazzaq",
-          "slackHandle": "Fahd Abdulrazzaq"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "Profile Page",
-            "projectdescription": "just a random page i created which contains a breif description of me, a calculator and a login page",
-            "projectlink": "https://github.com/fahd-abdulrazzaq/About-Me.git"
-          },
-
-          "second": {
-            "projectname": "Assignment",
-            "projectdescription": "My Second Altschool Assignment",
-            "projectlink": "https://github.com/fahd-abdulrazzaq/Abdulrazzaq-Fahd-Assignment-2.git"
-          },
-
-          "third": {
-            "projectname": "Random Animations",
-            "projectdescription": "Just A Page With Random A nimations I created for fun",
-            "projectlink": "https://github.com/fahd-abdulrazzaq/Random-Animation.git"
-          },
-
-          "fourth": {
-            "projectname": "login page",
-            "projectdescription": "This is just a random login page i created to practice my css animation and design skills",
-            "projectlink": "https://github.com/fahd-abdulrazzaq/Log-in-page.git"
-          }
-        },
-
-        "education": {
-          "first": "Federal University Of Technology,Minna",
-          "second": "Altschool Africa",
-          "third": "Google.com"
-        }
-      },
-
-      {
-        "id": 35,
-        "stuId": 4446,
-        "name": "Jael-Praise David",
-        "track": "Frontend Engineering",
-        "circle": 178,
-        "img": "https://avatars.githubusercontent.com/u/108879387?s=400&u=373f1824a07a448e5b15ff9591f87a835fe43a25&v=4",
-
-        "description": {
-          "intro": "A Computer Engineer, trainning to be a Software Engineer at AltSchool.",
-          "introdetails": "I am a serial business owner, dogged entrepreneur and most importantly, a Computer Hardware Engineer with dreams of building robot that can work perfectly in deep space. Becoming a robotics enginner with execellent full-Stack Engineering skills is a step in the right direction and that's why I am taking this step."
-        },
-
-        "socialmedia": {
-          "github": "https://github.com/PR41S3",
-          "twitter": "https://twitter.com/jaelpraise",
-          "portfolio": "",
-          "slackHandle": "Jael David"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          },
-          "second": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          }
-        },
-        "education": {
-          "first": "IGBINEDION UNIVERSITY OKADA. B.ENG COMPUTER ENGINEERING",
-          "second": "OSISATECH COE ENUGU. PGDE.COMPUTER ENGINEERING EDUCATION",
-          "third": "NATIONAL OPEN UNIVERSITY, V.I, LAGOS STUDY CENTRE. MSC. INFORMATION TECHNOLOGY(In View)",
-          "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN FRONTEND ENGINEERING(In View)"
-        }
-      },
-
-      {
-        "id": 36,
-        "stuId": 2175,
-        "name": "Okpala Kosiosochukwu",
-        "track": "Cloud Engineering",
-        "circle": 286,
-        "img": "",
-
-        "description": {
-          "intro": "Trusting in the process of being a Cloud Engineer learning at Altschool",
-          "introdetails": "A virtual assistant amongst other things and  chef in my spare time."
-        },
-
-        "socialmedia": {
-          "linkedin": "https://www.linkedin.com/in/emmanuella-kosisochukwu-okpala-222b7219a",
-          "github": "https://github.com/Kossiso",
-          "twitter": "https://twitter.com/kosi_eo",
-          "slackHandle": "Okpala Kosi"
-        },
-
-        "experience": {
-          "first": "Exploration Geologist @Etazuma Group WA",
-          "second": "Laboratory Geologist @Ministry Of Works"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          },
-          "second": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          },
-
-          "third": {
-            "projectname": "",
-            "projectdescription": "",
-            "projectlink": ""
-          }
-        },
-        "education": {
-          "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
-          "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
-          "third": "PROJECT MANAGEMENT, GOOGLE",
-          "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
-        }
-      },
-
-
-      {
- 
-        "id": 37,
-        "stuId": "5155",
-        "name": "IKEM ADAOBI",
-        "track": "Backend Engineering",
-        "circle": 275,
-        "img": "https://avatars.githubusercontent.com/u/95231247?v=4",
-
-        "description": {
-          "intro": "  I'm that woman that detests Mediocrity with a WORLD-CLASS mindset..",
-          "intro-details": "I am a mother, a community advocate at [flgw](flgw.org), Scrum Master intern at [digital abundance](digitalabundance.io) and an aspiring software engineer. I aspire to be the best in all i do. It's World-class or Nothing!! "
-        },
-
-        "socialmedia": {
-          "linkedin": "[IkemAda](https://www.linkedin.com/in/ikem-ada-799961223/)",
-          "github": "[Violacordis](github.com/Violacordis)]",
-          "twitter": "[@ikemviola](twitter.com/ikemviola)",
-          "portfolio": "[Violacordis](github.com/Violacordis)",
-          "slackHandle": "Ikem Violacordis"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "My portfolio",
-            "projectdescription": "My portfolio. A project that started as a task from Altschool. Gradually remodifying it ",
-            "projectlink": "https://violacordis.github.io/My-Portfolio/"
-          },
-
-          "second": {
-            "projectname": "A Redactr App",
-            "projectdescription": "An app that scrambles words that a user wants hidden. It's a circle hackathon from altschool. I collaborated with my team mates to come up with this piece",
-            "projectlink": "https://violacordis.github.io/Circle-275-Redactr-Project/"
-          },
-
-          "third": {
-            "projectname": "Metric/Imperical Unit Conversion",
-            "projectdescription": "This is a metric/imperial unit convertion that converts any input value to Mass(kilograms/pounds), Volume(liters/Gallons), and Length(meter/feet).",
-            "projectlink": "https://violacordis.github.io/Metric-Unit-Conversion/"
-          },
-
-          "fourth": {
-            "projectname": "Basket ball score board",
-            "projectdescription": "This is a basketball score board project that displays the score of both teams (home and guest) and highlights the winning team, losing team as well as when they are at draw",
-            "projectlink": "https://violacordis.github.io/Basketball-Score-board/"
-          }
-        },
-
-        "education": {
-          "first": "Michael Okpara University of Agriculture, Umudike, Abia State.",
-          "second": "Queen of the Rosary College (Q.R.C.) Onitsha",
-          "third": "Altschool"
         }
       },
       
       
-      
-            {
-              "id": 38,
-              "stuId": 5395,
-              "name":"Ozuem Eugene",
-              "track":"Front-End Engineering",
-              "circle": 59,
-              "img": "https://avatars.githubusercontent.com/u/62425852?s=400&u=157c27b3c52cfcadb6c2c5e8513b7ad897e7fc5a&v=4",
+      {
+              "id": 30,
+              "stuId": 5272,
+              "name": "King Igbozuruike",
+              "track": "Cloud Engineering",
+              "circle": 224,
+              "img": "https://avatars.githubusercontent.com/u/104108166?s=400&u=c9c6cd41a4fd324fa2bedcfa1543ab5008e8c871&v=4",
       
               "description": {
-                "intro": "Black Bruce Wayne",
-                "introdetails": "Ozuem Eugene is a Junior Web Developer who has worked in the frontend team of some amazing organizations. Design thinking, problem solving, communication, education, and training are all areas in which I excel. If you are a company looking for a web presence or an employer looking to hire, please contact me here. In previous years, I had the opportunity to intern with TIIDELAB, an organization that assists passionate students and graduates in developing their skills in software engineering, as well as providing softskills with full curriculum to assist fellows in building a public profile. Moving forward on my journey, I decided to focus on becoming a world class cloud engineer in the coming years, assisting organizations to scale applications, manage resources, provide server security, and collaborate with in-house software engineering teams to negotiate seamless ways to provide and scale applications. I am currently studying cloud engineering at Altschool Africa, a recognized institution in Africa and beyond."
+                "intro": "I dream to work for Microsoft!",
+                "introdetails": "I am a Cloud Engineering Student at Altschool Africa training to become a top-tier Software Engineer. I currently not in University as I am an extremely young man. Don't ask me my age. But I plan to major in Computer Science though."
               },
       
               "socialmedia": {
-                "linkedin": "https://www.linkedin.com/in/eugene-chuks-364270134",
-                "github": "https://github.com/preeaacchh",
-                "twitter": "https://twitter.com/preeaacchh",
+                "linkedin": "https://www.linkedin.com/in/thetechking/",
+                "github": "https://github.com/kingigbozuruike",
+                "twitter": "https://twitter.com/the_techking",
                 "portfolio": "",
-                "slackHandle": "preeaacchh"
+                "slackHandle": "The Tech King"
               },
       
               "experience": {
-                "first": "None",
-                "second": "FrontEnd Engineer Intern",
+                "first": "AltSchool Student. Obviously!",
+                "second": "Microsoft Intern in my dream!",
                 "third": ""
-              }
-            }
-
-              "education": {
-                      "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
-                      "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
-                      "third": "PROJECT MANAGEMENT, GOOGLE",
-                      "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
-            }    
-            }
-            
-                ]
-              }
-            }
-
-
-            {
-              "id": 39,
-              "stuId": 3555,
-              "name": "Ejiroghene Laurel Dafe",
-              "track": "Cloud Engineering",
-              "circle": 379,
-              "img": "https://github.com/EjiroLaurelD.png",
-      
-              "description": {
-                "intro": "I am a Software Engineering student and a Cake Artist",
-                "intro-details": "I am a Software Engineer and Business woman who currently is learning to be a world class Cloud/Devops Engineer at AltSchool Africa. 
-                I am passionate about sharing knowledge, learning and mastering cloud technologies, making sweet treats, and putting smiles on the faces of people."
               },
-      
-              "socialmedia": {
-                "linkedin": "https://www.linkedin.com/in/ejiroghenelaureldafe/",
-                "github": "https://github.com/EjiroLaurelD",
-                "twitter": "https://twitter.com/L4laurel",
-                "portfolio": "https://github.com/EjirolaurelD",
-                "slackHandle": "Ejiroghene Laurel Dafe"
+              
+               "education": {
+                "first": "AltSchool Africa School of Engineering.",
+                "second": "University of Uyo, Akwa Ibom State"
               },
       
               "project": {
                 "first": {
-                  "projectname": "Portfolio project",
-                  "projectdescription": "Altschool portfolio project. This was my first time working with html and css",
-                  "projectlink": "https://ALTSchool-Assignment-1-1.dafelaurel.repl.co"
+                  "projectname": "School Dashboard",
+                  "projectdescription": "AltSchool Holiday challenge.",
+                  "projectlink": "https://Circle-224-SchoolStat.circle2-2-4.repl.co"
                 },
-      
                 "second": {
-                  "projectname": "holiday hackathon",
-                  "projectdescription": "Altschool circle 379 Holiday Hackathon .",
-                  "projectlink": "https://Circle-379.repl.co"
+                  "projectname": "Web Search",
+                  "projectdescription": "I don't really have projects online, so if you click on this link it will probably lead you to Google!",
+                  "projectlink": "https://google.com"
                 },
       
                 "third": {
-                  "projectname": "phonie project",
-                  "projectdescription": "I built this myself to learn how to use javascript on an actual project.",
-                  "projectlink": "https://phonie-project-practice.dafelaurel.repl.co"
+                  "projectname": "",
+                  "projectdescription": "",
+                  "projectlink": ""
+                }
+              }
+            },
+            {
+              "id": 31,
+              "stuId": 2708,
+              "name": "Obaloluwa Oladunjoye",
+              "track": "Frontend Engineering",
+              "circle": 126,
+              "img": "https://avatars.githubusercontent.com/u/98332219?s=96&v=4",
+      
+              "description": {
+                "intro": "I'm a Software engineer, social media manager and a lover of dogs. when i'm not writing codes, I watch random tutorial videos and videos of the science of things.",
+                "introdetails": "Student at Altschool Africa and the University of Ibadan. I delight in knowing how things work and how magic is made using the internet. Still a bubbling newbie in the tech space. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/obasavvy",
+                "github": "https://github.com/litobalolu",
+                "twitter": "https://twitter.com/obasavvy",
+                "portfolio": "",
+                "slackHandle": "Obasavvy"
+              },
+      
+              "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Personal Tracker",
+                  "projectdescription": "A tracker design for people who workout and watch their regular activities",
+                  "projectlink": "https://peteloba.obaloluwaoladun.repl.co/"
+                },
+                "second": {
+                  "projectname": "Ajim Capital",
+                  "projectdescription": "A company that invests in the future of Startups. Built to handle financial problems startups might encounter ",
+                  "projectlink": "https://ajimcapital.obaloluwaoladun.repl.co/"
+                }
+              }
+            }, 
+            {
+              "id":32,
+              "stuId":1942,
+              "name":"Joseph Alagi",
+              "track":"Cloud Engineering",
+              "circle":344,
+              "img":"https://avatars.githubusercontent.com/u/63665248?s=400&u=959450b47c05b94d39aea291c56dcb586e0b4e0a&v=4",
+          
+              "description":{
+                "intro":"i JUST WANNA LIVE A SOFT LIFE WITH PURPOSE",
+
+                          "introdetails":"I'm a Software Engineer, Product Manager, and a Cloud Engineering Student who currently works as a Admin Executive at [Plus Acuity Media Ltd](https://www.acuityng.com/) a sister company of [Mediareach OMG Nigeria](https://www.mediareachomd.com/) I'm passionate about learning, sharing knowledge, documentation, web engineering, Building Tech-Products, Health and Fitness, Cloud Computing, and others. I create technical content (on my [Blog](https://medium.com/@AlagiJoseph), build useful [open-source projects](https://github.com/JosephAlagi), speak at some meetups/conferences, build technical communities..."
+                          
+                      },
+          
+              "socialmedia":{
+                          "linkedin":"https://www.linkedin.com/in/alagi-joseph-57605993/",
+                          "github":"https://github.com/Joseph-Alagi-Okebe",
+                          "twitter":"https://twitter.com/AlagiJoseph",
+                          "portfolio":"https://joseph-alagi.joe996-html.repl.co/",
+                          "slackHandle":"Joseph Alagi"
+                       },
+          
+              "experience":{
+                          "first":"FrontEnd Engineer Student @AltschoolAfrica",
+                          "second":"Cloud Engineer Student @AltschoolAfrica",
+                          "third":"Cloud Engineer Intern @Amazon"
+                       },
+          
+              "project":{
+                          "first":{
+                              "projectname":"ABOUT ME PAGE",
+                              "projectdescription":"A webpage that describes me",
+                              "projectlink":"https://joseph-alagi.joe996-html.repl.co/"
+                          },
+                          "second":{
+                              "projectname":"SIMPLE WEBPAGE",
+                              "projectdescription":"I was tasked to build a simple webpage describing myself using only HTML",
+                              "projectlink":"https://joseph-alagi-okebe.github.io/AJstyles/"
+                          },
+          
+                          "third":{
+          
+                              "projectname":"SchoolStat ",
+                              "projectdescription":"I was tasked to work with my circle members to attempt the Hackarthon challenge, of which we ended up doing a simple dashboard for a tech school that is sortable in asc and dsc order.",
+                              "projectlink":"https://team-school-stat344.team-schoolstat344.repl.co/"
+                          }
+                       }
+                  },
+          
+          
+          
+          
+          
+                  
+            {
+              "id": 33,
+              "stuId": 5326,
+              "name": "Ekunola Paul",
+              "track": "Frontend Engineering",
+              "circle": 79,
+              "img": "https://avatars.githubusercontent.com/u/72552585?s=400&u=18b971e008c8db3636198303ad415a26e27319a3&v=4",
+      
+              "description": {
+                "intro": "I'm a software engineer, and an Entrepreneur",
+                "introdetails": "Student at Altschool Africa and Olabisi Onabanjo University. I excel and I'm invested in every stage of the life cycle of software development, including design implementation, coding, debugging, testing, and maintenance."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/ekunola-paul-42712b1aa/",
+                "github": "https://github.com/pscon",
+                "twitter": "https://twitter.com/PSCON3",
+                "portfolio": "https://ekunola-paul.netlify.app/",
+                "slackHandle": "pscon"
+              },
+      
+              "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Google Clone",
+                  "projectdescription": "A web Application similar to google, where you can search and surf the internet, view pictures, videos and news about your search topic...",
+                  "projectlink": "https://fastidious-belekoy-d1d97f.netlify.app/"
+                },
+                "second": {
+                  "projectname": "Dashboard",
+                  "projectdescription": "The Dashboard is a visual display of all of your data. A dashboard usually sits on its own page and receives information from a linked database. ",
+                  "projectlink": "https://cute-bonbon-7ba896.netlify.app/"
+                }
+              }, 
+                "education": {
+                "first": "AltSchool Africa School of Engineering.",
+                "second": "Olabisi Onabanjo University"
+              }
+            },
+
+
+            {
+              "id": 34,
+              "stuId": "5311",
+              "name": "Fahd Abdulrazzaq",
+              "track": "Cloud Engineering",
+              "circle": 349,
+              "img": "https://avatars.githubusercontent.com/u/105148062?s=96&v=4",
+      
+              "description": {
+                "intro": "  I'm that guy who slides into your dm with multiple questions. Always Seeking Knowledge",
+                "intro-details": "The Greatest Knowledge A Person Can Acquire Over The course of his or her lifetime is that he or she knows nothing, I live my life by this. Always Learning, Always Seeking for Knowledge"
+              },
+      
+              "socialmedia": {
+                "linkedin":"",
+                "github": "https://github.com/fahd-abdulrazzaq",
+                "twitter": "https://twitter.com/AbdulrazzaqFahd",
+                "portfolio": "https://github.com/fahd-abdulrazzaq",
+                "slackHandle": "Fahd Abdulrazzaq"
+              },
+
+        "project":{
+                 "first":{
+                  "projectname": "Profile Page",
+                  "projectdescription": "just a random page i created which contains a breif description of me, a calculator and a login page",
+                  "projectlink": "https://github.com/fahd-abdulrazzaq/About-Me.git"
+                },
+      
+                "second": {
+                  "projectname": "Assignment",
+                  "projectdescription": "My Second Altschool Assignment",
+                  "projectlink": "https://github.com/fahd-abdulrazzaq/Abdulrazzaq-Fahd-Assignment-2.git"
+                },
+      
+                "third": {
+                  "projectname": "Random Animations",
+                  "projectdescription": "Just A Page With Random A nimations I created for fun",
+                  "projectlink": "https://github.com/fahd-abdulrazzaq/Random-Animation.git"
                 },
       
                 "fourth": {
-                  "projectname": "Laurel Cakes",
-                  "projectdescription": "currently working on building a website page for my business.",
-                  "projectlink": "https://Laurel-cakes.dafelaurel.repl.co"
+                  "projectname": "login page",
+                  "projectdescription": "This is just a random login page i created to practice my css animation and design skills",
+                  "projectlink": "https://github.com/fahd-abdulrazzaq/Log-in-page.git"
                 }
               },
       
               "education": {
-                "first": "AltSchool Africa School of Engineering.",
-                "second": "Delta State University, Abraka",
-                "third": ""
+                "first": "Federal University Of Technology,Minna",
+                "second": "Altschool Africa",
+                "third": "Google.com"
               }
-            }
+            },
             
+            
+            {
+              "id": 35,
+              "stuId": 4446,
+              "name": "Jael-Praise David",
+              "track": "Frontend Engineering",
+              "circle": 178,
+              "img": "https://avatars.githubusercontent.com/u/108879387?s=400&u=373f1824a07a448e5b15ff9591f87a835fe43a25&v=4",
+      
+              "description": {
+                "intro": "A Computer Engineer, trainning to be a Software Engineer at AltSchool.",
+                "introdetails": "I am a serial business owner, dogged entrepreneur and most importantly, a Computer Hardware Engineer with dreams of building robot that can work perfectly in deep space. Becoming a robotics enginner with execellent full-Stack Engineering skills is a step in the right direction and that's why I am taking this step."
+              },
+      
+              "socialmedia": {
+                "github": "https://github.com/PR41S3",
+                "twitter": "https://twitter.com/jaelpraise",
+                "portfolio": "",
+                "slackHandle": "Jael David"
+              },
+      
+              "project": {
+                "first": {
+
+                  "projectname": "",
+                  "projectdescription": "",
+                  "projectlink": ""
+                },
+                "second": {
+                  "projectname": "",
+                  "projectdescription": "",
+                  "projectlink": ""
+                }
+              }, 
+              "education": {
+                "first": "IGBINEDION UNIVERSITY OKADA. B.ENG COMPUTER ENGINEERING",
+                "second": "OSISATECH COE ENUGU. PGDE.COMPUTER ENGINEERING EDUCATION",
+                "third": "NATIONAL OPEN UNIVERSITY, V.I, LAGOS STUDY CENTRE. MSC. INFORMATION TECHNOLOGY(In View)",
+                "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN FRONTEND ENGINEERING(In View)"
+              }
+
+            },
+
+            
+            {
+              "id": 36,
+              "stuId": "3950",
+              "name": "Matthew Mosimabale Tarfa",
+              "track": "Cloud Engineering",
+              "circle": 393,
+              "img": "https://avatars.githubusercontent.com/u/105323757?s=400&u=c526705859b4b23308144cd622bc4ed730be6d2a&v=4",
+            
+              "description": {
+                "intro": "  Hi, am Matthew Mosimabale Tarfa, my friends call me Mattheo am a Cloud Engineer / Solutiona Architect my purpose is to serve humanity by finding solutions to humanities problems leveraging on technology and also building communities where everyone wins through collaboration and motivation, technology is best when it brings people together.",
+                "my faourite quote": "Let's go invent tomorrow instead of worrying about what happened yesterday. -Steve Jobs"
+              },
+      
+              "socialmedia": {
+                "linkedin":"www.linkedin.com/in/matthew-tarfa",
+                "github": "https://github.com/matthewtarfa",
+                "twitter": "https://twitter.com/tarfa_matthew",
+                "my blog": "https://dev.to/tarfamatthew",
+                "slackHandle": "Matthew Tarfa"
+              },
+  
+      
+              "education": {
+                "first": "University of Abuja",
+                "second": "Altschool Africa",
+                "third": ""
+              
+              }
+            
+            }
+          
+        
+        ]
+  }
+
+}
+
