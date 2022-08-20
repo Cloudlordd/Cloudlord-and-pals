@@ -1063,6 +1063,46 @@
           "first": "AltSchool Africa School of Engineering.",
           "second": "Ladoke Akintola University of Technology"
         }
+      },
+      {
+        "id": 26,
+        "stuId": 2098,
+        "name": "Onah Anthony",
+        "track": "Cloud Engineering",
+        "circle": 381,
+        "img": "https://avatars.githubusercontent.com/u/104945173?v=4",
+        "description": {
+          "intro": "i am student at altshool struggling to make it under cloud engineering ",
+
+          "intro-details":"i enjoy participating in group project because it has made me learn't about something which i was'nt able to figure out by myself"
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/anthony-onah-ba8498249/",
+          "github": "https://github.com/onahanthony",
+          "twitter": "https://twitter.com/AnthonyOnah9",
+          "portfolio": "",
+          "slackHandle": "Onah Anthony"
+        },
+
+        "experience": {
+          "first": "",
+          "second": "",
+          "third": ""
+        },
+
+        "project": {
+          "first": {
+            "projectname": "responsive website",
+            "projectdescription": "A website that has many hover effect and good css practice",
+            "projectlink": "https://graphic-practice.anthony70.repl.co"
+          },
+          "second": {
+            "projectname": "navigation-link",
+            "projectdescription": "it contains many navigation links",
+            "projectlink": "https://anthonyhtml.anthony70.repl.co"
+          }
+        }
       }
     ]
   }
