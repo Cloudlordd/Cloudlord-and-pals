@@ -79,7 +79,7 @@ Below are the listed features implemented
 -->
 > **Uploading of profile** 
 
-> **Search functionally =>**. i.e you can search with one of the followings: studentid, name and circle number
+> **Search functionally =>**. i.e you can search with one of the followings: Student ID, name and circle number
 
 > **Button for different tracks =>**  When a particular track button is clicked, it displays all the students in that track.
 
