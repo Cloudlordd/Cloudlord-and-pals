@@ -591,15 +591,17 @@ aside p{
 	justify-content: center;
 	align-items: center;
 	height: 70vh;
-	
+	background: var(--light);
+	border-radius: 20px;
 }
 
 .parent-logout div{
-	/* background-color: #fff; */
-padding: 30px 10px;
- text-align: center;
- width: 25em;
-
+	background: var(--light);
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+	padding: 24px;
 }
 
 .parent-logout .links{
@@ -610,8 +612,6 @@ padding: 30px 10px;
 	text-decoration: none;
 	cursor: pointer;
 	text-transform: uppercase;
-
-
 }
 
 
