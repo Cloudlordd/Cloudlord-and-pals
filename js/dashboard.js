@@ -146,7 +146,7 @@ console.log(project)
 
 const projects = ()=>{
 
-	const {project:{first, second, third}} = getData
+	const {project:{first, second, third, fourth}} = getData
 	
 	container.innerHTML =`
 
@@ -208,6 +208,20 @@ const projects = ()=>{
 	
 				 
 						<span class="text">
+							<h3>${fourth.projectname}</h3>
+							
+						</span>
+
+						<p class="project-description">${fourth.projectdescription} </p>
+						<a href=${fourth.projectlink} target =_blank> ${fourth.projectname}
+						</a>
+	               
+					</div>
+
+					<div>
+	
+				 
+						<span class="text">
 							<h3>Linkedin</h3>
 							
 						</span>
@@ -239,7 +253,7 @@ const about =()=>{
 	
 	</div>
 	        <aside>
-			<h2> My Story </h1>
+			<h1> My Story </h1>
          <p>
      ${intro}
 		 </p>
@@ -339,3 +353,19 @@ const logout = ()=>{
  `
 
 }
+
+// function to close side bar when any of the side bar menu is clicked 
+const [SIDEBAR_LIST1, SIDEBAR_LIST2] = document.querySelectorAll('.side-menu');
+const SIDEBAR_ITEM1 = SIDEBAR_LIST1.querySelectorAll(':scope > li');
+const SIDEBAR_ITEM2 = SIDEBAR_LIST2.querySelectorAll(':scope > li');
+const sidebarList = [...SIDEBAR_ITEM1, ...SIDEBAR_ITEM2];
+
+const sidebarClickHandler = () => {
+   for (const item of sidebarList) {
+      item.addEventListener('click', () => {
+         sidebar.classList.add('hide');
+			studentImage.classList.add('remove');
+      } )
+   }
+}
+sidebarClickHandler();

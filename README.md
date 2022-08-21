@@ -38,7 +38,7 @@ You don’t have to become a lifelong contributor to enjoy participating in open
 
 - Click the green Clone button and then copy the HTTPS URL
 
-- Using Git on your local machine, clone your fork using the URL you just copied i.e git clone https://github.com/Cloudlordd/Cloudlord-and-pals.git.
+- Using Git on your local machine, clone your fork using the URL you just copied i.e git clone THE URL YOU FORKED INTO YOUR ACCOUNT
 
 -  Navigate to your local repository i.e cd Cloudlord-and-pals
 
@@ -79,7 +79,7 @@ Below are the listed features implemented
 -->
 > **Uploading of profile** 
 
-> **Search functionally =>**. i.e you can search with one of the followings: studentid, name and circle number
+> **Search functionally =>**. i.e you can search with one of the followings: Student ID, name and circle number
 
 > **Button for different tracks =>**  When a particular track button is clicked, it displays all the students in that track.
 
