@@ -1687,9 +1687,71 @@
               }
             }
 
-          
-
+              "education": {
+                      "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
+                      "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
+                      "third": "PROJECT MANAGEMENT, GOOGLE",
+                      "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
+            }    
+            }
+            
                 ]
               }
             }
 
+
+            {
+              "id": 39,
+              "stuId": 3555,
+              "name": "Ejiroghene Laurel Dafe",
+              "track": "Cloud Engineering",
+              "circle": 379,
+              "img": "https://github.com/EjiroLaurelD.png",
+      
+              "description": {
+                "intro": "I am a Software Engineering student and a Cake Artist",
+                "intro-details": "I am a Software Engineer and Business woman who currently is learning to be a world class Cloud/Devops Engineer at AltSchool Africa. 
+                I am passionate about sharing knowledge, learning and mastering cloud technologies, making sweet treats, and putting smiles on the faces of people."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/ejiroghenelaureldafe/",
+                "github": "https://github.com/EjiroLaurelD",
+                "twitter": "https://twitter.com/L4laurel",
+                "portfolio": "https://github.com/EjirolaurelD",
+                "slackHandle": "Ejiroghene Laurel Dafe"
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Portfolio project",
+                  "projectdescription": "Altschool portfolio project. This was my first time working with html and css",
+                  "projectlink": "https://ALTSchool-Assignment-1-1.dafelaurel.repl.co"
+                },
+      
+                "second": {
+                  "projectname": "holiday hackathon",
+                  "projectdescription": "Altschool circle 379 Holiday Hackathon .",
+                  "projectlink": "https://Circle-379.repl.co"
+                },
+      
+                "third": {
+                  "projectname": "phonie project",
+                  "projectdescription": "I built this myself to learn how to use javascript on an actual project.",
+                  "projectlink": "https://phonie-project-practice.dafelaurel.repl.co"
+                },
+      
+                "fourth": {
+                  "projectname": "Laurel Cakes",
+                  "projectdescription": "currently working on building a website page for my business.",
+                  "projectlink": "https://Laurel-cakes.dafelaurel.repl.co"
+                }
+              },
+      
+              "education": {
+                "first": "AltSchool Africa School of Engineering.",
+                "second": "Delta State University, Abraka",
+                "third": ""
+              }
+            }
+            
