@@ -1499,7 +1499,59 @@
       },
 
       {
-        "id": 36,
+        "id":36,
+        "stuId":4665,
+        "name":"Okpala Joseph",
+        "track":"Frontend Engineering",
+        "circle":59,
+        "img":"https://avatars.githubusercontent.com/u/105152644?v=4",
+    
+        "description":{
+                    "intro":"Hello there, my name is Joseph",
+                    "introdetails":"I am a software engineering student currently at Altschool Africa. I am working towards being a world-class engineer"
+                },
+    
+        "socialmedia":{
+                    "linkedin":"https://www.linkedin.com/in/joseph-okpala-1371351aa/",
+                    "github":"https://github.com/JosephOkpala",
+                    "twitter":"https://twitter.com/unorthodox__dev",
+                    "portfolio":"",
+                    "slackHandle":"Joseph Okpala"
+                 },
+    
+        "experience":{
+                    "first":"Designer @Deezey Media",
+                    "second":"",
+                    "third":""
+                 },
+    
+        "project":{
+                    "first":{
+                        "projectname":"Manage Landing Page",
+                        "projectdescription":"A Frontend Mentor Challenge",
+                        "projectlink":"https://manage-5zs.pages.dev/"
+                    },
+                    "second":{
+                        "projectname":"",
+                        "projectdescription":"",
+                        "projectlink":""
+                    },
+    
+                    "third":{
+    
+                        "projectname":"",
+                        "projectdescription":"",
+                        "projectlink":""
+                    }
+                 },
+                 
+                 "education":{
+                  "first":"AltSchool Africa School of Engineering."
+                 }
+            },
+
+      {
+        "id": 37,
         "stuId": 2175,
         "name": "Okpala Kosiosochukwu",
         "track": "Cloud Engineering",
@@ -1552,7 +1604,7 @@
 
       {
  
-        "id": 37,
+        "id": 38,
         "stuId": "5155",
         "name": "IKEM ADAOBI",
         "track": "Backend Engineering",
@@ -1608,7 +1660,7 @@
       
       
             {
-              "id": 38,
+              "id": 39,
               "stuId": 5395,
               "name":"Ozuem Eugene",
               "track":"Front-End Engineering",
