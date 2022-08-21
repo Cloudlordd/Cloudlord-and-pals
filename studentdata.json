@@ -59,7 +59,7 @@
 
         "description": {
           "intro": "Problem solving is the most important aspect of my personality. I also enjoy helping people figure things out.",
-          "intro-details": "Having spent some years in the pharmaceutical industry as a Medical Sales Representative, starting a family, and thinking of the way forward, I decided to tap into my love for IT."
+          "introdetails": "Having spent some years in the pharmaceutical industry as a Medical Sales Representative, starting a family, and thinking of the way forward, I decided to tap into my love for IT."
         },
 
         "socialmedia": {
@@ -113,7 +113,7 @@
         "description": {
           "intro": "Being creative in terms of problem-solving, effective-communicator and result oriented, i pride myself in delivering the best on each project i am affiliated with",
 
-          "intro-details": "I'm a Software Engineer based in Lagos Nigeria who is currently enrolled as a Sidehustle intern. I specialize in building exceptional digital experiences with clean designs and thoughtful interactions. My focus is on creating engaging, acessible and performant interfaces for humans as well as contributing in building useful open-source projects. I have a B.Eng in Biomedical Engineering from All Nations University and i am currently enrolled for two diplomas and a certification program in software engineering and REact JS from: AltSchool Africa, ALX Africa and Side Hustle."
+          "introdetails": "I'm a Software Engineer based in Lagos Nigeria who is currently enrolled as a Sidehustle intern. I specialize in building exceptional digital experiences with clean designs and thoughtful interactions. My focus is on creating engaging, acessible and performant interfaces for humans as well as contributing in building useful open-source projects. I have a B.Eng in Biomedical Engineering from All Nations University and i am currently enrolled for two diplomas and a certification program in software engineering and REact JS from: AltSchool Africa, ALX Africa and Side Hustle."
         },
 
         "socialmedia": {
@@ -252,7 +252,7 @@
 
         "description": {
           "intro": "Being creative is an aspect of my personality. I love to brainstorm on special ways to achieve a task.",
-          "intro-details": "I am a tech enthusiast with a high interest in software development, I wish to a great developer in few years time, so i took this chance to learn and work towards in achievung my dream in the tech world!."
+          "introdetails": "I am a tech enthusiast with a high interest in software development, I wish to a great developer in few years time, so i took this chance to learn and work towards in achievung my dream in the tech world!."
         },
 
         "socialmedia": {
@@ -384,7 +384,7 @@
         "description": {
           "intro": "I believe in reality, Also, very creative in solving problem",
 
-          "intro-details": "I'm a Software Engineer based in Benin, Edo State Nigeria. I specialize in biulding software to user satisfaction , with clean UI. My focus is on creating engaging, accessible and performant interfaces for humans as well as contributing in building useful open-source projects. I am currenting running a degree in University of Cross River State (UNICROSS) Depertment of computer Science and  currently enrolled for a diploma and a certification program in software engineering and REact JS from: AltSchool Africa."
+          "introdetails": "I'm a Software Engineer based in Benin, Edo State Nigeria. I specialize in biulding software to user satisfaction , with clean UI. My focus is on creating engaging, accessible and performant interfaces for humans as well as contributing in building useful open-source projects. I am currenting running a degree in University of Cross River State (UNICROSS) Depertment of computer Science and  currently enrolled for a diploma and a certification program in software engineering and REact JS from: AltSchool Africa."
         },
 
         "socialmedia": {
@@ -973,7 +973,7 @@
 
         "description": {
           "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
-          "intro-details": " I am a solution-oriented Front-End Developer and an adventurer with a professional background in IT Support and Network Security. I worked as an IT Support personnel for three years and developed an interest in Software Engineering. I am motivated by the opportunity that software development provides to positively impact the life of an individual and the community at large."
+          "introdetails": " I am a solution-oriented Front-End Developer and an adventurer with a professional background in IT Support and Network Security. I worked as an IT Support personnel for three years and developed an interest in Software Engineering. I am motivated by the opportunity that software development provides to positively impact the life of an individual and the community at large."
         },
 
         "socialmedia": {
@@ -1165,7 +1165,7 @@
 
         "description": {
           "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
-          "intro-details": " I am a solution-oriented Front-End Developer and an adventurer"
+          "introdetails": " I am a solution-oriented Front-End Developer and an adventurer"
         },
 
         "socialmedia": {
@@ -1369,7 +1369,7 @@
 
         "description": {
           "intro": "  I'm that guy who slides into your dm with multiple questions. Always Seeking Knowledge",
-          "intro-details": "The Greatest Knowledge A Person Can Acquire Over The course of his or her lifetime is that he or she knows nothing, I live my life by this. Always Learning, Always Seeking for Knowledge"
+          "introdetails": "The Greatest Knowledge A Person Can Acquire Over The course of his or her lifetime is that he or she knows nothing, I live my life by this. Always Learning, Always Seeking for Knowledge"
         },
 
         "socialmedia": {
@@ -1568,7 +1568,7 @@
 
         "description": {
           "intro": "  I'm that woman that detests Mediocrity with a WORLD-CLASS mindset..",
-          "intro-details": "I am a mother, a community advocate at [flgw](flgw.org), Scrum Master intern at [digital abundance](digitalabundance.io) and an aspiring software engineer. I aspire to be the best in all i do. It's World-class or Nothing!! "
+          "introdetails": "I am a mother, a community advocate at [flgw](flgw.org), Scrum Master intern at [digital abundance](digitalabundance.io) and an aspiring software engineer. I aspire to be the best in all i do. It's World-class or Nothing!! "
         },
 
         "socialmedia": {
@@ -1656,8 +1656,7 @@
       
               "description": {
                 "intro": "I am a Software Engineering student and a Cake Artist",
-                "intro-details": "I am a Software Engineer and Business woman who currently is learning to be a world class Cloud/Devops Engineer at AltSchool Africa. 
-                I am passionate about sharing knowledge, learning and mastering cloud technologies, making sweet treats, and putting smiles on the faces of people."
+                "introdetails": "I am a Software Engineer and Business woman who currently is learning to be a world class Cloud/Devops Engineer at AltSchool Africa. I am passionate about sharing knowledge, learning and mastering cloud technologies, making sweet treats, and putting smiles on the faces of people."
               },
       
               "socialmedia": {
