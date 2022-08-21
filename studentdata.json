@@ -1733,6 +1733,36 @@
                       "third": "PROJECT MANAGEMENT, GOOGLE",
                       "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
             }    
+            },
+
+
+            {
+              "id": 42,
+              "stuId": "2548",
+              "name": "Gloria John",
+              "track": "Cloud Engineering",
+              "circle": 361,
+              "img": "https://avatars.githubusercontent.com/u/99645583?v=4",
+
+              "description": {
+                "intro": "Getting to learn new things, solving problems and being part of an amazing community with like minds is something I always look forward to",
+                "my faourite quote": "Hold the Vision, drop the excuse, remember your why. Swerve around obstacles…trust the process. Happiness and success will find you. — Karen Salmansohn"
+              },
+
+              "socialmedia": {
+                "linkedin":"https://www.linkedin.com/in/gloria-john-118731197/",
+                "github": "https://github.com/J-Gloria",
+                "twitter": "https://twitter.com/glowriiyajhon",
+                "my blog": "",
+                "slackHandle": "Gloria John"
+              },
+
+
+              "education": {
+                "first": "University of Benin",
+                "second": "Altschool Africa",
+                "third": ""
+              }
             }
             
             
