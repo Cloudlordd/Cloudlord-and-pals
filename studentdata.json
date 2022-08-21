@@ -1064,47 +1064,6 @@
           "second": "Ladoke Akintola University of Technology"
         }
       },
-
-      {
-        "id": 26,
-        "stuId": 404,
-        "name": "Olaitan Adedokun",
-        "track": "Backend Engineering",
-        "circle": 404,
-        "img": "https://res.cloudinary.com/heavens/image/upload/v1660481304/cov_fffnwy.jpg",
-        "description": {
-          "intro": "Software Developer | SQL Intermediate | Code newbie 👀 |  🤹‍♂️ I am up for anything that will make my life easier | F1 fan",
-          "introdetails": "I want to focus on and solve problems that have a tremendous impact on customers and businesses"
-        },
-
-        "socialmedia": {
-          "linkedin": "",
-          "github": "https://github.com/Codenney",
-          "twitter": "https://twitter.com/codenney",
-          "portfolio": "",
-          "slackHandle": "Olaitan Adedokun"
-        },
-
-        "experience": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "Software Engineer at ALX",
-          "third": ""
-        },
-
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "ALX Software Engineering"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "Assignment",
-            "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
-            "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
-          }
-        }
-      },
-
       {
         "id": 27,
         "stuId": 1731,
@@ -1266,7 +1225,7 @@
           }
         }
       },
-      {
+      { 
         "id": 31,
         "stuId": 2708,
         "name": "Obaloluwa Oladunjoye",
@@ -1284,15 +1243,8 @@
           "github": "https://github.com/litobalolu",
           "twitter": "https://twitter.com/obasavvy",
           "portfolio": "",
-          "slackHandle": "Obasavvy"
+          "slackHandle": "Obasa"
         },
-
-        "experience": {
-          "first": "",
-          "second": "",
-          "third": ""
-        },
-
         "project": {
           "first": {
             "projectname": "Personal Tracker",
@@ -1685,23 +1637,14 @@
                 "second": "FrontEnd Engineer Intern",
                 "third": ""
               }
-            }
 
-              "education": {
-                      "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
-                      "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
-                      "third": "PROJECT MANAGEMENT, GOOGLE",
-                      "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
-            }    
-            }
+            },
             
-                ]
-              }
-            }
+            
 
 
             {
-              "id": 39,
+              "id": 40,
               "stuId": 3555,
               "name": "Ejiroghene Laurel Dafe",
               "track": "Cloud Engineering",
@@ -1753,5 +1696,46 @@
                 "second": "Delta State University, Abraka",
                 "third": ""
               }
+            },
+            
+            {
+              "id": 39,
+              "stuId": 3574,
+              "name":"Onah Anthony",
+              "track":"cloud Engineering",
+              "circle": 381,
+              "img": "https://avatars.githubusercontent.com/u/104945173?v=4",
+      
+              "description": {
+                "intro": "i am student at altschool struggling to make it under cloud ",
+                "introdetails": "I enjoy group work"
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/anthony-onah-ba8498249/",
+                "github": "https://github.com/onahanthony",
+                "twitter": "https://twitter.com/AnthonyOnah9",
+                "portfolio": "",
+                "slackHandle": "Onah Anthony"
+              },
+      
+              "experience": {
+                "first": "None",
+                "second": "",
+                "third": ""
+            },
+
+              "education": {
+                      "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
+                      "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
+                      "third": "PROJECT MANAGEMENT, GOOGLE",
+                      "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
+            }    
             }
             
+                ]
+
+              }
+  }
+            
+
