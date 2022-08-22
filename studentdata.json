@@ -1799,25 +1799,14 @@
                      },
                      "second":{
                         "projectname":"ShadyRymes Interior Design",
-                        "projectdescription":"This is Shady-Rymes, an Interior design Landing page that
-                           displays a collection of carpentry works used for interiors designs.
-                           Users can browse through to pick a design of their choice
-                           choice.
-                           This webpage also packs quite a number of features that
-                           makes the user experience awesome.",
+                        "projectdescription":"This is Shady-Rymes, an Interior design Landing page that displays a collection of carpentry works used for interiors designs. Users can browse through to pick a design of their choice. This webpage also packs quite a number of features thatmakes the user experience awesome.",
                         "projectlink":"https://interior-design-landing-page.netlify.app/"
                      },
 
                      "third":{
 
                         "projectname":"Loop-studio Landion page",
-                        "projectdescription":"This is a solution to the Loopstudios landing page
-                           challenge on Frontend Mentor.This webpage is a landing page
-                           of a studio that gives users immersive experience in
-                           Interactive VR.
-                           
-                           Built with wonderful animation that immerses the user and
-                           serve is purpose as a center of attraction.",
+                        "projectdescription":"This is a solution to the Loopstudios landing page challenge on Frontend Mentor.This webpage is a landing page of a studio that gives users immersive experience in Interactive VR. Built with wonderful animation that immerses the user and serves is purpose as a center of attraction.",
                         "projectlink":"https://loopstudio-landings-page.netlify.app/"
                      }
                   }
