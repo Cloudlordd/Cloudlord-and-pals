@@ -219,7 +219,8 @@ body {
 	position: sticky;
 	top: 0;
 	left: 0;
-	z-index: 1000;
+   z-index: 2001;
+   padding-left: 0;
 }
 #content nav::before {
 	content: '';
@@ -322,10 +323,11 @@ body {
 	color: #fff;
 }
 #content main .head-title .left h1 {
-	font-size: 36px;
+	font-size: 28px;
 	font-weight: 600;
 	margin-bottom: 5px;
-	color: #fff;;
+	color: #fff;
+   overflow-wrap: anywhere;
 }
 #content main .head-title .left .breadcrumb {
 	display: flex;
@@ -591,15 +593,17 @@ aside p{
 	justify-content: center;
 	align-items: center;
 	height: 70vh;
-	
+	background: var(--light);
+	border-radius: 20px;
 }
 
 .parent-logout div{
-	/* background-color: #fff; */
-padding: 30px 10px;
- text-align: center;
- width: 25em;
-
+	background: var(--light);
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items: center;
+	padding: 24px;
 }
 
 .parent-logout .links{
@@ -610,8 +614,6 @@ padding: 30px 10px;
 	text-decoration: none;
 	cursor: pointer;
 	text-transform: uppercase;
-
-
 }
 
 
@@ -619,12 +621,15 @@ padding: 30px 10px;
 
 @media screen and (max-width: 768px) {
 	#sidebar {
-		width: 200px;
+		width: 100%;
+      max-width: 375px;
 	}
 
 	#content {
+      position: absolute;
+      left: 60px;
 		width: calc(100% - 60px);
-		left: 200px;
+		left: 60px;
 	}
 
 	#content nav .nav-link {
