@@ -58,7 +58,7 @@
 
         "description": {
           "intro": "Problem solving is the most important aspect of my personality. I also enjoy helping people figure things out.",
-          "intro-details": "Having spent some years in the pharmaceutical industry as a Medical Sales Representative, starting a family, and thinking of the way forward, I decided to tap into my love for IT."
+          "introdetails": "Having spent some years in the pharmaceutical industry as a Medical Sales Representative, starting a family, and thinking of the way forward, I decided to tap into my love for IT."
         },
 
         "socialmedia": {
@@ -112,7 +112,7 @@
         "description": {
           "intro": "Being creative in terms of problem-solving, effective-communicator and result oriented, i pride myself in delivering the best on each project i am affiliated with",
 
-          "intro-details": "I'm a Software Engineer based in Lagos Nigeria who is currently enrolled as a Sidehustle intern. I specialize in building exceptional digital experiences with clean designs and thoughtful interactions. My focus is on creating engaging, acessible and performant interfaces for humans as well as contributing in building useful open-source projects. I have a B.Eng in Biomedical Engineering from All Nations University and i am currently enrolled for two diplomas and a certification program in software engineering and REact JS from: AltSchool Africa, ALX Africa and Side Hustle."
+          "introdetails": "I'm a Software Engineer based in Lagos Nigeria who is currently enrolled as a Sidehustle intern. I specialize in building exceptional digital experiences with clean designs and thoughtful interactions. My focus is on creating engaging, acessible and performant interfaces for humans as well as contributing in building useful open-source projects. I have a B.Eng in Biomedical Engineering from All Nations University and i am currently enrolled for two diplomas and a certification program in software engineering and REact JS from: AltSchool Africa, ALX Africa and Side Hustle."
         },
 
         "socialmedia": {
@@ -251,7 +251,7 @@
 
         "description": {
           "intro": "Being creative is an aspect of my personality. I love to brainstorm on special ways to achieve a task.",
-          "intro-details": "I am a tech enthusiast with a high interest in software development, I wish to a great developer in few years time, so i took this chance to learn and work towards in achievung my dream in the tech world!."
+          "introdetails": "I am a tech enthusiast with a high interest in software development, I wish to a great developer in few years time, so i took this chance to learn and work towards in achievung my dream in the tech world!."
         },
 
         "socialmedia": {
@@ -383,7 +383,7 @@
         "description": {
           "intro": "I believe in reality, Also, very creative in solving problem",
 
-          "intro-details": "I'm a Software Engineer based in Benin, Edo State Nigeria. I specialize in biulding software to user satisfaction , with clean UI. My focus is on creating engaging, accessible and performant interfaces for humans as well as contributing in building useful open-source projects. I am currenting running a degree in University of Cross River State (UNICROSS) Depertment of computer Science and  currently enrolled for a diploma and a certification program in software engineering and REact JS from: AltSchool Africa."
+          "introdetails": "I'm a Software Engineer based in Benin, Edo State Nigeria. I specialize in biulding software to user satisfaction , with clean UI. My focus is on creating engaging, accessible and performant interfaces for humans as well as contributing in building useful open-source projects. I am currenting running a degree in University of Cross River State (UNICROSS) Depertment of computer Science and  currently enrolled for a diploma and a certification program in software engineering and REact JS from: AltSchool Africa."
         },
 
         "socialmedia": {
@@ -720,7 +720,10 @@
         }
       },
 
-      {
+     
+
+        
+{
         "id": 18,
         "stuId": 2000,
         "name": "Oloto Samson",
@@ -969,7 +972,7 @@
 
         "description": {
           "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
-          "intro-details": " I am a solution-oriented Front-End Developer and an adventurer with a professional background in IT Support and Network Security. I worked as an IT Support personnel for three years and developed an interest in Software Engineering. I am motivated by the opportunity that software development provides to positively impact the life of an individual and the community at large."
+          "introdetails": " I am a solution-oriented Front-End Developer and an adventurer with a professional background in IT Support and Network Security. I worked as an IT Support personnel for three years and developed an interest in Software Engineering. I am motivated by the opportunity that software development provides to positively impact the life of an individual and the community at large."
         },
 
         "socialmedia": {
@@ -1063,47 +1066,6 @@
           "second": "Ladoke Akintola University of Technology"
         }
       },
-
-      {
-        "id": 26,
-        "stuId": 404,
-        "name": "Olaitan Adedokun",
-        "track": "Backend Engineering",
-        "circle": 404,
-        "img": "https://res.cloudinary.com/heavens/image/upload/v1660481304/cov_fffnwy.jpg",
-        "description": {
-          "intro": "Software Developer | SQL Intermediate | Code newbie 👀 |  🤹‍♂️ I am up for anything that will make my life easier | F1 fan",
-          "introdetails": "I want to focus on and solve problems that have a tremendous impact on customers and businesses"
-        },
-
-        "socialmedia": {
-          "linkedin": "",
-          "github": "https://github.com/Codenney",
-          "twitter": "https://twitter.com/codenney",
-          "portfolio": "",
-          "slackHandle": "Olaitan Adedokun"
-        },
-
-        "experience": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "Software Engineer at ALX",
-          "third": ""
-        },
-
-        "education": {
-          "first": "AltSchool Africa School of Engineering.",
-          "second": "ALX Software Engineering"
-        },
-
-        "project": {
-          "first": {
-            "projectname": "Assignment",
-            "projectdescription": "I built an about me page as an assignemnet given to me at AltSchool",
-            "projectlink": "https://altschoolass1.bsolodzi.repl.co/index.html"
-          }
-        }
-      },
-
       {
         "id": 27,
         "stuId": 1731,
@@ -1202,7 +1164,7 @@
 
         "description": {
           "intro": "I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
-          "intro-details": " I am a solution-oriented Front-End Developer and an adventurer"
+          "introdetails": " I am a solution-oriented Front-End Developer and an adventurer"
         },
 
         "socialmedia": {
@@ -1265,7 +1227,7 @@
           }
         }
       },
-      {
+      { 
         "id": 31,
         "stuId": 2708,
         "name": "Obaloluwa Oladunjoye",
@@ -1283,15 +1245,8 @@
           "github": "https://github.com/litobalolu",
           "twitter": "https://twitter.com/obasavvy",
           "portfolio": "",
-          "slackHandle": "Obasavvy"
+          "slackHandle": "Obasa"
         },
-
-        "experience": {
-          "first": "",
-          "second": "",
-          "third": ""
-        },
-
         "project": {
           "first": {
             "projectname": "Personal Tracker",
@@ -1410,7 +1365,7 @@
 
         "description": {
           "intro": "  I'm that guy who slides into your dm with multiple questions. Always Seeking Knowledge",
-          "intro-details": "The Greatest Knowledge A Person Can Acquire Over The course of his or her lifetime is that he or she knows nothing, I live my life by this. Always Learning, Always Seeking for Knowledge"
+          "introdetails": "The Greatest Knowledge A Person Can Acquire Over The course of his or her lifetime is that he or she knows nothing, I live my life by this. Always Learning, Always Seeking for Knowledge"
         },
 
         "socialmedia": {
@@ -1542,7 +1497,59 @@
       },
 
       {
-        "id": 37,
+        "id":37,
+        "stuId":4665,
+        "name":"Okpala Joseph",
+        "track":"Frontend Engineering",
+        "circle":59,
+        "img":"https://avatars.githubusercontent.com/u/105152644?v=4",
+    
+        "description":{
+                    "intro":"Hello there, my name is Joseph",
+                    "introdetails":"I am a software engineering student currently at Altschool Africa. I am working towards being a world-class engineer"
+                },
+    
+        "socialmedia":{
+                    "linkedin":"https://www.linkedin.com/in/joseph-okpala-1371351aa/",
+                    "github":"https://github.com/JosephOkpala",
+                    "twitter":"https://twitter.com/unorthodox__dev",
+                    "portfolio":"",
+                    "slackHandle":"Joseph Okpala"
+                 },
+    
+        "experience":{
+                    "first":"Designer @Deezey Media",
+                    "second":"",
+                    "third":""
+                 },
+    
+        "project":{
+                    "first":{
+                        "projectname":"Manage Landing Page",
+                        "projectdescription":"A Frontend Mentor Challenge",
+                        "projectlink":"https://manage-5zs.pages.dev/"
+                    },
+                    "second":{
+                        "projectname":"",
+                        "projectdescription":"",
+                        "projectlink":""
+                    },
+    
+                    "third":{
+    
+                        "projectname":"",
+                        "projectdescription":"",
+                        "projectlink":""
+                    }
+                 },
+                 
+                 "education":{
+                  "first":"AltSchool Africa School of Engineering."
+                 }
+            },
+
+      {
+        "id": 38,
         "stuId": 2175,
         "name": "Okpala Kosiosochukwu",
         "track": "Cloud Engineering",
@@ -1593,7 +1600,7 @@
       },
 
       {
-        "id": 38,
+        "id": 39,
         "stuId": "5155",
         "name": "IKEM ADAOBI",
         "track": "Backend Engineering",
@@ -1602,7 +1609,7 @@
 
         "description": {
           "intro": "  I'm that woman that detests Mediocrity with a WORLD-CLASS mindset..",
-          "intro-details": "I am a mother, a community advocate at [flgw](flgw.org), Scrum Master intern at [digital abundance](digitalabundance.io) and an aspiring software engineer. I aspire to be the best in all i do. It's World-class or Nothing!! "
+          "introdetails": "I am a mother, a community advocate at [flgw](flgw.org), Scrum Master intern at [digital abundance](digitalabundance.io) and an aspiring software engineer. I aspire to be the best in all i do. It's World-class or Nothing!! "
         },
 
         "socialmedia": {
@@ -1645,9 +1652,8 @@
           "third": "Altschool"
         }
       },
-
       {
-        "id": 39,
+        "id": 40,
         "stuId": 5395,
         "name": "Ozuem Eugene",
         "track": "Front-End Engineering",
@@ -1673,7 +1679,174 @@
           "third": ""
         }
       }
-    ]
+     {
+            "id": 41,
+              "stuId": 3555,
+              "name": "Ejiroghene Laurel Dafe",
+              "track": "Cloud Engineering",
+              "circle": 379,
+              "img": "https://github.com/EjiroLaurelD.png",
+      
+              "description": {
+                "intro": "I am a Software Engineering student and a Cake Artist",
+                "introdetails": "I am a Software Engineer and Business woman who currently is learning to be a world class Cloud/Devops Engineer at AltSchool Africa. I am passionate about sharing knowledge, learning and mastering cloud technologies, making sweet treats, and putting smiles on the faces of people."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/ejiroghenelaureldafe/",
+                "github": "https://github.com/EjiroLaurelD",
+                "twitter": "https://twitter.com/L4laurel",
+                "portfolio": "https://github.com/EjirolaurelD",
+                "slackHandle": "Ejiroghene Laurel Dafe"
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Portfolio project",
+                  "projectdescription": "Altschool portfolio project. This was my first time working with html and css",
+                  "projectlink": "https://ALTSchool-Assignment-1-1.dafelaurel.repl.co"
+                },
+      
+                "second": {
+                  "projectname": "holiday hackathon",
+                  "projectdescription": "Altschool circle 379 Holiday Hackathon .",
+                  "projectlink": "https://Circle-379.repl.co"
+                },
+      
+                "third": {
+                  "projectname": "phonie project",
+                  "projectdescription": "I built this myself to learn how to use javascript on an actual project.",
+                  "projectlink": "https://phonie-project-practice.dafelaurel.repl.co"
+                },
+      
+                "fourth": {
+                  "projectname": "Laurel Cakes",
+                  "projectdescription": "currently working on building a website page for my business.",
+                  "projectlink": "https://Laurel-cakes.dafelaurel.repl.co"
+                }
+              },
+      
+              "education": {
+                "first": "AltSchool Africa School of Engineering.",
+                "second": "Delta State University, Abraka",
+                "third": ""
               }
+            },
+            
+            {
+              "id": 42,
+              "stuId": 3574,
+              "name":"Onah Anthony",
+              "track":"cloud Engineering",
+              "circle": 381,
+              "img": "https://avatars.githubusercontent.com/u/104945173?v=4",
+      
+              "description": {
+                "intro": "i am student at altschool struggling to make it under cloud ",
+                "introdetails": "I enjoy group work"
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/anthony-onah-ba8498249/",
+                "github": "https://github.com/onahanthony",
+                "twitter": "https://twitter.com/AnthonyOnah9",
+                "portfolio": "",
+                "slackHandle": "Onah Anthony"
+              },
+      
+              "experience": {
+                "first": "None",
+                "second": "",
+                "third": ""
+            },
+
+              "education": {
+                      "first": "GODFREY OKOYE UNIVERSITY, ENUGU B.SC GEOLOGY AND MINING",
+                      "second": "HEALTH SAFETY AND ENVIRONMENT, NOVELLE CENTER",
+                      "third": "PROJECT MANAGEMENT, GOOGLE",
+                      "fourth": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN CLOUD ENGINEERING(In View)"
+            }    
+            },
+
+
+            {
+              "id": 43,
+              "stuId": "2548",
+              "name": "Gloria John",
+              "track": "Cloud Engineering",
+              "circle": 361,
+              "img": "https://avatars.githubusercontent.com/u/99645583?v=4",
+
+              "description": {
+                "intro": "Getting to learn new things, solving problems and being part of an amazing community with like minds is something I always look forward to",
+                "my faourite quote": "Hold the Vision, drop the excuse, remember your why. Swerve around obstacles…trust the process. Happiness and success will find you. — Karen Salmansohn"
+              },
+
+              "socialmedia": {
+                "linkedin":"https://www.linkedin.com/in/gloria-john-118731197/",
+                "github": "https://github.com/J-Gloria",
+                "twitter": "https://twitter.com/glowriiyajhon",
+                "my blog": "",
+                "slackHandle": "Gloria John"
+              },
+
+
+              "education": {
+                "first": "University of Benin",
+                "second": "Altschool Africa",
+                "third": ""
+
+              }
+            },
+
+         {
+         "id":44,
+         "stuId":5260,
+         "name":"Abiola Ayodele",
+         "track":"Frontend Engineering",
+         "circle":78,
+         "img":"https://avatars.githubusercontent.com/u/67319772?v=4",
+
+         "description":{
+                     "intro":"I am babboeCodes😁 and It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers..",
+                     "introdetails":"Software Engineer | Frontend | Student @AltschoolAfrica | HTML | CSS | JavaScript | React | Analytical Skills, problem solver with keen eyes for details"
+                  },
+         "socialmedia":{
+                     "linkedin":"https://www.linkedin.com/in/abiola-ayodele-5a10651b7/",
+                     "github":"https://github.com/babboe1",
+                     "twitter":"https://twitter.com/ausstinab",
+                     "portfolio":"https://babboecodes.netlify.app/",
+                     "slackHandle":"babboeCodes"
+                  },
+
+         "experience":{
+                     "first":"Freelancer",
+                     "second":"FrontEnd Engineer Intern @I4GXZURI",
+                     "third":"FrontEnd Engineer Intern @SideHustle"
+                  },
+
+         "project":{
+                     "first":{
+                        "projectname":"babboeCodes Portfolio",
+                        "projectdescription":"A multi page Portfolio website for babboeCodes, but with HTML, CSDS and JavaScript(Vanilla), It was built with a lot of animations and features like toogle-dark-mode, and definitely serves its purpose for what is intended for.",
+                        "projectlink":"https://babboecodes.netlify.app/"
+                     },
+                     "second":{
+                        "projectname":"ShadyRymes Interior Design",
+                        "projectdescription":"This is Shady-Rymes, an Interior design Landing page that displays a collection of carpentry works used for interiors designs. Users can browse through to pick a design of their choice. This webpage also packs quite a number of features thatmakes the user experience awesome.",
+                        "projectlink":"https://interior-design-landing-page.netlify.app/"
+                     },
+
+                     "third":{
+
+                        "projectname":"Loop-studio Landion page",
+                        "projectdescription":"This is a solution to the Loopstudios landing page challenge on Frontend Mentor.This webpage is a landing page of a studio that gives users immersive experience in Interactive VR. Built with wonderful animation that immerses the user and serves is purpose as a center of attraction.",
+                        "projectlink":"https://loopstudio-landings-page.netlify.app/"
+                     }
+                  }
             }
+      ]
+
+   }
+}
 

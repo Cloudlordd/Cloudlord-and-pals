@@ -344,7 +344,7 @@ const logout = ()=>{
          <h2> Are you sure you want to go back home </h2>
 
 		 <div class="links">
-            <a href ="">Yes</a>
+            <a href ="members.html">Yes</a>
 
 			<a href ="">No</a>
 		 </div>
