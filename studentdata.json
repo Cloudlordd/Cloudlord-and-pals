@@ -1810,9 +1810,7 @@
                         "projectlink":"https://loopstudio-landings-page.netlify.app/"
                      }
                   }
-            },
-
-
+               },
 
       {
         "id": 44,
@@ -1857,7 +1855,31 @@
             "projectlink": "https://github.com/Marvy-E"
           }
         }
-      }
+      },
+            {
+              "id":45,
+              "stuId":3795,
+              "name":"Pelumi Olukayode",
+              "track":"Frontend Engineering",
+              "circle":161,
+              "img":"https://avatars.githubusercontent.com/u/93484706?v=4",
+     
+              "description":{
+                          "intro":"I am Pelumi Olukayode,A young, motivated individual with background knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my abilities to the advantage of the company while having the scope to develop my own dexterity.",
+                          "introdetails":"Software Engineer | Frontend Developer | Student @AltschoolAfrica | HTML | CSS | JavaScript | Git and GitHub | Analytical Skills, Problem solving, Team-Work"
+                       },
+              "socialmedia":{
+                          "linkedin":"https://www.linkedin.com/in/pelumi-olukayode-45a7b2216",
+                          "github":"https://github.com/OluPel",
+                          "twitter":"https://twitter.com/OluPel",
+                          "slackHandle":"Pelumi"
+                       },
+                       "education": {
+                        "first": "UNIVERSITY OF ILORIN, ILORIN. B.Sc INDUSTRIAL CHEMISTRY",
+                        "second": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN FRONTEND ENGINEERING(In View)"
+                      }
+
+            }
       ]
 
    }
