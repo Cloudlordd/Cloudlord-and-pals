@@ -1810,7 +1810,8 @@
                         "projectlink":"https://loopstudio-landings-page.netlify.app/"
                      }
                   }
-               },
+          },
+          
 
       {
         "id": 44,
@@ -1879,7 +1880,48 @@
                         "second": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN FRONTEND ENGINEERING(In View)"
                       }
 
+          },
+          {  
+           "id": 46,
+            "stuId": 2060,
+            "name": "Promise Orung",
+            "track": "Frontend Engineering",
+            "circle": 102,
+            "img": "https://media-exp1.licdn.com/dms/image/C5603AQESmzLhXpgF4w/profile-displayphoto-shrink_400_400/0/1608045988555?e=1666828800&v=beta&t=6o33F9BlUs4FbR-sDpHaS-K1crXQB_d3t2mpiozJFGc",
+    
+            "description": {
+              "intro": "I'm a Software engineer, I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
+              "introdetails": "Student at Altschool Africa and Fellow at Women Techsters. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
+            },
+    
+            "socialmedia": {
+              "linkedin": "https://www.linkedin.com/in/promiseorung/",
+              "github": "https://github.com/Orung",
+              "twitter": "https://twitter.com/Promiseorung",
+              "portfolio": "",
+              "slackHandle": "Promise Orung"
+            },
+    
+            "experience": {
+              "first": "",
+              "second": "",
+              "third": ""
+            },
+    
+            "project": {
+              "first": {
+                "projectname": "Personal Tracker",
+                "projectdescription": "A tracker design for people who workout and watch their regular activities",
+                "projectlink": "https://peteloba.obaloluwaoladun.repl.co/"
+              },
+              "second": {
+                "projectname": "Ajim Capital",
+                "projectdescription": "A company that invests in the future of Startups. Built to handle financial problems startups might encounter ",
+                "projectlink": "https://ajimcapital.obaloluwaoladun.repl.co/"
+              }
             }
+          }
+
       ]
 
    }
