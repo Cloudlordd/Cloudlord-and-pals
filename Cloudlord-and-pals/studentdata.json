@@ -1588,3 +1588,33 @@
 
 }
 
+{
+  "data": {
+    "students": [
+      {
+        "id": 38,
+        "stuId": 3795,
+        "name":" Pelumi Olukayode",
+        "track":"FrontEnd Engineering",
+        "circle": 161,
+        "img": "https://avatars.githubusercontent.com/u/93484706?v=4"
+
+        "description": {
+          "intro": "Preseverance is need in Life",
+          "introdetails": "I'm a Software Engineer, FrontEnd Developer, I'm passionate about sharing knowledge, documentation, web engineering, and others. "
+        },
+
+        "socialmedia": {
+          "linkedin": "https://www.linkedin.com/in/pelumi-olukayode-45a7b2216",
+          "github": "https://github.com/OluPel",
+          "twitter": "https://twitter.com/Olu_Pel"
+          "portfolio": "",
+          "slackHandle": "Pelumi Olukayode "
+        },
+        "education": {
+          "first": "UNIVERSITY OF ILORIN. B.Sc INDUSTRIAL CHEMISTRY",
+          "second": "ALTSCHOOL SCHOOL OF SOFTWARE ENGINEERING. DIPLOMA IN FRONTEND ENGINEERING(In View)"
+        }
+
+        
+      },
