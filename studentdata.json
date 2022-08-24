@@ -1068,7 +1068,7 @@
         }
       },
       {
-        "id": 27,
+        "id": 26,
         "stuId": 1731,
         "name": "Samson Okeji",
         "track": "Backend Engineering",
@@ -1121,7 +1121,7 @@
       },
 
       {
-        "id": 28,
+        "id": 27,
         "stuId": 4797,
         "name": "Bernard Kwame Solodzi",
         "track": "Backend Engineering",
@@ -1156,7 +1156,7 @@
       },
 
       {
-        "id": 29,
+        "id": 28,
         "stuId": 2698,
         "name": "Nzubechi Ahamefula",
         "track": "Frontend Engineering",
@@ -1178,7 +1178,7 @@
       },
 
       {
-        "id": 30,
+        "id": 29,
         "stuId": 5272,
         "name": "King Igbozuruike",
         "track": "Cloud Engineering",
@@ -1229,7 +1229,7 @@
         }
       },
       { 
-        "id": 31,
+        "id": 30,
         "stuId": 2708,
         "name": "Obaloluwa Oladunjoye",
         "track": "Frontend Engineering",
@@ -1263,7 +1263,7 @@
       },
 
       {
-        "id": 32,
+        "id": 31,
         "stuId": 1942,
         "name": "Joseph Alagi",
         "track": "Cloud Engineering",
@@ -1314,7 +1314,7 @@
             
 
       {
-        "id": 33,
+        "id": 32,
         "stuId": 5326,
         "name": "Ekunola Paul",
         "track": "Frontend Engineering",
@@ -1360,7 +1360,7 @@
       },
 
       {
-        "id": 34,
+        "id": 33,
         "stuId": "5311",
         "name": "Fahd Abdulrazzaq",
         "track": "Cloud Engineering",
@@ -1414,7 +1414,7 @@
       },
 
       {
-        "id": 35,
+        "id": 34,
         "stuId": 4446,
         "name": "Jael-Praise David",
         "track": "Frontend Engineering",
@@ -1454,7 +1454,7 @@
       },
 
       {
-        "id":36,
+        "id":35,
         "stuId":4665,
         "name":"Okpala Joseph",
         "track":"Frontend Engineering",
@@ -1506,7 +1506,7 @@
             },
 
       {
-        "id": 37,
+        "id": 36,
         "stuId": 2175,
         "name": "Okpala Kosiosochukwu",
         "track": "Cloud Engineering",
@@ -1559,7 +1559,7 @@
 
       {
  
-        "id": 38,
+        "id": 37,
         "stuId": "5155",
         "name": "IKEM ADAOBI",
         "track": "Backend Engineering",
@@ -1615,7 +1615,7 @@
       
       
             {
-              "id": 39,
+              "id": 38,
               "stuId": 5395,
               "name":"Ozuem Eugene",
               "track":"Front-End Engineering",
@@ -1647,7 +1647,7 @@
 
 
             {
-              "id": 40,
+              "id": 39,
               "stuId": 3555,
               "name": "Ejiroghene Laurel Dafe",
               "track": "Cloud Engineering",
@@ -1701,7 +1701,7 @@
             },
             
             {
-              "id": 41,
+              "id": 40,
               "stuId": 3574,
               "name":"Onah Anthony",
               "track":"cloud Engineering",
@@ -1737,7 +1737,7 @@
 
 
             {
-              "id": 42,
+              "id": 41,
               "stuId": "2548",
               "name": "Gloria John",
               "track": "Cloud Engineering",
@@ -1766,7 +1766,7 @@
             },
 
          {
-         "id":43,
+         "id":42,
          "stuId":5260,
          "name":"Abiola Ayodele",
          "track":"Frontend Engineering",
@@ -1814,7 +1814,7 @@
           
 
       {
-        "id": 44,
+        "id": 43,
         "stuId": 4550,
         "name": "Marvelous Ejiogu",
         "track": "Front-End Engineering",
@@ -1858,7 +1858,7 @@
         }
       },
             {
-              "id":45,
+              "id":44,
               "stuId":3795,
               "name":"Pelumi Olukayode",
               "track":"Frontend Engineering",
@@ -1882,7 +1882,7 @@
 
           },
           {  
-           "id": 46,
+           "id": 45,
             "stuId": 2060,
             "name": "Promise Orung",
             "track": "Frontend Engineering",
