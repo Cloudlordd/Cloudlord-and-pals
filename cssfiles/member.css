@@ -39,8 +39,11 @@ aside{
   cursor: pointer;
   text-transform: uppercase;
   cursor: pointer;
+  transition: transform 1s;
 }
-
+.track-section button:hover{
+  transform: scale(1.3);
+}
 
 
 
