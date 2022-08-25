@@ -322,8 +322,6 @@ return item.track === "Frontend Engineering"
 })
  filterTrack.forEach((frontendItem, index) => {
   const {id,name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = frontendItem;
-    
-  let newIndex = index+id;
 
   frontendContainer += `
              
@@ -352,7 +350,7 @@ return item.track === "Frontend Engineering"
          ${description.intro}
         </p>
 
-        <button type="submit" onclick = detailProfile(${newIndex})> Read More..  </button>
+        <button type="submit" onclick = detailProfile(${id})> Read More..  </button>
       </div>
 
       <!-- SOCIAL-MEDIA -->
@@ -417,8 +415,6 @@ return item.track === "Backend Engineering"
 
  filterTrack.forEach((backendItem, index) => {
   const {id, name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = backendItem;
-    
-  let newIndex = index+id;
 
   backendContainer += `
              
@@ -447,7 +443,7 @@ return item.track === "Backend Engineering"
          ${description.intro}
         </p>
 
-        <button type="submit" onclick = detailProfile(${newIndex})> Read More..  </button>
+        <button type="submit" onclick = detailProfile(${id})> Read More..  </button>
       </div>
 
       <!-- SOCIAL-MEDIA -->
@@ -512,8 +508,6 @@ return item.track === "Cloud Engineering"
 
  cloudTrack.forEach((cloudItem, index) => {
   const { id,name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = cloudItem;
-    
-  let newIndex = index+id;
 
   cloudContainer += `
              
@@ -542,7 +536,7 @@ return item.track === "Cloud Engineering"
          ${description.intro}
         </p>
 
-        <button type="submit" onclick = detailProfile(${newIndex})> Read More..  </button>
+        <button type="submit" onclick = detailProfile(${id})> Read More..  </button>
       </div>
 
       <!-- SOCIAL-MEDIA -->
