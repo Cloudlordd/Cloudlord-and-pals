@@ -17,9 +17,4 @@ footer p{
 }
 .animation-point{
     flex: 1;
-    
-}
-.fa-twitter:hover,.fa-instagram:hover, .fa-linkedin:hover{
-    transform: scale(1.2);
-  transition: 0.5s;
 }
