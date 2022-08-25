@@ -591,13 +591,16 @@ aside p{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 70vh;
-	background: var(--light);
-	border-radius: 20px;
+	height: 80vh;
+	text-align: center;
+	font-size: min(3vw, 15px);
 }
 
-.parent-logout div{
+.parent-logout > div {
+	border-radius: 20px;
 	background: var(--light);
+	height: min(12em, 40vw);
+	width: min(25em, 70vw);
 	display: flex;
 	flex-direction:column;
 	justify-content: center;
@@ -608,13 +611,31 @@ aside p{
 .parent-logout .links{
 	display: flex;
 	justify-content: space-between;
+	width: max(50%, 10em);
 }
+
 .parent-logout .links a{
 	text-decoration: none;
 	cursor: pointer;
 	text-transform: uppercase;
+	padding: 5px 10px;
+	border-radius: 20px;
+	width: 4em;
+	margin-top: 15px;
+	color: white;
+	transition: filter 0.15s ease;
+	font-weight: 500;
 }
 
+.parent-logout .links #yes-link {
+	background-color: rgb(224, 28, 28);
+}
+.parent-logout .links #no-link {
+	background-color: rgb(59, 194, 59);
+}
+.parent-logout .links #yes-link:hover, .parent-logout .links #no-link:hover {
+	filter: brightness(120%);
+}
 
 
 
