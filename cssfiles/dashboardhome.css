@@ -82,8 +82,7 @@ body {
 
 
 #student-img img{
-    height: 20vh;
-	width: 50%;
+    max-width: 20vh;
 	border-radius: 50%;
 	
 }
