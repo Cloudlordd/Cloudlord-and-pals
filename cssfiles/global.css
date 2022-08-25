@@ -188,9 +188,12 @@ footer .social-media a {
 
 /* social buttons */
 
+footer .social-button {
+  transition: 0.5s;
+}
+
 footer .social-button:hover {
   transform: scale(1.2);
-  transition: 0.5s;
 }
 
 /* MOBILE VIEW */
