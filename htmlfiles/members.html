@@ -4,11 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>
-      Student-profile
-    </title>
-    <link rel = "icon" type = "image/svg" href = "/image/logo.svg">
-
+    <title>Student-profile</title>
+    <link rel="icon" type="image/svg" href="/image/logo.svg" />
 
     <!-- CSS LINK -->
     <link rel="stylesheet" href="../cssfiles/global.css" />
@@ -28,15 +25,22 @@
     <!-- HEADER CONTAINER -->
     <header>
       <nav>
-        <input id="nav-toggle" type="checkbox">
+        <input id="nav-toggle" type="checkbox" />
         <div class="logo">
-          <img src="../image/logo.svg" alt=""></div>
+          <img src="../image/logo.svg" alt="" />
+        </div>
         <ul class="links">
           <li><a href="../index.html">Home</a></li>
           <li><a href="./members.html">Pals</a></li>
           <li><a href="../htmlfiles/project.html">Projects</a></li>
-          <li><a id ="contribution-link" href="https://github.com/Cloudlordd/Cloudlord-and-pals" target="_blank">Contribute</a></li>
-         
+          <li>
+            <a
+              id="contribution-link"
+              href="https://github.com/Cloudlordd/Cloudlord-and-pals"
+              target="_blank"
+              >Contribute</a
+            >
+          </li>
         </ul>
         <label for="nav-toggle" class="icon-burger">
           <div class="line"></div>
@@ -49,37 +53,31 @@
     <!-- MAIN SECTION -->
     <main>
       <aside>
-    
+        <div class="track-section">
+          <button type="submit" onclick="allStudent()">All</button>
+          <button type="submit" onclick="frontend()">FrontEnd</button>
+          <button type="submit" onclick="backend()">Backend</button>
+          <button type="submit" onclick="cloud()">Cloud</button>
+        </div>
 
-<div class="track-section">
+        <form action="#">
+          <div class="form-input">
+            <input
+              type="search"
+              placeholder="Search... name, circle, id"
+              class="input"
+            />
+            <button type="submit" class="search-btn">
+              <i class="fa fa-search" onclick="search()"></i>
+            </button>
+          </div>
+        </form>
 
-  <button type="submit" onclick="allStudent()">All</button>
-  <button type="submit" onclick="frontend()">FrontEnd</button>
-  <button type="submit" onclick="backend()">Backend</button>
-  <button type="submit" onclick="cloud()">Cloud</button>
-</div>
+        <!--  -->
 
-<form action="#">
-  <div class="form-input">
-    <input type="search" placeholder="Search... name, circle, id" class="input">
-    <button type="submit" class="search-btn"><i class='fa fa-search' onclick="search()"></i></button>
-  </div>
-</form>
-
-<!--  -->
-
-
-<!--  -->
+        <!--  -->
         <div class="container">
-
-
-         
-         
-
           <!-- END OF TEMPLATE -->
-
-
-         
         </div>
       </aside>
     </main>
@@ -90,16 +88,16 @@
       <p>Powered by cloudLord👨🏿‍💻</p>
       <div class="social-media">
         <a href="https://twitter.com/Cloud_Lordd"
-          ><i class="fab fa-twitter"></i
+          ><i class="fab fa-twitter social-button"></i
         ></a>
         <a href="https://www.linkedin.com/in/adeyemi-buhari-opeyemi-3aa4781b5/"
-          ><i class="fab fa-linkedin"></i
+          ><i class="fab fa-linkedin social-button"></i
         ></a>
-        <a href=""><i class="fab fa-instagram"></i></a>
+        <a href=""><i class="fab fa-instagram social-button"></i></a>
       </div>
     </footer>
-   
-   <!-- <script src="../studentdata.json"></script> -->
+
+    <!-- <script src="../studentdata.json"></script> -->
     <script src="../js/members.js"></script>
   </body>
 </html>
