@@ -84,14 +84,11 @@ nav .icon-burger .line {
 	transition: all .3s ease-in-out;
 }
 
-@keyframes Breathe {
-    from {transform: scale(1);}
-    to {transform: scale(1.2);}
-}
-
 .fa-twitter,.fa-instagram,.fa-linkedin{
-    transform: scale(1);
-    animation: Breathe 0.5s infinite alternate;
+    transition: 0.5s;
+}
+.fa-twitter:hover,.fa-instagram:hover,.fa-linkedin:hover{
+    transform: scale(1.2);
 }
 
 /*  */
