@@ -1,4 +1,11 @@
 const allSideMenu = document.querySelectorAll('#sidebar .side-menu.top li a');
+const closeIcon = document.querySelector('#close-icon-profile')
+
+
+// TOGGLE SIDEBAR
+const menuBar = document.querySelector('#content nav .fa-bars');
+const sidebar = document.getElementById('sidebar');
+const studentImage = document.getElementById("student-img")
 
 allSideMenu.forEach(item=> {
 	const li = item.parentElement;
@@ -8,24 +15,27 @@ allSideMenu.forEach(item=> {
 			i.parentElement.classList.remove('active');
 		})
 		li.classList.add('active');
+		closeIcon.classList.add('hide');
+		menuBar.classList.remove('hide');
 	})
 });
 
 
 
-
-// TOGGLE SIDEBAR
-const menuBar = document.querySelector('#content nav .fa-bars');
-const sidebar = document.getElementById('sidebar');
-const studentImage = document.getElementById("student-img")
-
-
 menuBar.addEventListener('click', function () {
+	menuBar.classList.toggle('hide');
+	closeIcon.classList.toggle('hide');
 	sidebar.classList.toggle('hide');
 	studentImage.classList.toggle('remove')
 	
 })
 
+closeIcon.addEventListener('click', function () {
+	menuBar.classList.toggle('hide');
+	closeIcon.classList.toggle('hide');
+	sidebar.classList.toggle('hide');
+	studentImage.classList.toggle('remove')
+})
 
 
 const getImageContainer = document.getElementById("student-img")
