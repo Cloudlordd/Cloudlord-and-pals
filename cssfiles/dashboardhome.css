@@ -179,7 +179,9 @@ body {
 	min-width: calc(60px  - ((4px + 6px) * 2));
 	display: flex;
 	justify-content: center;
+	cursor: pointer;
 }
+
 /* SIDEBAR */
 
 #student-img.remove{
@@ -218,8 +220,8 @@ body {
 	position: sticky;
 	top: 0;
 	left: 0;
-   z-index: 2001;
-   padding-left: 0;
+    z-index: 2001;
+    padding-left: 0;
 }
 #content nav::before {
 	content: '';
