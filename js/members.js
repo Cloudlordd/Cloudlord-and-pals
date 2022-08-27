@@ -122,8 +122,14 @@ const search = async()=> {
     </div>
   </div>
     `
-   }): false
-  
+   }):   searchContainer += `      
+   <div class="profile-info">
+          <p>No user with such name.
+          Check the all link icon for all available users.
+          </p>
+
+    </div>
+  `
    studentContainer.innerHTML = searchContainer   
 }
 

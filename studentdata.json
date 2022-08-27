@@ -1882,24 +1882,24 @@
 
           },
           {  
-           "id": 45,
+           "id": 46,
             "stuId": 2060,
-            "name": "Promise Orung",
+            "name": "Taiwo Stephen Opeyemi",
             "track": "Frontend Engineering",
-            "circle": 102,
+            "circle": 150,
             "img": "https://media-exp1.licdn.com/dms/image/C5603AQESmzLhXpgF4w/profile-displayphoto-shrink_400_400/0/1608045988555?e=1666828800&v=beta&t=6o33F9BlUs4FbR-sDpHaS-K1crXQB_d3t2mpiozJFGc",
     
             "description": {
               "intro": "I'm a Software engineer, I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
-              "introdetails": "Student at Altschool Africa and Fellow at Women Techsters. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
+              "introdetails": "Student at Altschool Africa and control engineer at Transmission Company of Nigeria. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
             },
     
             "socialmedia": {
-              "linkedin": "https://www.linkedin.com/in/promiseorung/",
-              "github": "https://github.com/Orung",
-              "twitter": "https://twitter.com/Promiseorung",
+              "linkedin": "https://www.linkedin.com/in/StephenTaiwo/",
+              "github": "https://github.com/stephen498",
+              "twitter": "https://twitter.com/TAIWOStephenOpeyemi",
               "portfolio": "",
-              "slackHandle": "Promise Orung"
+              "slackHandle": "Taiwo Stephen Opeyemi"
             },
     
             "experience": {
@@ -1910,17 +1910,23 @@
     
             "project": {
               "first": {
-                "projectname": "Personal Tracker",
-                "projectdescription": "A tracker design for people who workout and watch their regular activities",
-                "projectlink": "https://peteloba.obaloluwaoladun.repl.co/"
+                "projectname": "Redact App",
+                "projectdescription": "A redact app for people to scrambble words that wants to be hidden",
+                "projectlink": "https://github.com/stephen498/Redact-app"
               },
               "second": {
-                "projectname": "Ajim Capital",
-                "projectdescription": "A company that invests in the future of Startups. Built to handle financial problems startups might encounter ",
-                "projectlink": "https://ajimcapital.obaloluwaoladun.repl.co/"
+                "projectname": "Bank_atm",
+                "projectdescription": "An atm for making withdrawal",
+                "projectlink": "https://github.com/stephen498/Bank_atm"
+              },
+               "third": {
+                "projectname": "alt_schoolproject",
+                "projectdescription": "Profile page",
+                "projectlink": "https://github.com/stephen498/alt_schoolproject"
               }
             }
           }
+          
 
       ]
 
