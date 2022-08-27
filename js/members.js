@@ -40,7 +40,7 @@ const search = async()=> {
  let response = res.data.students
 
  let searchTrack = response.filter(item => {
- return input === item.name || parseInt(input) === item.stuId || parseInt(input) === item.circle
+ return (input === item.name || parseInt(input) === item.stuId || parseInt(input) === item.circle)
    
 })
   searchTrack.length > 0?
@@ -129,8 +129,8 @@ const search = async()=> {
           </p>
 
     </div>
-  `
-   studentContainer.innerHTML = searchContainer   
+  `;
+   studentContainer.innerHTML = searchContainer;   
 }
 
 
