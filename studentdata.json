@@ -48,7 +48,6 @@
           }
         }
       },
-
       {
         "id": 1,
         "stuId": 2557,
@@ -102,7 +101,6 @@
           "third": "Obafemi Awolowo University, Ile-Ife."
         }
       },
-
       {
         "id": 2,
         "stuId": 2098,
@@ -143,7 +141,6 @@
           }
         }
       },
-
       {
         "id": 3,
         "stuId": 1844,
@@ -719,11 +716,7 @@
             "projectlink": "https://thedeola-color-flipper.netlify.app/"
           }
         }
-      },
-
-     
-
-        
+      },   
 {
         "id": 18,
         "stuId": 2000,
@@ -1882,7 +1875,7 @@
 
           },
           {  
-           "id": 45,
+          "id": 45,
             "stuId": 2060,
             "name": "Promise Orung",
             "track": "Frontend Engineering",
@@ -1920,10 +1913,49 @@
                 "projectlink": "https://ajimcapital.obaloluwaoladun.repl.co/"
               }
             }
-          }
-
+          },
+          {
+              "id": 46,
+              "stuId": 4125,
+              "name": "John Ekunola",
+              "track": "Frontend Engineering",
+              "circle": 170,
+              "img": "https://avatars.githubusercontent.com/u/51181625?s=400&u=d08ed5e667f6b4cd1eb9557eb0c0574325eaa16c&v=4",
+      
+              "description": {
+                "intro": "I solve problems with code and find inspiration in everyday things, pushing my boundaries, and allowing myself to think out of the box.",
+                "introdetails": "Frontend developer and student at Altschool Africa."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://linkedin.com/in/ekunolajohn/",
+                "github": "https://github.com/Jizzyjay",
+                "twitter": "https://twitter.com/Oluwatosin_EJ",
+                "portfolio": "https://www.johnekunola.com/",
+                "slackHandle": "John Ekunola"
+              },
+      
+              "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Dashboard",
+                  "projectdescription": "Dashboard(using Html, Css and Javascript).",
+                  "projectlink": "https://johndashboaard.netlify.app/"
+                },
+                "second": {
+                  "projectname": "TravelX",
+                  "projectdescription": "TravelX Landing Page(using Gatsby).",
+                  "projectlink": "https://travex.netlify.app/"
+                }
+              }
+            }
       ]
 
-   }
+  }
 }
 
