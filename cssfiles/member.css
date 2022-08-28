@@ -224,10 +224,17 @@ text-align: center;
   
 }
 #no-user{
-  color:red;
-  font-size: 100px;
+  /*color:red;
+  */font-size: 100px;
   font-weight: bold;
   font-family: 'Courier New', Courier, monospace;
+  background-color: #fff;
+  color: #000;
+  border-radius:10px ;
+  -webkit-border-radius:10px ;
+  -moz-border-radius:10px ;
+  -ms-border-radius:10px ;
+  -o-border-radius:10px ;
 }
 .social-media a i{
   color: #fff;
