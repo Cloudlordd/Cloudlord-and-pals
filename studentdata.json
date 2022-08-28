@@ -1952,9 +1952,48 @@
                   "projectdescription": "TravelX Landing Page(using Gatsby).",
                   "projectlink": "https://travex.netlify.app/"
                 }
-              }
+          
+              {
+              "id": 47,
+              "stuId": 1769 ,
+              "name": "Nwabuisi Favour Uchenna",
+              "track": "Frontend Engineering",
+              "circle": 94,
+              "img": "https://i.imgur.com/8SQZNC2.png",
+      
+              "description": {
+                "intro": "I have been learning how to code few months ago. I started with HTML, CSS and now I'm learning Javascript. I'm currently a student at AltSchoolAfrica. I'm passionate about sharing knowledge, documentation, web engineering, and others, build useful open-source projects, speak at some meetups/conferences, build technical communities.",
+                "introdetails": "Frontend developer and student at Altschool Africa."
+              },
+      
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/favour-nwabuisi-94a31a245/",
+                "github": "https://github.com/favex092",
+                "twitter": "https://twitter.com/FavourP69766003",
+                "portfolio": "",
+                "slackHandle": "Nwabuisi Favour Uchenna"
+              },
+      
+              "experience": {
+                "first": "",
+                "second": "",
+                "third": ""
+              },
+      
+              "project": {
+                "first": {
+                  "projectname": "Network carrier check",
+                  "projectdescription": "A web application that detects the carrier of a network(using Html, Css and Javascript).",
+                  "projectlink": "https://network-carrier-check-1.favex001.repl.co/"
+                },
+                "second": {
+                  "projectname": "Readactr App",
+                  "projectdescription": "A web application that scrambles contents of words(using Html, Css and Javascript).",
+                  "projectlink": "https://redactr-app.favex001.repl.co/"
+                }
+               }
             }
-      ]
+    ]
 
   }
 }
