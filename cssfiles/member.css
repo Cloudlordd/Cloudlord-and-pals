@@ -225,6 +225,9 @@ text-align: center;
 }
 #no-user{
   color:red;
+  font-size: 100px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
 }
 .social-media a i{
   color: #fff;
