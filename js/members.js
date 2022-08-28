@@ -124,7 +124,7 @@ const search = async()=> {
     `
    }):   searchContainer += `      
    <div class="profile-info">
-          <p id='no-user'>No user with such name.Check the all link icon for all available users.
+          <p id='no-user'>No user with such name.<<br>>Check the all link icon for all available users.
           </p>
 
     </div>
