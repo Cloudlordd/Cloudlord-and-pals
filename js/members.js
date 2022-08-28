@@ -123,8 +123,8 @@ const search = async()=> {
   </div>
     `
    }):   searchContainer += `      
-   <div class="profile-info">
-          <p id='no-user'>Invalid user .<br>Check the <i>all link icon</i> .
+   <div class="profile-info1">
+          <p id='no-user'><span class='blink'>Invalid user!!!</span><br>Check the <i>all link icon</i> .
           </p>
 
     </div>
