@@ -223,6 +223,9 @@ text-align: center;
   
   
 }
+#no-user{
+  color:red;
+}
 .social-media a i{
   color: #fff;
   font-size: 20px;
