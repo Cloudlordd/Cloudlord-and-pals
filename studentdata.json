@@ -1882,12 +1882,12 @@
 
           },
           {  
-           "id": 46,
-            "stuId": 2060,
-            "name": "Taiwo Stephen Opeyemi",
+           "id": 45,
+            "stuId": 3443,
+            "name": "Taiwo Stephen Ope",
             "track": "Frontend Engineering",
             "circle": 150,
-            "img": "https://media-exp1.licdn.com/dms/image/C5603AQESmzLhXpgF4w/profile-displayphoto-shrink_400_400/0/1608045988555?e=1666828800&v=beta&t=6o33F9BlUs4FbR-sDpHaS-K1crXQB_d3t2mpiozJFGc",
+            "img": "https://avatars.githubusercontent.com/u/99148339?s=400&u=1bb8d958247b6d985a4ea0d41c3689b42cf812d2&v=4",
     
             "description": {
               "intro": "I'm a Software engineer, I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
@@ -1895,7 +1895,7 @@
             },
     
             "socialmedia": {
-              "linkedin": "https://www.linkedin.com/in/StephenTaiwo/",
+              "linkedin": "https://www.linkedin.com/in/stephen-taiwo-b5807419b",
               "github": "https://github.com/stephen498",
               "twitter": "https://twitter.com/TAIWOStephenOpeyemi",
               "portfolio": "",
@@ -1903,9 +1903,9 @@
             },
     
             "experience": {
-              "first": "",
-              "second": "",
-              "third": ""
+              "first": "Control Engineer at Nigerian Television Authority(NTA),Ibadan",
+              "second": "Electrical personnel at Simeon Engineering,Oluyole Ibadan",
+              "third": "Control Engineer at SCADA DEPT in National Control Center,Transmission Company of Nigeria(TCN)"
             },
     
             "project": {
