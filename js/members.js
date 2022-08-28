@@ -232,13 +232,12 @@ const allStudent = async ()=>{
  
  response.forEach((allItem, index) => {
   const { name, stuId, track, img, description, socialmedia:{linkedin, github, twitter, portfolio}} = allItem;
-    
-
+  
   allContainer += `
              
-  <div class="profile-card">
-  <div class="card-content">
-    <div class="front-card">
+  <div class="profile-card" >
+  <div class="card-content" >
+    <div class="front-card" >
       
       <div class="image">
         <img src=${img} alt="" />

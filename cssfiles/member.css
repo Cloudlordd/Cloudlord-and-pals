@@ -119,8 +119,12 @@ form .form-input button {
 }
 
 .profile-card:hover .card-content{
-    transform: rotateY( 180deg ) ;
+  transform: rotateY( 180deg ) ;
   transition: transform 0.5s;
+  -webkit-transition: transform 0.5s;
+  -moz-transition: transform 0.5s;
+  -ms-transition: transform 0.5s;
+  -o-transition: transform 0.5s;
 }
 
 .front-card, .back-card{
@@ -131,23 +135,22 @@ form .form-input button {
   text-align: center;
   background: #161616;
   backface-visibility: hidden;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
-	text-align: center;
-	z-index: 11;
-	color: #fff;
-	/* text-align: center; */
-	 /* padding: 0px 8px;  */
-	font-size: 25px;
-	border-radius: 15px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 11;
+  color: #fff;
+  /*text-align: center;
+  *//*padding: 0px 8px;
+  */font-size: 25px;
+  border-radius: 15px;
   border-top: 5px solid rgba(255,255,255,0.5);
-	border-left: 5px solid rgba(255,255,255,0.5);
- 	border-top: 1px solid rgba(255,255,255,0.95); 
+  border-left: 5px solid rgba(255,255,255,0.5);
+  border-top: 1px solid rgba(255,255,255,0.95);
   background: rgba(255,255,255,0.2);
-	backdrop-filter: blur(5px);	
+  backdrop-filter: blur(5px);
   display: flex;
   justify-content: center;
   flex-direction: column;
-  
   
 }
 
@@ -158,6 +161,10 @@ form .form-input button {
     width: 8rem;
     height: 8rem;
     border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 } 
 
 .profile-info{
@@ -187,6 +194,10 @@ form .form-input button {
   padding:5% ;
   display: flex;
   justify-content: space-between;
+  -webkit-transform: rotateY( 180deg );
+  -moz-transform: rotateY( 180deg );
+  -ms-transform: rotateY( 180deg );
+  -o-transform: rotateY( 180deg );
 }
 .introduction p{
    font-size: 15px;
