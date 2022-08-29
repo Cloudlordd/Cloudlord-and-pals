@@ -122,13 +122,7 @@ const search = async()=> {
     </div>
   </div>
     `
-   }):   searchContainer += `      
-   <div class="profile-info1">
-          <p id='no-user'><span class='blink'>Invalid user!!!</span><br>Check the <i>all link icon</i> .
-          </p>
-
-    </div>
-  `;
+   }):   false;
    studentContainer.innerHTML = searchContainer;   
 }
 
@@ -144,7 +138,7 @@ const displayAllStudent = (allstudent) => {
 
   container += (`
       
-  <div class="profile-card">
+  <div class="profile-card" >
   <div class="card-content">
     <div class="front-card">
       
@@ -220,8 +214,6 @@ const displayAllStudent = (allstudent) => {
 
  
 }
-
-
 
 const allStudent = async ()=>{
   let allContainer = ''
