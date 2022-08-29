@@ -72,6 +72,43 @@ form .form-input {
 	width: 100%;
 	color: var(--black-color);
 }
+ .profile-info1{
+  margin-top: 10%;
+  text-align: center;
+}
+        #no-user{
+ font-size: 60px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #fff;
+  color: #000;
+  border-radius:10px ;
+  -webkit-border-radius:10px ;
+  -moz-border-radius:10px ;
+  -ms-border-radius:10px ;
+  -o-border-radius:10px ;
+  
+}
+.blink{
+  animation: blink 1s steps(1,end) infinite;
+  -webkit-animation: blink 1s steps(1,end) infinite;
+}
+#no-user .blink {font-size: 60px;
+  color: red;
+  font-family: monospace;
+  font-weight: bold;
+}
+@keyframes blink{
+  0% {
+    opacity:1;
+  }
+  50% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
 form .form-input button {
 	width: 36px;
 	height: 100%;
