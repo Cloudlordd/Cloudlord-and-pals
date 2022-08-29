@@ -295,6 +295,11 @@ body {
 	border-radius: 50%;
 }
 
+#menu-bar-profile,
+#close-icon-profile {
+	cursor: pointer;
+}
+
 #menu-bar-profile.hide, #close-icon-profile.hide {
 	display: none
 }
