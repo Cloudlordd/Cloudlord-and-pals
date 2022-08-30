@@ -1954,51 +1954,47 @@
                 }
               }
             },
-            {  
-           "id": 47,
-            "stuId": 3443,
-            "name": "Taiwo Stephen Ope",
-            "track": "Frontend Engineering",
-            "circle": 150,
-            "img": "https://avatars.githubusercontent.com/u/99148339?s=400&u=1bb8d958247b6d985a4ea0d41c3689b42cf812d2&v=4",
-    
-            "description": {
-              "intro": "I'm a Software engineer, I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
-              "introdetails": "Student at Altschool Africa and control engineer at Transmission Company of Nigeria. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
-            },
-    
-            "socialmedia": {
-              "linkedin": "https://www.linkedin.com/in/stephen-taiwo-b5807419b",
-              "github": "https://github.com/stephen498",
-              "twitter": "https://twitter.com/taiwo_op1",
-              "portfolio": "https://github.com/stephen498",
-              "slackHandle": "Taiwo Stephen Opeyemi"
-            },
-    
-            "experience": {
-              "first": "Control Engineer at Nigerian Television Authority(NTA),Ibadan",
-              "second": "Electrical personnel at Simeon Engineering,Oluyole Ibadan",
-              "third": "Control Engineer at SCADA DEPT in National Control Center,Transmission Company of Nigeria(TCN)"
-            },
-    
-            "project": {
-              "first": {
-                "projectname": "Redact App",
-                "projectdescription": "A redact app for people to scrambble words that wants to be hidden",
-                "projectlink": "https://github.com/stephen498/Redact-app"
+            {
+              "id": 47,
+              "stuId": 3443,
+              "name": "Taiwo Stephen Ope",
+              "track": "Frontend Engineering",
+              "circle": 150,
+              "img": "https://avatars.githubusercontent.com/u/99148339?s=400&u=1bb8d958247b6d985a4ea0d41c3689b42cf812d2&v=4",
+              "description": {
+                "intro": "I'm a Software engineer, I embrace lifelong learning and aspire to be the best in all I do, showing professional distinction.",
+                "introdetails": "Student at Altschool Africa and control engineer at Transmission Company of Nigeria. I've worked with different teams to carry out assignments and little projects, and I hope to improve by the day. "
               },
-              "second": {
-                "projectname": "Bank_atm",
-                "projectdescription": "An atm for making withdrawal",
-                "projectlink": "https://github.com/stephen498/Bank_atm"
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/stephen-taiwo-b5807419b",
+                "github": "https://github.com/stephen498",
+                "twitter": "https://twitter.com/taiwo_op1",
+                "portfolio": "https://github.com/stephen498",
+                "slackHandle": "Taiwo Stephen Opeyemi"
               },
-               "third": {
-                "projectname": "alt_schoolproject",
-                "projectdescription": "Profile page",
-                "projectlink": "https://github.com/stephen498/alt_schoolproject"
+              "experience": {
+                "first": "Control Engineer at Nigerian Television Authority(NTA),Ibadan",
+                "second": "Electrical personnel at Simeon Engineering,Oluyole Ibadan",
+                "third": "Control Engineer at SCADA DEPT in National Control Center,Transmission Company of Nigeria(TCN)"
+              },
+              "project": {
+                "first": {
+                  "projectname": "Redact App",
+                  "projectdescription": "A redact app for people to scrambble words that wants to be hidden",
+                  "projectlink": "https://github.com/stephen498/Redact-app"
+                },
+                "second": {
+                  "projectname": "Bank_atm",
+                  "projectdescription": "An atm for making withdrawal",
+                  "projectlink": "https://github.com/stephen498/Bank_atm"
+                },
+                "third": {
+                  "projectname": "alt_schoolproject",
+                  "projectdescription": "Profile page",
+                  "projectlink": "https://github.com/stephen498/alt_schoolproject"
+                }
               }
             }
-          }
       ]
 
   }
