@@ -1816,7 +1816,7 @@
 
         "description": {
           "intro": "I'm training to be a World Class Software Developer. Proudly.",
-          "introdetails": "I'm a Software Engineer and a Virtual Assistant. A student at AltSchool Africa School of Software Engineering Class of 2022. I'm also learning to be a Technical writer. I'm passionate about sharing knowledge, data science and web development. I'm open to opportunities in different forms- internship, hackathons, or bootcamps."
+          "introdetails": "I'm a Software Engineer and a Virtual Assistant. A student at AltSchool Africa. I'm also learning to be a Technical writer. I'm adventurous, and passionate about sharing knowledge, data science and web development. I'm open to opportunities in different forms- internship, hackathons, or bootcamps. Aim is to be a problem-solving developer"
         },
 
         "socialmedia": {
@@ -1844,9 +1844,9 @@
           },
 
           "third": {
-            "projectname": "Searching...",
-            "projectdescription": "This is me encouraging me. I'd definitely have a third before the end of the week.  ",
-            "projectlink": "https://github.com/Marvy-E"
+            "projectname": "Phonie project",
+            "projectdescription": "This is AltSchool's holiday hackathon's project. I and my team mates (TopGs) took it up to solidify our knowledge of HTML, CSS and Javascript. ",
+            "projectlink": "https://marvy-e.github.io/TopGs/"
           }
         }
       },
