@@ -123,7 +123,13 @@ let searchTrack = response.filter( (item) => isMatched(item.name, input) || isMa
     </div>
   </div>
     `
-   }): false
+   }):  searchContainer += `      
+   <div class="profile-info1">
+          <p id='no-user'><span class='blink'>Invalid user!!!</span><br>Check the <i>all link icon</i> .
+          </p>
+
+    </div>
+  `;
   
    studentContainer.innerHTML = searchContainer   
 }
