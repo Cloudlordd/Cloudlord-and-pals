@@ -1994,6 +1994,33 @@
                   "projectlink": "https://github.com/stephen498/alt_schoolproject"
                 }
               }
+            },
+            {
+              "id": 48,
+              "stuId": 3993,
+              "name": "Oke Kuburat",
+              "track": "Frontend Engineering",
+              "circle": 44,
+              "img": "https://avatars.githubusercontent.com/u/108573953?s=400&u=fc71fa5b3c6456fc8999ea2402692d6c15d1e21c&v=4",
+              "description": {
+                "intro": "I am an aspiring Web Developer, currently a diploma student of Altschool_Africa",
+                "introdetails": "Student at Altschool Africa . "
+              },
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/kuburat-oke-7490b7205/",
+                "github": "https://github.com/oyinda98",
+                "twitter": "https://twitter.com/KuburatOke",
+                "portfolio": "https://github.com/oyinda98",
+                "slackHandle": "Oke Kuburat"
+              },
+              "project": {
+                "first": {
+                  "projectname": "Redact App",
+                  "projectdescription": "A redact app for people to scrambble words that wants to be hidden",
+                  "projectlink": "https://Redact-App.altlearning.repl.co"
+                }
+                
+              }
             }
       ]
 
