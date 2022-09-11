@@ -156,95 +156,39 @@ console.log(project)
 
 const projects = ()=>{
 
-	const {project:{first, second, third, fourth}} = getData
-	
-	container.innerHTML =`
+   container.innerHTML =`
 
-	<div class="head-title">
-	<div class="left">
-	<h1 href="#">Project</h1>
-		<p>Click on the below link to checkout my works</p>
-		
-	</div>
+   <div class="head-title">
+   <div class="left">
+   <h1 href="#">Project</h1>
+      <p>Click on the below link to checkout my works</p>
+      
+   </div>
+   
+   </div>
+   
+   <div class="project-box">
+   </div>
+   
+   `
+   const divProjectBox = document.querySelector(".project-box")
+   const projectObject = Object.values({ ...getData.project });
+   projectObject.forEach(item => {
+      const divElement = document.createElement("div");
+      divElement.innerHTML = `
 	
-	</div>
-	
-	<div class="project-box">
-	
-	
-	<div>
-	
-				 
 						<span class="text">
-							<h3>${first.projectname}</h3>
+							<h3>${item.projectname}</h3>
 							
 						</span>
 
-						<p class="project-description">${first.projectdescription} </p>
-						<a href=${first.projectlink} target =_blank> ${first.projectname}
+						<p class="project-description">${item.projectdescription} </p>
+						<a href=${item.projectlink} target =_blank> ${item.projectname}
 						</a>
-	               
-					</div>
+	               `;
+      divProjectBox.appendChild(divElement);
+    })
 	
-					<div>
-	
-				 
-						<span class="text">
-							<h3>${second.projectname}</h3>
-							
-						</span>
-
-						<p class="project-description">${second.projectdescription} </p>
-						<a href=${second.projectlink} target =_blank> ${second.projectname}
-						</a>
-	               
-					</div>
-
-					<div>
-	
-				 
-						<span class="text">
-							<h3>${third.projectname}</h3>
-							
-						</span>
-
-						<p class="project-description">${third.projectdescription} </p>
-						<a href=${third.projectlink} target =_blank> ${third.projectname}
-						</a>
-	               
-					</div>
-
-					<div>
-	
-				 
-						<span class="text">
-							<h3>${fourth.projectname}</h3>
-							
-						</span>
-
-						<p class="project-description">${fourth.projectdescription} </p>
-						<a href=${fourth.projectlink} target =_blank> ${fourth.projectname}
-						</a>
-	               
-					</div>
-
-					<div>
-	
-				 
-						<span class="text">
-							<h3>Linkedin</h3>
-							
-						</span>
-
-						<p class="project-description">lorem ipsum </p>
-						<a href="" target =_blank> Forbes.com
-						</a>
-	            
-					</div>
-					
-	</div>
-	
-	`
 	container.classList.remove("container-style")
 }
 
