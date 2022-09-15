@@ -1,8 +1,7 @@
-let body = document.getElementById("body")
+let body = document.getElementById('body')
 
-function checkBack(){
-
-    body.innerHTML+=`
+function checkBack() {
+  body.innerHTML += `
     
     <div class="wrapper">
   <div class="card">

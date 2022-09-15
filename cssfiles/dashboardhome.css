@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap');
 
 * {
   margin: 0;
@@ -15,8 +15,8 @@ li {
 }
 
 :root {
-  --poppins: "Poppins", sans-serif;
-  --lato: "Lato", sans-serif;
+  --poppins: 'Poppins', sans-serif;
+  --lato: 'Lato', sans-serif;
 
   --light: #f9f9f9;
   --blue: #3c91e6;
@@ -122,7 +122,7 @@ body {
   position: relative;
 }
 #sidebar .side-menu li.active::before {
-  content: "";
+  content: '';
   position: absolute;
   width: 40px;
   height: 40px;
@@ -133,7 +133,7 @@ body {
   z-index: -1;
 }
 #sidebar .side-menu li.active::after {
-  content: "";
+  content: '';
   position: absolute;
   width: 40px;
   height: 40px;
@@ -212,7 +212,7 @@ body {
   padding-left: 0;
 }
 #content nav::before {
-  content: "";
+  content: '';
   position: absolute;
   width: 40px;
   height: 40px;
