@@ -177,9 +177,9 @@ footer .social-media a{
 		width: auto;
 		justify-content: center;
 	}
-	.logo img{
+	/* .logo img{
 		width: 30%;
-	}
+	} */
 	nav .links {
 		float: none;
 		position: fixed;
