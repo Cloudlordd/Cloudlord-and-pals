@@ -2003,6 +2003,56 @@
                         "projectlink": "https://Redact-App.altlearning.repl.co"
                     }
                 }
+            },
+            {
+              "id": 49,
+              "stuId": 1597,
+              "name": " Moyinoluwa Adelowo",
+              "track": "Backend Engineering",
+              "circle": 25,
+              "img": "https://avatars.githubusercontent.com/u/104604245?v=4",
+          
+              "description": {
+                "intro": "I love taking up difficult challenges and solving it. I excel at problem solving and time management. I enjoy watching movies and listening to music when I'm free.",
+                "introdetails": "I'm a Software Engineer and an Aspiring Fulltack developer developer who is currently a student at Altschool: School of Engineering."
+              },
+          
+              "socialmedia": {
+                "linkedin": "https://www.linkedin.com/in/moyinoluwa-adelowo-675565239/",
+                "github": "https://github.com/Moyinoluwa-10",
+                "twitter": "https://twitter.com/AdelowoMoyin",
+                "portfolio": "",
+                "slackHandle": "Moyinoluwa"
+              },
+          
+              "experience": {
+               
+              },
+          
+              "project": {
+                "first": {
+                  "projectname": "Barter Clone",
+                  "projectdescription": "I and a team built a responsive clone of the barter.me landing page, student ambassador page, login page and sign up page. This project was given to my group during a bootcamp I registered for. Though it was a bit challenging, we were able to work together to achieve the desired result .",
+                  "projectlink": "https://barter-clone-233.netlify.app/"
+                },
+                "second": {
+                  "projectname": "Quiz App",
+                  "projectdescription": "A codedamn challenge to build a quiz app with some functions",
+                  "projectlink": "https://quiz-app-204.netlify.app/"
+                },
+          
+                "third": {
+                  "projectname": "",
+                  "projectdescription": " ",
+                  "projectlink": ""
+                },
+          
+                "education": {
+                  "first": "University of Ibadan",
+                  "second": "AltSchool Africa School of Engineering.",
+                  "third": ""
+                }
+              }
             }
         ]
     }
