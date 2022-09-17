@@ -2028,7 +2028,12 @@
               "experience": {
                
               },
-          
+                 "education": {
+                  "first": "University of Ibadan",
+                  "second": "AltSchool Africa School of Engineering.",
+                  "third": ""
+                },
+                
               "project": {
                 "first": {
                   "projectname": "Barter Clone",
@@ -2039,13 +2044,6 @@
                   "projectname": "Quiz App",
                   "projectdescription": "A codedamn challenge to build a quiz app with some functions",
                   "projectlink": "https://quiz-app-204.netlify.app/"
-                }
-                },
-          
-                "education": {
-                  "first": "University of Ibadan",
-                  "second": "AltSchool Africa School of Engineering.",
-                  "third": ""
                 }
               }
             }
