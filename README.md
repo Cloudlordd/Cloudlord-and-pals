@@ -171,7 +171,7 @@ Creates this
                     "projectlink":"https://savethenextjambites.netlify.app/"
                 }
              }
-        },
+        }
 
 
 
