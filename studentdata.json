@@ -2046,7 +2046,55 @@
                   "projectlink": "https://quiz-app-204.netlify.app/"
                 }
               }
-            }
+            },
+            {
+                "id": 50,
+                "stuId": 2019,
+                "name": "Farhan Ali",
+                "track": "Full Stack Developement",
+                "circle": 20,
+                "img": "https://avatars.githubusercontent.com/u/109536970?s=400&u=a72cb316cb4802f9e0555cd5181df583af620c97&v=4",
+            
+                "description": {
+                  "intro": "I love to code, Read and learn new things especially in the field of technology so that I can become a better version of myself",
+                  "introdetails": "I'm a Currently a Student Majoring in Computer Science at National University of Computer and Emerging Sciences, Pakistan and I am Aspiring to become a Fullstack developer, Currently I am learning and working in React, ReactNative and Node"
+                },
+            
+                "socialmedia": {
+                  "linkedin": "https://www.linkedin.com/in/farhan-ali-87b98522b/",
+                  "github": "https://github.com/Farhan-Ali2002",
+                  "twitter": "https://twitter.com/Farhan__2002",
+                  "portfolio": "",
+                  "slackHandle": "p200019 Farhan Ali"
+                },
+            
+                "experience": {
+  
+                },
+                  "education": {
+                    "first": "Islamia College Peshawar",
+                    "second": "National University of Computer and Emerging Sciences",
+                    "third": ""
+                  },
+                  
+                "project": {
+                  "first": {
+                    "projectname": "GamingZone management system",
+                    "projectdescription": "Me and my fellow built a gamingzone management system web app using react, Node and express. It was a part of our University project. It was quite challenging because we were using react for the very first time but we managed to complete it on time and learned alot of new things",
+                    "projectlink": "https://github.com/Farhan-Ali2002/GaminZone-management-systen"
+                  },
+                  "second": {
+                    "projectname": "KFC-clone",
+                    "projectdescription": "After a completing my first project in react I decided to dive deep into the react world so I created a kfc website clone with react, node and bootstrap. Also connected it with mysql DB for fetching images to make it dynamic",
+                    "projectlink": "https://github.com/Farhan-Ali2002/kfc-clone"
+                  },
+                  "third": {
+                    "projectname": "Simple TODO APP",
+                    "projectdescription": "Created a Simple TODO APP in React Native and learned alot of things about app developement",
+                    "projectlink": "https://github.com/Farhan-Ali2002/TODO-App"
+                  }
+                }
+              }
         ]
     }
 }
