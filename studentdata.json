@@ -2046,6 +2046,62 @@
                   "projectlink": "https://quiz-app-204.netlify.app/"
                 }
               }
+            },
+
+            {
+              "id": 34,
+              "stuId": "4197",
+              "name": "Peace Onyekachi",
+              "track": "Backend Engineering",
+              "circle": 48,
+              "img": "https://avatars.githubusercontent.com/u/38101674?v=4",
+      
+              "description": {
+                "intro": "I am an intelligent young lady with an attitude of an overcomer. I must conquer all that is set on my path in other to become An Extraordinary mummy.",
+                "intro-details": "Grades does not reflect who you are as a learner, but where you are in your learning journey. Where is ALWAYS temporay!"
+              },
+      
+              "socialmedia": {
+                "linkedin":"https://linkedin.com/in/peace-onyekachi-09018775",
+                "github": "https://github.com/Code-Ebullient",
+                "twitter": "https://twitter.com/ofodile_peace",
+                "portfolio": "https://sites.google.com/view/newchassis/portfolio",
+                "slackHandle": "Peace Onyekachi"
+              },
+
+              "project": {
+                "first": {
+                  "projectname": "Passenger App",
+                  "projectdescription": "This is a simple passenger counter app on my Frontend path with Scrimmba",
+                  "projectlink": "https://github.com/Code-Ebullient/scrim-passenger-app"
+                },
+      
+                "second": {
+                  "projectname": "Business Card",
+                  "projectdescription": "A Simple Business Card with html/css",
+                  "projectlink": "https://github.com/Code-Ebullient/scrimba-business-card"
+                },
+      
+                "third": {
+                  "projectname": "Basketball Score Board",
+                  "projectdescription": "A basketball scoreboard with html/css and javascript",
+                  "projectlink": "https://github.com/Code-Ebullient/basketball_scoreboard"
+                },
+      
+                "fourth": {
+                  "projectname": "login page",
+                  "projectdescription": "A simple banking management system built with python",
+                  "projectlink": "https://github.com/Code-Ebullient/snbank"
+                }
+              },
+      
+              "education": {
+                "first": "Abia State Polytechnic, Aba",
+                "second":"w3Schools / Freecodecamp",
+                "third": "HNG/Zuri",
+                "fourth": "Scrimba",
+                "fifth": "AltSchool of Engineering"
+              }
             }
         ]
     }
