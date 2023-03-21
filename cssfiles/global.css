@@ -84,7 +84,12 @@ nav .icon-burger .line {
 	transition: all .3s ease-in-out;
 }
 
-
+.fa-twitter,.fa-instagram,.fa-linkedin{
+    transition: 0.5s;
+}
+.fa-twitter:hover,.fa-instagram:hover,.fa-linkedin:hover{
+    transform: scale(1.2);
+}
 
 /*  */
  #contribution-link {
@@ -172,9 +177,9 @@ footer .social-media a{
 		width: auto;
 		justify-content: center;
 	}
-	.logo img{
+	/* .logo img{
 		width: 30%;
-	}
+	} */
 	nav .links {
 		float: none;
 		position: fixed;

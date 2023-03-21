@@ -1,4 +1,8 @@
-# Student Profile Dashboard
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# AltSchool Africa Student Profile Dashboard
 Open-source stands for being transparent, sharing, and contributing to others’ projects to improve them or to modify them for your own. In any case, the essence of open-source is a large community of contributors. Please help us make this a massive project by contributing. You can also read through this file to learn how to make your contribution count. 
 
 
@@ -34,7 +38,7 @@ You don’t have to become a lifelong contributor to enjoy participating in open
 
 - Click the green Clone button and then copy the HTTPS URL
 
-- Using Git on your local machine, clone your fork using the URL you just copied i.e git clone https://github.com/Cloudlordd/Cloudlord-and-pals.git.
+- Using Git on your local machine, clone your fork using the URL you just copied i.e git clone THE URL YOU FORKED INTO YOUR ACCOUNT
 
 -  Navigate to your local repository i.e cd Cloudlord-and-pals
 
@@ -75,7 +79,7 @@ Below are the listed features implemented
 -->
 > **Uploading of profile** 
 
-> **Search functionally =>**. i.e you can search with one of the followings: studentid, name and circle number
+> **Search functionally =>**. i.e you can search with one of the followings: Student ID, name and circle number
 
 > **Button for different tracks =>**  When a particular track button is clicked, it displays all the students in that track.
 
@@ -167,7 +171,7 @@ Creates this
                     "projectlink":"https://savethenextjambites.netlify.app/"
                 }
              }
-        },
+        }
 
 
 

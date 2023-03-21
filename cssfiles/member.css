@@ -1,37 +1,69 @@
-aside{
-     padding: 5% 12%;
-    background-color: #000;
-    /* background-image: radial-gradient(#fff 10%, transparent 11%), radial-gradient(#fff 10%, transparent 11%); */
-    background-size: 60px 60px;
-    background-position: 0 0, 30px 30px;
-    /* margin-bottom: 10%; */
-    margin-top:6em;
+aside {
+  padding: 5% 12%;
+  background-color: #000;
+  /* background-image: radial-gradient(#fff 10%, transparent 11%), radial-gradient(#fff 10%, transparent 11%); */
+  background-size: 60px 60px;
+  background-position: 0 0, 30px 30px;
+  /* margin-bottom: 10%; */
+  margin-top: 6em;
 
-    
-    
-    /* background-color: white; */
-
+  /* background-color: white; */
 }
-.title{
-    text-align: center;
-    background-color: rgb(255, 255, 255);
-    box-shadow: 8px 10px 0px 4px rgba(255, 255, 255, 0.84);
-    color: rgb(0, 0, 0);
-    font-size: 30px;
-    word-spacing: 0.2em;
-    text-transform: uppercase;
-    
+.title {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 8px 10px 0px 4px rgba(255, 255, 255, 0.84);
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  word-spacing: 0.2em;
+  text-transform: uppercase;
 }
-.track-section{
+.track-section {
   display: flex;
   justify-content: space-between;
   gap: 10px;
   flex-wrap: wrap;
 }
+.profile-info1 {
+  margin-top: 10%;
+  text-align: center;
+}
+#no-user {
+  font-size: 60px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #fff;
+  color: #000;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.blink {
+  animation: blink 1s steps(1, end) infinite;
+  -webkit-animation: blink 1s steps(1, end) infinite;
+}
+#no-user .blink {
+  font-size: 60px;
+  color: red;
+  font-family: monospace;
+  font-weight: bold;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 
-.track-section button{
-
-  padding:10px 30px;
+.track-section button {
+  padding: 10px 30px;
   border: none;
   font-size: 15px;
   font-weight: 600;
@@ -39,133 +71,122 @@ aside{
   cursor: pointer;
   text-transform: uppercase;
   cursor: pointer;
+  transition: transform 0.5s;
+}
+.track-section button:hover {
+  transform: scale(1.1);
 }
 
-
-
-
-
 /*  */
- form {
-	max-width: 400px;
-	width: 100%;
-	margin-right: auto;
+form {
+  max-width: 400px;
+  width: 100%;
+  margin-right: auto;
   margin-top: 3em;
 }
 form .form-input {
-	display: flex;
-	align-items: center;
-	height: 36px;
+  display: flex;
+  align-items: center;
+  height: 36px;
   gap: 10px;
 }
- form .form-input input {
-	flex-grow: 1;
-	padding: 0 16px;
-	height: 100%;
-	border: none;
-	background: var(--white-color);
-	border-radius: 36px 0 0 36px;
-	outline: none;
-	width: 100%;
-	color: var(--black-color);
+form .form-input input {
+  flex-grow: 1;
+  padding: 0 16px;
+  height: 100%;
+  border: none;
+  background: var(--white-color);
+  border-radius: 36px 0 0 36px;
+  outline: none;
+  width: 100%;
+  color: var(--black-color);
 }
 form .form-input button {
-	width: 36px;
-	height: 100%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	background: var(--white-color);
-	color: var(--black-color);
-	font-size: 18px;
-	border: none;
-	outline: none;
-	border-radius: 0 36px 36px 0;
-	cursor: pointer;
+  width: 36px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--white-color);
+  color: var(--black-color);
+  font-size: 18px;
+  border: none;
+  outline: none;
+  border-radius: 0 36px 36px 0;
+  cursor: pointer;
 }
 
 /*  */
 
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100%;
+}
 
-
-
-   .container{
-      display: flex;
-      justify-content: space-between;
-      align-items: center; 
-      flex-wrap:wrap;
-      height: 100%;
-     
-  }
-   
-.profile-card{
+.profile-card {
   width: 270px;
   height: 330px;
   margin-top: 5%;
-
 }
 
-
-
-.card-content{
-    box-shadow: 0 0 15px rgba(0,0,0,0.1);
-    transition: transform 1s;
-    transform-style: preserve-3d;
-    width: 100%;
-    height: 100%;
+.card-content {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  width: 100%;
+  height: 100%;
 }
 
-.profile-card:hover .card-content{
-    transform: rotateY( 180deg ) ;
+.profile-card:hover .card-content {
+  transform: rotateY(180deg);
   transition: transform 0.5s;
 }
 
-.front-card, .back-card{
+.front-card,
+.back-card {
   position: absolute;
   height: 100%;
   width: 100%;
-  color: #03446A;
+  color: #03446a;
   text-align: center;
   background: #161616;
   backface-visibility: hidden;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
-	text-align: center;
-	z-index: 11;
-	color: #fff;
-	/* text-align: center; */
-	 /* padding: 0px 8px;  */
-	font-size: 25px;
-	border-radius: 15px;
-  border-top: 5px solid rgba(255,255,255,0.5);
-	border-left: 5px solid rgba(255,255,255,0.5);
- 	border-top: 1px solid rgba(255,255,255,0.95); 
-  background: rgba(255,255,255,0.2);
-	backdrop-filter: blur(5px);	
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 11;
+  color: #fff;
+  /* text-align: center; */
+  /* padding: 0px 8px;  */
+  font-size: 25px;
+  border-radius: 15px;
+  border-top: 5px solid rgba(255, 255, 255, 0.5);
+  border-left: 5px solid rgba(255, 255, 255, 0.5);
+  border-top: 1px solid rgba(255, 255, 255, 0.95);
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(5px);
   display: flex;
   justify-content: center;
   flex-direction: column;
-  
-  
 }
 
+.container img[src] {
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+}
 
-
-
-.container img[src]{
-    width: 8rem;
-    height: 8rem;
-    border-radius: 50%;
-} 
-
-.profile-info{
+.profile-info {
   margin-top: 10%;
   text-align: justify;
 }
-.profile-info p{
+.profile-info p {
   font-size: 17px;
   font-weight: 400;
   /* text-align: justify; */
-  padding:8px 0
+  padding: 8px 0;
 }
 
 .profile-info p span {
@@ -180,28 +201,30 @@ form .form-input button {
 .back-card {
   background: #fff;
   color: #000;
-  transform: rotateY( 180deg );
-  padding:5% ;
+  transform: rotateY(180deg);
+  padding: 5%;
   display: flex;
   justify-content: space-between;
 }
-.introduction p{
-   font-size: 15px;
-   line-height: 1.3;
+.introduction p {
+  font-size: 15px;
+  line-height: 1.3;
+  max-height: 180px;
+  overflow: auto;
 }
-.intro-title{
-margin: auto;
-font-weight: 600;
-margin-bottom: 15px;
-background-color: #000;
-color: #fff;
-text-transform: uppercase;
-border-radius: 5px;
-text-align: center;
-
+.introduction .intro-title {
+  margin: auto;
+  font-weight: 600;
+  margin-bottom: 15px;
+  background-color: #000;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 5px;
+  text-align: center;
+  overflow: hidden;
 }
 
-.back-card button{
+.back-card button {
   padding: 5px 7px;
   background-color: #000;
   color: #fff;
@@ -210,38 +233,32 @@ text-align: center;
   cursor: pointer;
 }
 
-.social-media{
+.social-media {
   display: flex;
- justify-content:space-between; 
+  justify-content: space-between;
   background-color: #000;
   border-radius: 5px;
   padding: 0 5px;
-  
-  
-  
 }
-.social-media a i{
+.social-media a i {
   color: #fff;
   font-size: 20px;
   /* padding: 0 7px; */
-  
 }
 
-.social-media #media-link{
+.social-media #media-link {
   color: #000;
 }
 
 /*  */
 
-
-@media(max-width:500px){
-  .title{
-    font-size:15px;
+@media (max-width: 500px) {
+  .title {
+    font-size: 15px;
     margin-bottom: 15px;
-}
+  }
 
-.profile-card{
-   margin-top: 4em;
-
-}
+  .profile-card {
+    margin-top: 4em;
+  }
 }

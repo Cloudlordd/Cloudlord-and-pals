@@ -1,0 +1,20 @@
+footer p{
+    animation-name: slide;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    margin-left: 0;
+   
+}
+@keyframes slide{
+    from{
+        margin-left: 0;
+
+    }
+    to{
+        margin-left: 200px;
+    }
+}
+.animation-point{
+    flex: 1;
+}
