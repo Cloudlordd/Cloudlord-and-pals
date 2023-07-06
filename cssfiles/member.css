@@ -250,6 +250,15 @@ form .form-input button {
   color: #000;
 }
 
+.active {
+  background-color: #cecece;
+  opacity: 0.75;
+}
+
+.hide {
+  display: none;
+}
+
 /*  */
 
 @media (max-width: 500px) {
